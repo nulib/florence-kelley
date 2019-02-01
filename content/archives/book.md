@@ -1,0 +1,68 @@
+---
+title: "Book/Book Excerpt"
+permalink: /archives/book
+---
+
+### Book/Book Excerpt
+
+---
+Year | Title
+--- | ---
+2007 | [History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)](2007. Pierce, Bessie Louise. University of Chicago Press Copyright 2007 University of Chicago Press.)
+1929 | [A History of Illinois Labor Legislation](1929. Beckner, Earl R.. University of Chicago Press Copyright 1929 University of Chicago Press.)
+1900 | [A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens](1900 . Inter Ocean.)
+1893 | [Annual Convention of the International Association of Factory Inspectors](1893.)
+1890 | [Annual Reports of the Jewish Training School 1890](1890. Jewish Training School, Chicago.)
+1891 | [Annual Reports of the Jewish Training School 1891](1891. Jewish Training School, Chicago.)
+1892 | [Annual Reports of the Jewish Training School 1892](1892. Jewish Training School, Chicago.)
+1893 | [Annual Reports of the Jewish Training School 1893](1893. Jewish Training School, Chicago.)
+1894 | [Annual Reports of the Jewish Training School 1894](1894. Jewish Training School, Chicago.)
+1895 | [Annual Reports of the Jewish Training School 1895](1895. Jewish Training School, Chicago. Credit: Government Documents Department of Northwestern University Libraries.)
+1896 | [Annual Reports of the Jewish Training School 1896](1896. Jewish Training School, Chicago.)
+1897 | [Annual Reports of the Jewish Training School 1897](1897. Jewish Training School, Chicago.)
+1899 | [Annual Reports of the Jewish Training School 1899](1899. Jewish Training School, Chicago.)
+1900 | [Annual Reports of the Jewish Training School 1900](1900. Jewish Training School, Chicago.)
+1933 | [As Others See Chicago: Impressions of Visitors, 1673-1933](1933 . Pierce, Bessie Louise. University of Chicago Press Copyright 1933 University of Chicago Press.)
+1895 | [Carter Henry Harrison: A Memoir](1895. Abbot, Willis John .)
+1920 | [Centennial History of Illinois: vol. 5 (The Modern Commonwealth, 1893-1918)](1920. Bogart, Ernest Ludlow and Mattews, John Malory. A.C. McClurg.)
+1905 | [Centennial History of the City of Chicago: Its Men and Institutions](1905.)
+1984 | [Chicago and the American Literary Imagination, 1880-1920](1984. Smith, Carl S..)
+1938 | [Eagle Forgotten: The Life of John Peter Altgeld](1938. Barnard, Harry.)
+1900 | [Examination Questions/Northwestern University School of Law](1900. Harvey B. Hurd.)
+1995 | [Florence Kelley and the Nation's Work](1995. Kathryn Kish Sklar.)
+1966 | [Florence Kelley: The Making of a Social Pioneer](1966. Blumberg, Dorothy Rose. Due diligence exercised. The creators of this web site exercised due diligence in seeking to identify copyright holders and, where necessary, to obtain permission for all copyrighted works included on this web site. If the original publisher no longer exists or could not be located, we assumed the author's heirs were the copyright holders, absent information to the contrary. Where permission from a known copyright holder was expressly granted, the party granting permission has been credited..)
+1895 | [Hull House Maps and Papers](1895. Hull House.)
+1894 | [If Christ Came to Chicago](1894. Stead, William.)
+1951 | [John Peter Altgeld: A Spokesman for Democracy](1951. Woodbridge, Dana Mather.)
+1879 | [Letters from Europe](1879. Kelley, William Darrah.)
+1927 | [Levy Mayer and the New Industrial Era](1927. Masters, Edgar Lee.)
+1890 | [Live Questions: Including Our Penal Machinery and Its Victims](1890. Altgeld, John P..)
+1888 | [Looking backward, 2000-1887](1888. Bellamy, Edward.)
+1903 | [Moran's Dictionary of Chicago a1888. Bellamy, Edward.nd Its Vicinity](1903. Moran, George E.. G.E. Moran.)
+1986 | [Notes of Sixty Years: the Autobiography of Florence Kelley (with notes by Kathryn Kish Sklar)](1986. Kelley, Florence. Illinois Labor History Society.)
+1926 | [NU School of Law Description of New Bldgs](1926. Northwestern University. Courtesy Northwestern University Archives..)
+1889 | [Our Toiling Children](1889. Kelley, Florence. Source/Publisher: Woman's Temperance Publication Association.)
+1886 | [Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887](1886. Bennett, Fremont O.. Blakely Printing Co..)
+1896 | [Proceedings of 23rd National Conference on Charities & Correction](1896. Isabel C. Barrows.)
+1881 | [Progress and Poverty: An Inquiry into the Cause of Industrial�](1881. George, Henry. Appleton & Co..)
+1887 | [Sarahs Choice](1887. Altgeld, Emma Ford.)
+1917 | [Sister Carrie](1917. Dreiser, Theodore. Modern Library.)
+1905 | [Some Ethical Gains Through Legislation](1905. Kelley, Florence. Macmillan & Co..)
+1892 | [The Condition of the Working Class in England in 1844](1892. Engels, Frederick.)
+1904 | [The Cost of Something for Nothing](1904. Altgeld, John P.. Hammersmark Publishing Co..)
+1912 | [The Delinquent Child and the Home](1912. Breckinridge, Sophonisba and Abbott, Edith. Charities Publication Committee.)
+1925 | [The Financier](1925. Dreiser, Theodore. Boni & Liveright.)
+1888 | [The Old South and the New](1888. Kelley, William D.. G.P. Putnam.)
+1942 | [The Pullman Strike : the Story of a Unique Experiment and of a Great Labor Upheaval](1942. Lindsey, Almont. University of Chicago Press Copyright 1942 University of Chicago Press.)
+1999 | [The Reason Why the Colored American is Not in the World's Columbian Exposition](1999. Wells, Ida et al.. Credit University of Illinois Press.)
+1894 | [The Relation of Women to Municipal Reform](1894 . Mumford, Mary Eno Bassett. Conference for the Good City Government.)
+1936 | [The Tenements of Chicago, 1908-1935](1936. Abbott, Edith.)
+1917 | [The Workers: an Experiment in Reality: The West](1917. Wyckoff, Walter A.. C. Scribner's Sons.)
+1917 | [Truancy and Non-Attendance in the Chicago Schools: A Study of the Social Aspects of the Compulsory Education and Child Labor Legislation of Illinois](1917. Abbott, Edith & Breckinridge, Sophonisba P.. University of Chicago Press Copyright 1917 University of Chicago Press.)
+1938 | [Twenty Years at Hull House](1938. Addams, Jane .)
+1933 | [Vice in Chicago](1933. Reckless, Walter C.. University of Chicago Press Copyright 1933 University of Chicago Press.)
+1894 | [Wealth Against Commonwealth](1894. Lloyd, Henry Demarest.)
+1988 | [Women Adrift: Independent Wage Earners in Chicago, 1880-1930](1988. Meyerowitz, Joanne J.. University of Chicago Press Copyright 1988 University of Chicago Press.)
+1910 | [Women In Industry: A Study in Economic History](1910. Abbott, Edith. D. Appleton & Co..)
+
+---
