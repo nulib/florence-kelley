@@ -19,10 +19,10 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
   twitter = "twitter" # Optional, to display link to twitter account in menu bar
 
 [[menu.main]]
-  name = "About"
+  name = "Florence Kelley"
   weight = 1
-	 identifier = "about"
-  url = "/about/"
+	 identifier = "florence"
+  url = "/florence/"
 
 [[menu.main]]
   name = "Archives"
@@ -31,7 +31,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
   url = "/archives/"
 
 [[menu.main]]
-  name = "Legal"
+  name = "Historical Context"
   weight = 3
-	 identifier = "posts"
-  url = "/legal/"
+	 identifier = "historical"
+  url = "/historical/"
