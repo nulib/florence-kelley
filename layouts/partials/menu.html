@@ -1,0 +1,45 @@
+<script src="/js/menu.js"></script>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="{{.Site.BaseURL | relURL}}">
+      <h1>Homicide in Chicago 1870-1930</h1>
+    </a>
+    <a role="button" class="navbar-burger " data-target="navMenu"  aria-label="menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </a>
+  </div>
+
+  <div class="navbar-menu" id="navMenu">
+
+    <div class="navbar-end">
+
+      {{- $currentPage := . }}
+      {{- range .Site.Menus.main }}
+      	{{- if .HasChildren }}
+      	<div class="navbar-item has-dropdown is-hoverable">
+      		{{ template "navbar-link" . -}}
+      		<div class="navbar-dropdown">
+      			{{- range .Children -}}
+      			{{ template "navbar-item" . }}
+      			{{- end -}}
+      		</div>
+      	</div>
+      	{{- else -}}
+      		{{ template "navbar-item" . }}
+      	{{- end -}}
+      {{- end -}}
+
+      {{ define "navbar-item" }}
+      	<a class="navbar-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
+      {{ end }}
+
+      {{ define "navbar-link" }}
+      	<a class="navbar-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+      {{ end }}
+
+    </div>
+  </div>
+</nav>
