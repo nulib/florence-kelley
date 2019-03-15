@@ -35,3 +35,15 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
   weight = 3
 	 identifier = "historical"
   url = "/historical/"
+
+[[menu.main]]
+  name = "Legal Context"
+  weight = 4
+	 identifier = "legal"
+  url = "/legal/"
+
+[[menu.main]]
+  name = "About"
+  weight = 5
+	 identifier = "about"
+  url = "/about/"
