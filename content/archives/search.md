@@ -1,9 +1,6 @@
 ---
 title: "Search All Documents"
-permalink: /archives/search/
 ---
-
-### Search All Documents
 
 This tool lets you search all pages of all documents.
 
@@ -18,4 +15,4 @@ Title
 Document Type
 Author
 Year to  
-Results 
+Results

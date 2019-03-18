@@ -1,9 +1,6 @@
 ---
 title: "Correspondence"
-permalink: /archives/correspondence/
 ---
-
-### Correspondence
 
 ---
 Year | Title

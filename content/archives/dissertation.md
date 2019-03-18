@@ -1,10 +1,6 @@
 ---
 title: "Dissertation"
-permalink: /court/dissertation/
 ---
-
-### Dissertation
-
 ---
 #### Dissertation
 Year | Title

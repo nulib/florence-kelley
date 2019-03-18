@@ -1,9 +1,6 @@
 ---
 title: "Mayer, Levy"
-permalink: /legal/lawyers/levymayer
 ---
-
-### Mayer, Levy
 
 The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/legal/lawyers/levymayer/#) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.
 
@@ -11,7 +8,7 @@ Levy Mayer was born in Virginia in 1858, the sixth of thirteen children, the son
 
 The Mayer family settled on the Northwestern Plank Road, later Milwaukee Avenue, where Levy Mayer’s father set up a small business. Between the Great Plank Roads were large sections of open prairie. The Plank Roads were literally planks of wood put down over ice and snow, and they ran as spokes to the central hub of the city, the courthouse, city hall, and the business district which grew up around those institutions.
 
-Levy Mayer entered Chicago High School at the corner of Halsted and Monroe Streets before the age of 12, and a special exception was made to admit him at that age. His parents were committed to their children’s education, especially to the education of their gifted son. 
+Levy Mayer entered Chicago High School at the corner of Halsted and Monroe Streets before the age of 12, and a special exception was made to admit him at that age. His parents were committed to their children’s education, especially to the education of their gifted son.
 
 His older brother David had already entered business and supported his younger brother attending Yale College and then Yale Law School, paying his expenses to go there at age 16 in 1874, again succeeding in persuading the institution to waive its requirement that entering students must be 18.
 
@@ -19,9 +16,9 @@ While at Yale the young man wrote voluminous letters, copious notes on his readi
 
 The young man graduated and returned to Chicago in 1877, however he had to wait until he was 21 to be able to practice law, the one time when an age requirement was not waived in his favor. In 1876 school houses were still being used for courts because Chicago had not rebuilt itself after the Fire. Although courts were makeshift, there was plenty of work for lawyers after the Fire. Legal records, tax warrants, deeds, and titles had been burned, and the legal foundation for ownership had to be reestablished. Lawyers from all over the country came to Chicago which was in the middle of a building and economic boom lasting until the 1890's.
 
-Levy Mayer put his temporary disqualification to good use becoming an Assistant Librarian for the Chicago Law Institute, where City Hall and the Office of the County Recorder was put after the Fire. Lawyers who came to the Law Institute were given access to the Library, a desk, and a temporary room accommodation. Levy Mayer’s job was to take care of the rooms, sweep the floor, and help the lawyers find the legal authorities they needed. 
+Levy Mayer put his temporary disqualification to good use becoming an Assistant Librarian for the Chicago Law Institute, where City Hall and the Office of the County Recorder was put after the Fire. Lawyers who came to the Law Institute were given access to the Library, a desk, and a temporary room accommodation. Levy Mayer’s job was to take care of the rooms, sweep the floor, and help the lawyers find the legal authorities they needed.
 
-At this job he was paid $4 a week, and he met and worked with everyone with legal business in Chicago. During his three years there he also prepared a catalog of the Law Institute Library and revised two legal treatises, receiving royalties of $0.25 on every copy sold. In two years 2500 copies were sold. 
+At this job he was paid $4 a week, and he met and worked with everyone with legal business in Chicago. During his three years there he also prepared a catalog of the Law Institute Library and revised two legal treatises, receiving royalties of $0.25 on every copy sold. In two years 2500 copies were sold.
 
 At the time Levy Mayer worked at the Law Institute all of the Reports of the Supreme Court of Illinois numbered only some 75 volumes, and the federal reports were equally inconsiderable. One person could master all of the court reports. In 1876 there were 1025 lawyers in Chicago.
 

@@ -1,9 +1,6 @@
 ---
 title: "Florence Kelley (Authored by or about)"
-permalink: /archives/kelley/
 ---
-
-### Florence Kelley (Authored by or about)
 
 ---
 #### Book/Book excerpt
@@ -12,7 +9,7 @@ Year | Title
 1986 | [Notes of Sixty Years: the Autobiography of Florence Kelley (with notes by Kathryn Kish Sklar)](1986. Kelley, Florence. Illinois Labor History Society.)
 1889 | [Our Toiling Children](1889. Kelley, Florence. Source/Publisher: Woman's Temperance Publication Association.)
 1905 | [Some Ethical Gains Through Legislation](1905. Kelley, Florence. Macmillan & Co..)
- 
+
 #### Correspondence
 Year | Title
 --- | ---
@@ -50,23 +47,23 @@ Year | Title
 1905 | [Maud Nathan to Florence Kelley, Sept. 29, 1905](1905. Florence Kelley Papers Manuscripts and Archives Division The New York Public Library Astor, Lenox and Tilden Foundation.)
 1899 | [Theodore Roosevelt to Florence Kelley, June 2, 1899](1899. Florence Kelley Papers Manuscripts and Archives Division The New York Public Library Astor, Lenox and Tilden Foundation.)
  | [William Harper to Florence Kelley, July 31, 1899](Florence Kelley Papers Manuscripts and Archives Division The New York Public Library Astor, Lenox and Tilden Foundation.)
- 
+
 #### Court document
 Year | Title
 --- | ---
 1909 | [Kelley v. Wischnewetzky: Certificate of Evidence](1909. In March of 1892 Lazare Wischnewetzky brought a habeas corpus action against Florence Kelley Wischnewetzky seeking custody of his three children, Nicholas, Margaret, and John. This was a standard legal action for custody of children. Lazare Wischnewetzky and Florence Kelley Wischnewetzky were ineligible to seek a divorce in Illinois because neither had been resident in the state of Illinois for one year. The habeas corpus was heard by the Honorable Frank Baker of the Circuit Court of Cook County. Custody of the three children was awarded to the mother. These are the court documents from the 1892 legal proceeding..)
- 
+
 #### Dissertation
 Year | Title
 --- | ---
 1882 | [On Some Changes in the Legal Status of the Child Since Blackstone](1882. Kelley, Florence. Courtesy of Cornell University Library Source/Publisher: Cornell University.)
- 
+
 #### Newspaper article
 Year | Title
 --- | ---
 1884 | [Judge Kelley's Daughter Married](1884. New York Times (1857-Current file); Nov 5, 1884; ProQuest Historical Newspapers The New York Times (1851 - 2004) pg. 8.)
 1885 | [A Divorce Asked For (NYT)](1885. New York Times, Aug. 12, 1885, pg. 3 owner: Proquest.)
- 
+
 #### Periodical article
 Year | Title
 --- | ---

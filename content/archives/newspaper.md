@@ -1,9 +1,6 @@
 ---
-title: "Newspaper article" 
-permalink: /archives/newspaper
+title: "Newspaper article"
 ---
-
-### Newspaper article
 
 #### New York Times
 Year | Title
@@ -16,7 +13,7 @@ Year | Title
 1922 | [Obituary: Levy Mayer, Noted Lawyer, Found Dead](1922. New York Times (1857-Current file); Aug 15, 1922; ProQuest Historical Newspapers The New York Times (1851 - 2004) pg. 11.)
 1890 | [Obituary: William D. Kelley](1890. New York Times (1857-Current File); Jan. 10, 1890; ProQuest Historical Newspapers New York Times (1851-2004) pg. 5.)
 1877 | [The Shooting of Judge Kelley's Son](1877. New York Times (1857-Current file); Dec 2, 1877; ProQuest Historical Newspapers The New York Times (1851 - 2004) pg. 9.)
- 
+
 #### Chicago Tribune (ProQuest)
 Year | Title
 --- | ---
@@ -97,7 +94,7 @@ Year | Title
 1894 | [Women Against Eight-Hour Law](1894. Chicago Daily Tribune (1872-1963); Feb 3, 1894; ProQuest Historical Newspapers Chicago Tribune (1849 - 1986) pg. 13.)
 1893 | [Women Factory Inspectors Appointed: Florence Kelley, Alzina Parsons Stevens](1893. Chicago Daily Tribune, July 14, 1893, pg. 3 Proquest.)
 1894 | [Would Smash A Law: Sharp Argument in the Eight-Hour Test Case at Mt. Vernon](1894. Chicago Daily; May 4, 1894; ProQuest Historical Newspapers Chicago Tribune (1849 - 1986) pg. 2.)
- 
+
 #### Daily InterOcean
 Year | Title
 --- | ---
@@ -122,18 +119,18 @@ Year | Title
 1896 | [Says the Laws Are Defective: Miss Florence Kelley, Factory Inspector, Delivers an Address](1896. The Daily Inter Ocean (Chicago, IL) Tuesday, March 03, 1896; pg. 4; Issue 345; col B.)
 1895 | [Sweat Shops Should Go Illinois Factory Inspectors Decidedly Urge Their Abolition](1895. The Daily Inter Ocean (Chicago, IL) Wednesday, February 27, 1895; pg. 5; Issue 340; col C.)
 1893 | [Would Not Correct It: Mrs. Florence Kelley Points Out an Error of the Tribune's](1893. The Daily Inter Ocean (Chicago, IL) Wednesday, November 08, 1893; pg. 5; Issue 227; col B.)
- 
+
 Year | Title
- 
+
 #### Chicago Tribune
 Year | Title
 --- | ---
- 
+
 #### Southern Illinois University Press
 Year | Title
 --- | ---
 2004 | [Grafters and Goo Goos](2004. James L. Merriner.)
- 
+
 #### Washington Post (ProQuest)
 Year | Title
 --- | ---

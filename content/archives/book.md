@@ -3,8 +3,6 @@ title: "Book/Book Excerpt"
 permalink: /archives/book
 ---
 
-### Book/Book Excerpt
-
 ---
 Year | Title
 --- | ---
@@ -64,5 +62,3 @@ Year | Title
 1894 | [Wealth Against Commonwealth](1894. Lloyd, Henry Demarest.)
 1988 | [Women Adrift: Independent Wage Earners in Chicago, 1880-1930](1988. Meyerowitz, Joanne J.. University of Chicago Press Copyright 1988 University of Chicago Press.)
 1910 | [Women In Industry: A Study in Economic History](1910. Abbott, Edith. D. Appleton & Co..)
-
----

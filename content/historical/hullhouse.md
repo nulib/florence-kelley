@@ -1,9 +1,6 @@
 ---
 title: "Hull House Maps and Papers"
-permalink: /historical/hullhouse/
 ---
-
-Hull House Maps and Papers
 
 The book [Hull House Maps and Papers](/historical/hullhouse/#), published in 1895, is a series of essays and statistical information collected by Florence Kelley and her colleagues at Hull House, the settlement house at 335 South Halsted Street.
 
@@ -13,7 +10,7 @@ Although the book presents itself unpretentiously as an occasional collection of
 
 The [spectacular maps](http://homicide.northwestern.edu/pubs/hullhouse/Maps/) are modeled upon similar research on poverty and living conditions in London done by [Charles Booth](https://booth.lse.ac.uk/). The arresting beauty of these maps, and their economy of presentation of detailed information, have made them classics.
 
-The book was published by Thomas Y. Crowell and Co. (Boston) as part of a series on economics and politics, edited by Professor Richard Ely at the University of Wisconsin. 
+The book was published by Thomas Y. Crowell and Co. (Boston) as part of a series on economics and politics, edited by Professor Richard Ely at the University of Wisconsin.
 
 The information in the maps was collected by Florence Kelley, staff of the United States Bureau of Labor under the authority of Carroll D. Wright, and by the residents of Hull House. The information was collected as part of a national study of [The Slums of Baltimore, Chicago, New York and Philadelphia](/historical/hullhouse/#), commissioned by the United States Congress in 1892.
 

@@ -1,13 +1,10 @@
 ---
 title: "Carter, Joseph M."
-permalink: /legal/judges/josephmcarter/
 ---
-
-### Carter, Joseph M.
 
 Joseph N. Carter was born in Hardin County Kentucky on March 3rd, 1843. Little is known of Carter’s early life; however sometime before the outbreak of the Civil War, Carter’s family moved to Illinois. During the war Carter served in the 70th Illinois Infantry as a private. He was only 19 at the time, and after the war ended Carter returned to school.
 
-Carter received his college education from Illinois College in Jacksonville, IL. He graduated in 1866, and then went to the University of Michigan to receive his legal degree. He graduated from the University of Michigan in 1869. The same year he was admitted to the bar in Illinois, and chose to practice in Quincy, Illinois, which would be his home for the rest of his life. 
+Carter received his college education from Illinois College in Jacksonville, IL. He graduated in 1866, and then went to the University of Michigan to receive his legal degree. He graduated from the University of Michigan in 1869. The same year he was admitted to the bar in Illinois, and chose to practice in Quincy, Illinois, which would be his home for the rest of his life.
 
 In Quincy, Carter had a successful career as a lawyer but was also extremely involved in politics. In 1878, Carter was elected to the Illinois State Legislature. He sat on the legislature only until 1888; yet even in this amount of time, Carter was considered a possible candidate for Speaker of the House. He was, however, unable to secure another term in the legislature. In 1892 Carter he was nominated as a candidate for Lt. Governor for Illinois by the Adams County Republican party, but failed to receive the nomination at the state convention.
 

@@ -1,9 +1,6 @@
 ---
 title: "US Congressional Document"
-permalink: /archive/congressional/
 ---
-
-### US Congressional Document
 
 ---
 Year | Title

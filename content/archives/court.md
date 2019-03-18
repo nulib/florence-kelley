@@ -1,9 +1,6 @@
 ---
 title: "Court Documents"
-permalink: /archives/court/
 ---
-
-### Court Documents
 
 #### Ritchie v. People (Illinois Supreme Court) 1895
 The case challenging the constitutionality of the Illinois Factory and Workshop Inspection statute

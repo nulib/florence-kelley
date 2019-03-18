@@ -1,16 +1,8 @@
 ---
 title: "Archives"
-permalink: /archives/
 ---
+You can search each of the 50,000 individual pages in the Archives using the [Search All Documents](/archives/search) tool.
 
-### Archives
-
----
-You can search each of the 50,000 individual pages in the Archives using the [Search All Documents](/archives/search) tool. 
-
----
-
----
 You can also see listings of all documents, organized by **document type**:
 
 * [Book/Book Excerpt](/archives/book)
@@ -23,5 +15,3 @@ You can also see listings of all documents, organized by **document type**:
 * [Periodical Article](/archives/periodical)
 * [Report of the Factory Inspectors of Illinois](/archives/factory)
 * [U.S. Congressional Document](/archives/congressional)
-
----

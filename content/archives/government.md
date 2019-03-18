@@ -1,9 +1,6 @@
 ---
-title: "Government Documents - Illinois, Chicago, other" 
-permalink: /archives/government/
+title: "Government Documents - Illinois, Chicago, other"
 ---
-
-### Government Documents - Illinois, Chicago, other
 
 ---
 #### United States Government Printing Office
@@ -11,9 +8,9 @@ Year | Title
 --- | ---
 1896 | [1890 Census: Report On Vital & Social Statistics in the U.S](1896. U.S.Census Office.)
 1910 | [Report on Condition of Woman and Child Wage-Earners in the United States; Volume IX](1910. Washington Government Printing Office 1910, Courtesy LexisNexis Congressional.)
- 
+
 Year	Title
- 
+
 #### State of Illinois
 Year | Title
 --- | ---
@@ -26,14 +23,14 @@ Year | Title
 1895 | [Report of the Illinois Bureau of Labor Statistics - 1894 - 8th Biennial](1895.)
 1897 | [Report of the Illinois Bureau of Labor Statistics - 1896 - 9th Biennial](1897.)
 1899 | [Report of the Illinois Bureau of Labor Statistics - 1898 - 10th Biennial](1899.)
- 
+
 #### City of Chicago
 Year | Title
 --- | ---
 1893 | [Annual Report of the Department of Health of the City of Chicago 1893](1893 . Chicago (IL) Department of Health.)
 1894 | [Annual Report of the Department of Health of the City of Chicago 1894](1894 . Chicago (IL) Department of Health.)
 1896 | [Biennial Report of the Department of Health of the City of Chicago 1895-96](1896 . Credit: Courtesy of the Galter Health Sciences Library, Special Collections.)
- 
+
 #### State of New York
 Year | Title
 --- | ---

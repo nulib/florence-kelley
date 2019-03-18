@@ -1,9 +1,6 @@
 ---
 title: "Timeline"
-permalink: /historical/timeline/
 ---
-
-### Timeline
 
 Date | Description
 :---: | :---

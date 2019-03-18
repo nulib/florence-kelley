@@ -1,9 +1,6 @@
 ---
 title: "Spring - Summer 1892: Working in the Tenements of the 19th Ward"
-permalink: /florence/inspector/
 ---
-
-### Spring - Summer 1892: Working in the Tenements of the 19th Ward
 
 When Florence Kelley was settled at Hull House, after the *habeas corpus* hearings in March of 1892, when custody of her children had been awarded to her by the court and the children were settled temporarily in Winnetka, she needed to find paid employment. Dues were not high at Hull House, ($20 per month for room and board) but there was a charge, and Florence Kelley was determined to pay her own way.
 
@@ -25,10 +22,10 @@ The Illinois Factory Inspection Law was not the first factory inspection law to 
 
 Illinois had adopted an eight hour law in 1867, but it was never enforced and had a provision which limited its general applicability.  The National Labor Union called for equal pay for women in 1869 and 1870. The idea of women’s equality and equal pay for women was not novel.  When he was in Congress, Florence Kelley’s father, [William Darrah Kelley](/florence/father/) regularly introduced legislation granting women the vote.  Nor was Florence Kelley the first female factory inspector. The City of Chicago had sent out factory inspectors prior to Florence Kelley’s arrival in Chicago.
 
-Immediately before Florence Kelley’s arrival in Chicago a Special Report had been published, written by Mrs. Thomas Morgan, titled, “The New Slavery: Investigation into the Sweating System” (October 1891). Soon after her arrival, in May of 1892, Florence Kelley and members of the Chicago Women’s Club and the Illinois Women’s Alliance pressed the City Council for [new schools](1892. The Daily Inter Ocean (Chicago, IL), Monday, May 23, 1892; Issue 60; col. E.) to be built in the slums. Throughout Florence Kelley’s time in Chicago she and her many allies were continuously putting pressure on the City Council and other governmental bodies to improve the living and working conditions for women and children in the tenements. 
+Immediately before Florence Kelley’s arrival in Chicago a Special Report had been published, written by Mrs. Thomas Morgan, titled, “The New Slavery: Investigation into the Sweating System” (October 1891). Soon after her arrival, in May of 1892, Florence Kelley and members of the Chicago Women’s Club and the Illinois Women’s Alliance pressed the City Council for [new schools](1892. The Daily Inter Ocean (Chicago, IL), Monday, May 23, 1892; Issue 60; col. E.) to be built in the slums. Throughout Florence Kelley’s time in Chicago she and her many allies were continuously putting pressure on the City Council and other governmental bodies to improve the living and working conditions for women and children in the tenements.
 
-Later Florence Kelley and others took the [census](1896. U.S.Census Office.) figures for school aged children in the Nineteenth Ward and compared them with the actual number of public school places for children in the Nineteenth Ward. The number 30,000 was declared as an estimate of the number of children who should have been in school but for whom there were no places or schools built. 
+Later Florence Kelley and others took the [census](1896. U.S.Census Office.) figures for school aged children in the Nineteenth Ward and compared them with the actual number of public school places for children in the Nineteenth Ward. The number 30,000 was declared as an estimate of the number of children who should have been in school but for whom there were no places or schools built.
 
-Even though there was precedent in other states, when Illinois adopted the Factory Inspection Statute in 1893, it was nonetheless path breaking legislation. The Illinois legislation became more influential when enforcement under the statute began with the support of the state administration and Governor, John Peter Altgeld, and when a person, Florence Kelley, was appointed as the new Factory Inspector, a person who was trained, ready and eager to enforce the new law. 
+Even though there was precedent in other states, when Illinois adopted the Factory Inspection Statute in 1893, it was nonetheless path breaking legislation. The Illinois legislation became more influential when enforcement under the statute began with the support of the state administration and Governor, John Peter Altgeld, and when a person, Florence Kelley, was appointed as the new Factory Inspector, a person who was trained, ready and eager to enforce the new law.
 
 next:  [Spring - Summer 1894](/florence/1894/)

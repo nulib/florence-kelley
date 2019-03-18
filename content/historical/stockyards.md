@@ -1,9 +1,6 @@
 ---
 title: "The Stockyards"
-permalink: /historical/stockyards/
 ---
-
-### The Stockyards
 
 Chronicled in historical accounts, photographs, novels, and newspapers, the stockyards were the icon and essence of 1890’s Chicago – [Hog butcher for the world](/documentbrowser/?nodeid=57244&page=39) The hub of the new transnational railroad system, the stockyards were where animals – cattle, sheep, pigs – were brought to wait to be slaughtered in of the great [meat processing plants](http://www.encyclopedia.chicagohistory.org/pages/804.html), named after the families whose fortunes they made. The stockyards became themselves the symbol of the engine of economic growth and its excesses.
 

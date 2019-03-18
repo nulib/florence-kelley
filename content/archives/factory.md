@@ -1,10 +1,5 @@
 ---
 title: "Report of the Factory Inspectors of Illinois"
-permalink: /archives/factory/
----
-
-### Report of the Factory Inspectors of Illinois
-
 ---
 Year | Title
 --- | ---

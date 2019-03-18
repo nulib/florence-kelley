@@ -1,9 +1,6 @@
 ---
 title: "The Iroquois Theatre Fire"
-permalink: /historical/iroquois/
 ---
-
-### The Iroquois Theatre Fire
 
 On December 30, 1903 in the afternoon 575 people – hundreds of young children and their mothers who had come to see Eddie Foy in a holiday matinee – died when flames, fumes, smoke and explosions rocketed from the stage of the Iroquois Theatre. Then a thin blue mist and great volumes of grey cloud engulfed the audience. Many died in their seats, others were trampled on their way to the exits.
 

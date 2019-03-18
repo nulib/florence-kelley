@@ -1,10 +1,5 @@
 ---
 title: "Periodical article"
-permalink: /archives/periodical/
----
-
-### Periodical article
-
 ---
 #### American Journal of Sociology
 Year | Title
@@ -15,7 +10,7 @@ Year | Title
 1898 | [The Illinois Child-Labor Law](1898. Kelley, Florence. 3 American Journal of Sociology 490-501.)
 1898 | [The United States Supreme Court and the Utah Eight-Hours' Law](1898. Kelley, Florence. 4 American Journal of Sociology 21-34.)
 1896 | [The Working Boy](1896. Kelley, Florence. 2 American Journal of Sociology 490-501.)
- 
+
 #### Annals of the American Academy of Political and Social Science
 Year | Title
 --- | ---
@@ -36,7 +31,7 @@ Year | Title
 1908 | [The Responsibility of the Consumer](1908. Kelley, Florence. 32-Supp. 22 Annals of the American Academy of Political and Social Science 108-112 (Jul. 1908).)
 1911 | [What Should We Sacrifice for Uniformity?](1911. Kelley, Florence. 38-Supp. Annals of the American Academy of Political and Social Science 24-30 (Jul. 1911).)
 1914 | [Women and Social Legislation in the United States](1914. Kelley, Florence. 56 Annals of the American Academy of Political and Social Science 62-70 (Nov. 1914).)
- 
+
 #### Charities Review
 Year | Title
 --- | ---
@@ -44,13 +39,13 @@ Year | Title
 1912 | [Labor of Women and Children in Tenements](1912. Kelley, Florence. 2 Proceedings of the American Academy of Political Science in the City of New York 114-115 (Jul. 1912).)
 1910 | [Married Women in Industry](1910. Kelley, Florence. 1 Proceedings of the Academy of Political Science in the City of new York 90-96 (Oct. 1910).)
 1915 | [The La Follette Law from the Consumers' Point of View](1915. Kelley, Florence. 6 Proceedings of the Academy of Political Science in the City of New York 90-96 (Oct. 1915).)
- 
+
 #### American Journal of Nursing
 Year | Title
 --- | ---
 1906 | [Equal Suffrage Movement](1906. Kelley, Florence, Gordon, Kate, Myers, Annice Jeffrey. 7 American Journal of Nursing 47-48 (Oct 1906).)
 1901 | [The Consumers' League](1901. Kelley, Florence. 1 American Journal of Nursing 646-649 (June, 1901).)
- 
+
 #### JSTOR
 Year | Title
 --- | ---
@@ -63,23 +58,22 @@ Year | Title
 1895 | [Review: First Special Report of the Factory Inspectors of Illinois on Small-Pox in the Tenement-House Sweat-Shops of Chicago](1895. H.P. Willis. The Journal of Political Economy, Vol. 3, No. 2 (Mar., 1895), pp. 241-242.)
 1891 | [Sage Maidens of Cornell University](1891. Ellis, Edith Anna. Demorest's Family Magazine 139-145.)
 1894 | [The Chicago Strike](1894. Carroll D. Wright. Publications of the American Economic Association, Vol. 9, No. 5/6 (Oct. - Dec., 1894), pp. 33-50.)
- 
+
 #### Labor History
 Year | Title
- 
+
 #### Journal of the Illinois State Historical Society
 Year | Title
- 
+
 #### Southern Illinois University Law Journal
 Year | Title
- 
+
 #### Journal of Political Economy
 Year | Title
 --- | ---
 1912 | [Minimum-Wage Laws](1912. Kelley, Florence. 20 Journal of Political Economy 999-1010 (Dec. 1912).)
- 
+
 #### American Journal of Public Hygiene
 Year | Title
 
 ---
- 
