@@ -25,8 +25,21 @@ Explore the web site through:
 
 - [Archives](http://florencekelley.northwestern.edu/archives/): With the dedicated effort of team members over 15 months we've collected and organized some 50,000 pages of documents. These include photographs, government reports, court cases; dozens of out-of-print and contemporary books, hundreds of articles from 1880-1910, and nearly 50 publications pertaining to or authored by Florence Kelley...even handwritten letters.
 
-![Project Overview and Interview with Leigh Bienen, Project Director]()
-[Hi-Res]() | [Lo-Res]() | [iPod]()
-
-![A Discussion on Libraries and Technology]()
-[Hi-Res]() | [Lo-Res]() | [iPod]()
+<section class="section">
+    <div class="tiles">
+        <div class="tile is-ancestor has-text-centered">
+            <div class="tile">
+                <figure class="image is-128x128">
+                    <img src="/img/videoStill1a.jpg" title="Project Overview and Interview with Leigh Bienen, Project Director">
+                </figure>
+                <p>Hi-Res | Lo-Res | iPod</p>
+            </div>
+            <div class="tile">
+                <figure class="image is-128x128">
+                    <img src="/img/videoStill2a.jpg" title="A Discussion on Libraries and Technology">
+                </figure>
+                <p>Hi-Res | Lo-Res | iPod</p>
+            </div>
+        </div>
+    </div>
+</section>
