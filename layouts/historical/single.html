@@ -1,0 +1,47 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+
+{{ define "header" }} {{ partial "menu" . }} {{ end }} 
+
+{{ define "main" }}
+
+<div class="section">
+
+<div class="columns">
+    <div class="column is-2">
+        <aside class="menu">
+        <a href="/historical/" class="menu-label">
+        Historical Context
+        </a>
+        <ul class="menu-list">
+        <li><a href="/historical/timeline/">Timeline</a></li>
+        <li><a href="/historical/expo/">The World's Columbian Exposition</a></li>
+        <li><a href="/historical/panic/">The Panic of 1893</a></li>
+        <li><a href="/historical/haymarket/">The Haymarket</a></li>
+        <li><a href="/historical/hullhouse/">Hull House Maps and Papers</a></li>
+        <li><a href="/historical/iroquois/">The Iroquois Theatre Fire</a></li>
+        <li><a href="/historical/stockyards/">The Stockyards</a></li>
+        <li><a href="/historical/children/">Lives of Children</a></li>
+        <li><a href="/historical/altgeld/">John Peters Altgeld</a></li>
+        <li><a href="/historical/mayer/">Levy Mayer</a></li>
+        <li><a href="/historical/jts/">The Jewish Training School of Chicago</a></li>
+        </ul>   
+        </aside>
+    </div>
+    <div class="column">
+        <section class="hero is-default is-bold">
+                <div class="content container">
+                    <h2 class="title">{{ .Title }}</h2>
+                    {{ .Content}}
+                </div>
+                <br>
+        </section>
+    </div>
+</div>
+
+</div>
+{{ end }} 
+{{ define "footer" }} 
+  {{ partial "footer" . }} 
+{{ end }}
