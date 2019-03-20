@@ -1,5 +1,6 @@
 ---
 title: "Florence Kelley"
+layout: single
 ---
 
 Florence Kelley was the first woman factory inspector in the United States, appointed in Illinois by [Governor John Peter Altgeld](/historical/altgeld) in 1893. A resident of Hull House, and a reformer – who refused to be associated with any political party – Florence Kelley lived in Chicago from 1891 until 1899, leading and participating in a variety of projects. These included: a wage and ethnicity census of the slums and tenements in Chicago; the reporting of cases and contagion in the smallpox epidemic of 1893; the enforcement of the universal primary education laws, and, most importantly, enforcing the provisions of the Illinois Factory Inspection Law of 1893.

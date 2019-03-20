@@ -1,0 +1,47 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+
+{{ define "header" }} {{ partial "menu" . }} {{ end }} 
+
+{{ define "main" }}
+
+<div class="section">
+
+<div class="columns">
+    <div class="column is-2">
+        <aside class="menu">
+        <a href="/florence/" class="menu-label">
+        Florence Kelley
+        </a>
+        <ul class="menu-list">
+        <li><a href="/florence/education/">Education</a></li>
+        <li><a href="/florence/arrival/">Arrival at Hull House</a></li>
+        <li><a href="/florence/1892/">March 24 and March 25, 1892: The Cook County Court House</a></li>
+        <li><a href="/florence/inspector/">Spring - Summer 1892: Working in the Tenements of the 19th Ward</a></li>
+        <li><a href="/florence/1894/">Spring - Summer 1894: Factory Inspections and a Small Pox Epidemic</a></li>
+        <li><a href="/florence/1895/">March 1895: Springfield, Illinois and the Illinois Supreme Court</a></li>
+        <li><a href="/florence/crerar/">December, 1897: The John Crerar Library, Brandeis and Ritchie II</a></li>
+        <li><a href="/florence/father/">William Darrah "Pig Iron" Kelley</a></li>
+        <li><a href="/florence/lloyd/">Henry Demarest Lloyd and Jesse Bross</a></li>
+        </ul>   
+        </aside>
+    </div>
+    <div class="column">
+        <section class="hero is-default is-bold">
+            <div class="hero-body">
+                <div class="content container">
+                    <h2 class="title">{{ .Title }}</h2>
+                    {{ .Content}}
+                </div>
+                <br>
+            </div>
+        </section>
+    </div>
+</div>
+
+</div>
+{{ end }} 
+{{ define "footer" }} 
+  {{ partial "footer" . }} 
+{{ end }}
