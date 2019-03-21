@@ -1,0 +1,64 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+
+{{ define "header" }} {{ partial "menu" . }} {{ end }} 
+
+{{ define "main" }}
+
+<div class="section">
+
+<div class="columns">
+    <div class="column is-2">
+        <aside class="menu">
+        <a href="/legal/" class="menu-label">
+        Legal Context
+        </a>
+        <ul class="menu-list">
+        <li><a href="/legal/timeline/">The Law as Storyteller</a></li>
+        <li><a href="/legal/reports/">The Factory Inspection Reports</a></li>
+        <li><a href="/legal/court/">Three Pivotal Court Cases</a></li>
+        <li><a href="/legal/mayors/">Mayors and Aldermen</a></li>
+        <li>
+            <a href="/legal/judges/">Judges</a>
+            <ul>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Baker, David J.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+            </ul>
+        </li>
+        <li><a href="/legal/lawyers/">Lawyers</a></li>
+        </ul>   
+        </aside>
+    </div>
+    <div class="column">
+        <section class="hero is-default is-bold">
+                <div class="content container">
+                    <h2 class="title">{{ .Title }}</h2>
+                    {{ .Content}}
+                </div>
+                <br>
+        </section>
+    </div>
+</div>
+
+</div>
+{{ end }} 
+{{ define "footer" }} 
+  {{ partial "footer" . }} 
+{{ end }}
