@@ -2,6 +2,9 @@
 # Hugo default output directory
 /public
 
+# Image files
+/static/images_fk
+
 ## OS Files
 # Windows
 Thumbs.db
