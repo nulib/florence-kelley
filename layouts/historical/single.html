@@ -2,12 +2,23 @@
   {{ .Title }} | {{ .Site.Title }}
 {{- end }}
 
-{{ define "header" }} {{ partial "menu" . }} {{ end }} 
+{{ define "header" }} {{ partial "menu" . }} {{ end }}
 
 {{ define "main" }}
 
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        {{ .Title }}
+      </h1>
+    </div>
+  </div>
+</section>
+
 <div class="section">
 
+<div class="container">
 <div class="columns">
     <div class="column is-2">
         <aside class="menu">
@@ -26,22 +37,21 @@
         <li><a href="/historical/altgeld/">John Peters Altgeld</a></li>
         <li><a href="/historical/mayer/">Levy Mayer</a></li>
         <li><a href="/historical/jts/">The Jewish Training School of Chicago</a></li>
-        </ul>   
+        </ul>
         </aside>
     </div>
     <div class="column">
         <section class="hero is-default is-bold">
-                <div class="content container">
-                    <h2 class="title">{{ .Title }}</h2>
+                <div class="content">
                     {{ .Content}}
                 </div>
                 <br>
         </section>
     </div>
 </div>
-
 </div>
-{{ end }} 
-{{ define "footer" }} 
-  {{ partial "footer" . }} 
+</div>
+{{ end }}
+{{ define "footer" }}
+  {{ partial "footer" . }}
 {{ end }}

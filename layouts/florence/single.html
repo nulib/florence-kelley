@@ -2,14 +2,26 @@
   {{ .Title }} | {{ .Site.Title }}
 {{- end }}
 
-{{ define "header" }} {{ partial "menu" . }} {{ end }} 
+{{ define "header" }} {{ partial "menu" . }} {{ end }}
 
 {{ define "main" }}
 
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        {{ .Title }}
+      </h1>
+    </div>
+  </div>
+</section>
+
 <div class="section">
 
+<div class="container">
+
 <div class="columns">
-    <div class="column is-2">
+    <div class="column is-one-quarter">
         <aside class="menu">
         <a href="/florence/" class="menu-label">
         Florence Kelley
@@ -24,22 +36,19 @@
         <li><a href="/florence/crerar/">December, 1897: The John Crerar Library, Brandeis and Ritchie II</a></li>
         <li><a href="/florence/father/">William Darrah "Pig Iron" Kelley</a></li>
         <li><a href="/florence/lloyd/">Henry Demarest Lloyd and Jesse Bross</a></li>
-        </ul>   
+        </ul>
         </aside>
     </div>
-    <div class="column">
-        <section class="hero is-default is-bold">
-                <div class="content container">
-                    <h2 class="title">{{ .Title }}</h2>
-                    {{ .Content}}
-                </div>
-                <br>
-        </section>
+    <div class="column is-three-quarters">
+        <div class="content">
+            {{ .Content}}
+        </div>
+      <br>
     </div>
 </div>
-
 </div>
-{{ end }} 
-{{ define "footer" }} 
-  {{ partial "footer" . }} 
+</div>
+{{ end }}
+{{ define "footer" }}
+  {{ partial "footer" . }}
 {{ end }}

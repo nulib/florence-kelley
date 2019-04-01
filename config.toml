@@ -28,7 +28,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
   name = "Archives"
   weight = 2
 	 identifier = "archives"
-  url = "/archives/"
+  url = "/archives/book/"
 
 [[menu.main]]
   name = "Historical Context"
@@ -40,7 +40,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
   name = "Legal Context"
   weight = 4
 	 identifier = "legal"
-  url = "/legal/"
+  url = "/legal/law/"
 
 [[menu.main]]
   name = "About"

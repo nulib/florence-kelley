@@ -6,10 +6,22 @@
 
 {{ define "main" }}
 
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        {{ .Title }}
+      </h1>
+    </div>
+  </div>
+</section>
+
 <div class="section">
 
+<div class="container">
+
 <div class="columns">
-    <div class="column is-2">
+    <div class="column is-one-quarter">
         <aside class="menu">
         <a href="/about/" class="menu-label">
         About
@@ -26,15 +38,14 @@
         </ul>
         </aside>
     </div>
-    <div class="column">
-        <section class="hero is-default is-bold">
-                <div class="content container">
-                    <h2 class="title">{{ .Title }}</h2>
-                    {{ .Content}}
-                </div>
-                <br>
-        </section>
+    <div class="column is-three-quarters">
+        <div class="content">
+          {{ .Content}}
+        </div>
+      <br>
     </div>
+</div>
+
 </div>
 
 </div>

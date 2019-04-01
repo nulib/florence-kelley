@@ -1,0 +1,55 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+
+{{ define "header" }} {{ partial "menu" . }} {{ end }}
+
+{{ define "main" }}
+
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        {{ .Title }}
+      </h1>
+    </div>
+  </div>
+</section>
+
+<div class="section">
+
+  <div class="container">
+    <div class="columns">
+        <div class="column is-one-quarter">
+            <aside class="menu">
+            <a href="/archives/" class="menu-label">
+            Archives
+            </a>
+            <ul class="menu-list">
+            <li><a href="/archives/book/">Book/ Book Excerpt</a></li>
+            <li><a href="/archives/correspondence/">Correspondence</a></li>
+            <li><a href="/archives/court/">Court Documents</a></li>
+            <li><a href="/archives/dissertation/">Dissertation</a></li>
+            <li><a href="/archives/kelley/">Florence Kelley</a></li>
+            <li><a href="/archives/government/">Government Documents - Illinois, Chicago, other</a></li>
+            <li><a href="/archives/newspaper/">Newspaper Article</a></li>
+            <li><a href="/archives/periodical/">Periodical article</a></li>
+            <li><a href="/archives/factory/">Report of the Factory Inspectors of Illinois</a></li>
+            <li><a href="/archives/congressional/">US Congressional Document</a></li>
+            </ul>
+            </aside>
+        </div>
+        <div class="column is-three-quarters">
+          <div class="content">
+            {{ .Content}}
+          </div>
+          <br>
+        </div>
+    </div>
+  </div>
+
+</div>
+{{ end }}
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{ end }}

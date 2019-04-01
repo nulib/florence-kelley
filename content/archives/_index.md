@@ -1,5 +1,6 @@
 ---
-title: "Archives"
+title: Archives
+layout: single
 ---
 You can search each of the 50,000 individual pages in the Archives using the [Search All Documents](/archives/search) tool.
 
