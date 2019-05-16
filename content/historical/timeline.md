@@ -1,5 +1,7 @@
 ---
 title: "Timeline"
+image_file: site/i19989thmb.jpg
+image_caption: "8 hour strike Chicago Typographical Union #16."
 ---
 
 Date | Description

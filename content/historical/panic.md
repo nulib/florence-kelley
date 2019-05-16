@@ -1,5 +1,7 @@
 ---
 title: "The Panic of 1893"
+image_file: site/i18146thmb.jpg
+image_caption: "Interior of Board of Trade, the pit"
 ---
 
 [The Panic of 1893](https://en.wikipedia.org/wiki/Panic_of_1893) was a true and severe financial panic lasting from May of 1893 to November, 1893, with a run on currency, and banks closing, and businesses and manufacturers not being able to open because they had not cash to pay workers or buy materials. The panic included precipitous declines in the stock market, the failure of Wall Street brokerage houses, and the failure of 158 national banks in 1893, mostly in the South and West. Other bank failures included 172 state banks, and 177 private banks, as well as 47 savings banks and 13 loan and trust companies and 16 mortgage companies. The panic started in New York and spread to the rest of the country. This was the atmosphere in which Florence Kelley and her colleagues began their work chronicling the economic conditions in the tenements and [slums of Chicago](/historical/panic/#).

@@ -1,6 +1,8 @@
 ---
 title: "Historical Context"
 layout: single
+image_caption: "Bryan Block, NW corner of Monroe and LaSalle Street."
+image_file: site/i21542thmb.jpg
 ---
 
 The decade of the 1890's marks the firm establishment of Chicago’s position as the nation’s second city, passing Philadelphia and Brooklyn in population, and assuming a place of financial and industrial preeminence, reinforced by being the center of the newly linked national railroad system. After the historic immigrations of the 1880's, mostly from Europe, and the rebuilding from the devastation of the [Fire](http://www.encyclopedia.chicagohistory.org/pages/1740.html), the city’s economy boomed, bringing more people.

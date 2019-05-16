@@ -1,5 +1,7 @@
 ---
 title: "Hull House Maps and Papers"
+image_file: site/i21905thmb.jpg
+image_caption: "Boys in settlement house workshop."
 ---
 
 The book [Hull House Maps and Papers](/historical/hullhouse/#), published in 1895, is a series of essays and statistical information collected by Florence Kelley and her colleagues at Hull House, the settlement house at 335 South Halsted Street.
