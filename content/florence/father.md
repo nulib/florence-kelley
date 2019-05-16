@@ -1,5 +1,7 @@
 ---
 title: "William Darrah 'Pig Iron' Kelley"
+image_file: site/KelleyWilliamDarrah.jpg
+image_caption:  "William Darrah Kelley"
 ---
 
 Florence Kelley’s education was directed first by her father, a Congressman for thirty five years from Pennsylvania, called Pig Iron Kelley because he represented the iron and steel districts of Pennsylvania and was fiercely protectionist, voting in favor of tariffs to shield the industry from competition from abroad.

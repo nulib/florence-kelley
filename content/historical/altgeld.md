@@ -1,5 +1,7 @@
 ---
 title: "John Peter Altgeld"
+image_file: site/altgeldTest.jpg
+image_caption: "John Peter Altgeld"
 ---
 
 John Peter Altgeld was born on December 30, 1847 in the small German village of Nieder Selters. His father was a struggling farmer and a wagon maker, so to improve their life, his family left Germany for Newville, Ohio when John was only three months old. The Altgelds continued to be farmers. During this time, the Altgelds had eight more children, making John the eldest of nine, although three would die during infancy.

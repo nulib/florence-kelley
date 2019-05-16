@@ -1,5 +1,7 @@
 ---
 title: "Bruce, Andrew"
+image_caption: "Men during an eight-hour strike of the Chicago Typographical Union."
+image_file: site/i15130thmb.jpg
 ---
 
 Andrew Bruce was born April 15th, 1866 in Nunda Drug, India. Although he would later reside in the United States, he was English by birth. Andrew’s father Edward Archibald Bruce, was a General in the British Army and stationed in India at the time of Andrew’s birth. Andrew first came to the United States at age 15, and would stay there for his education. As a young adult he enrolled in the University of Wisconsin and graduated in 1890 at the age of 24. After graduation he decided to pursue a career in law, and enrolled in the University of Wisconsin Law School.

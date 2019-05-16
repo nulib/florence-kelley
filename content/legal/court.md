@@ -1,5 +1,7 @@
 ---
 title: "3 Pivotal Court Cases"
+image_file: site/5780pb31f14ip400g.jpg
+image_caption: "Men working 1. Photograph by Rubenstein"
 ---
 
 #### *Ritchie v. People* (1895) & *Ritchie v. Wayman* (1910)

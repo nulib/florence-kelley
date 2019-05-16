@@ -1,5 +1,7 @@
 ---
 title: "The Jewish Training School of Chicago"
+image_file: site/i17309thmb.jpg
+image_caption: "Cooking class, Chicago Hebrew Institution."
 ---
 
 The Jewish Training School of Chicago was founded with a generous grant of $20,000 from Mr. Leon Mandel in May of 1888, to maintain a kindergarten for children too young to attend public school, a kitchen garden and sewing school for girls more advanced in years and particularly a manual training school where boys may learn to love work, find out for what kind of work they are best fitted, and receive that preparation and assistance which will make them intelligent, skillful, competent workmen, in that department best adapted to their abilities.

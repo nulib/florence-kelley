@@ -1,5 +1,7 @@
 ---
 title: "Lives of Children"
+image_file: site/i52108thmb.jpg
+image_caption: "Children digging with pick axes on a Chicago street."
 ---
 
 Florence Kelley’s first and unwavering commitment was to to improving the lives of the tens of thousands of girls and boys who worked. Her own writings returned again and again to the conditions under which children operated sewing machines in the tenements, carried water and molten glass through the night in the factories, stood knee deep in blood and entrails at the stockyards, and operated machinery which often claimed an arm, a leg, a hand, or a their eyesight.

@@ -1,5 +1,7 @@
 ---
 title: "December, 1897: The John Crerar Library, Brandeis and Ritchie II"
+image_file: site/i19144thmb.jpg
+image_caption: "John Crerar Library"
 ---
 
 In December of 1897, Florence Kelley found herself working as a part time librarian for the [John Crerar Library](https://www.lib.uchicago.edu/crerar/), a special reference collection established by the estate of John Crerar, after being unexpectedly fired as Chief Factory Inspector in August of 1897.
