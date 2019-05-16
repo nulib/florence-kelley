@@ -29,7 +29,13 @@
             <li><a href="/legal/timeline/">The Law as Storyteller</a></li>
             <li><a href="/legal/reports/">The Factory Inspection Reports</a></li>
             <li><a href="/legal/court/">Three Pivotal Court Cases</a></li>
-            <li><a href="/legal/mayors/">Mayors and Aldermen</a></li>
+            <li>
+              <a href="/legal/mayors/">Mayors and Aldermen</a>
+              <li><a href="/legal/mayors/harrisonJr/">Harrison, Carter H. II</a></li>
+              <li><a href="/legal/mayors/harrisonSr/">Harrison, Carter H.</a></li>
+              <li><a href="/legal/mayors/powers/">Powers, Johnny</a></li>
+              <li><a href="/legal/mayors/washburne/">Washburne, Hempstead</a></li>
+            </li>
             <li>
                 <a href="/legal/judges/">Judges</a>
                 <ul>
@@ -65,11 +71,28 @@
             </ul>
             </aside>
         </div>
-        <div class="column is-three-quarters">
+        <div class="column">
           <div class="content">
             {{ .Content}}
           </div>
           <br>
+        </div>
+        <div class="column is-one-quarter">
+            {{ if .Params.image_file }}
+            <div class="card">
+              <div class="card-image">
+                  <figure class="image is-2by3">
+                      <img src="/images_fk/{{ .Params.image_file }}">
+                  </figure>
+              </div>
+              <div class="card-content">
+                <div class="content">
+                  <p>{{ .Params.image_caption }}</p>
+                </div>
+              </div>
+            </div>
+            <br>
+            {{ end }} 
         </div>
     </div>
   </div>
