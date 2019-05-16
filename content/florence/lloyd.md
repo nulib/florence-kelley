@@ -1,5 +1,7 @@
 ---
 title: "Henry Demarest Lloyd and Jesse Bross"
+image_file: site/LloydHenryDemarest.jpg
+image_caption: "Henry Demarest Lloyd"
 ---
 
 When Florence Kelley arrived in Chicago on that snowy December of 1891, with three children, Nicholas, 6, Margaret, 4, and John Brown, 2, in tow, she went first to the Women’s Temple of the Women’s Christian Temperance Union, where there was a nursery. Within a few days she had gone to [Hull House](/historical/hullhouse), the Settlement, where she met Jane Addams. For the rest of her time in Chicago Hull House would be the center of her public and reform activities, with its residents and friends playing important roles.
