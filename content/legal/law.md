@@ -1,5 +1,7 @@
 ---
 title: "The Law As Storyteller"
+image_caption: "Management notice. Photograph by Rubenstein"
+image_file: site/5780pb31f15np400gthmb.jpg
 ---
 
 >“Imaginative work ... is like a spider’s web ... attached to life at all four corners ... one remembers that these webs are not spun in mid-air by incorporeal creatures, but are the work of suffering human beings, and are attached to grossly material things like health and money and the houses we live in ...”

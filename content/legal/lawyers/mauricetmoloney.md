@@ -1,5 +1,7 @@
 ---
 title: "Moloney, Maurice T."
+image_file: site/5780pb31f7kp400gthmb.jpg
+image_caption: "Room of workers 2. Photograph by Rubenstein"
 ---
 
 Maurice T. Moloney was born in Kerry county, Ireland on July 26th, 1849. Moloney came to the United States at the young age of 18. When he first arrived in the United States, he did not know what profession he was going to pursue. He eventually decided to pursue a career in law, and attended the University of Virginia Law School. He graduated in 1871 with a Bachelor of Law degree, and was admitted to the Bar in Virginia.

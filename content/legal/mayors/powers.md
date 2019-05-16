@@ -1,5 +1,7 @@
 ---
 title: "Powers, Johnny"
+image_caption: "Fireboat, the Swenie, docked on the Chicago River."
+image_file: site/DN-0000485thmb.jpg
 ---
 
 Chicago alderman Johnny Powers was born February 15, 1852 in Brannon, Kilkenny, Ireland. As an Irish immigrant, he was able to gain control of Chicago’s predominantly Irish 19th Ward as a Democratic Party boss from 1888-1927. His involvement in the “Alderman’s Wars” of 1916-1921 made famous his nickname, Johnny “De Pow” Powers. As [Italian immigrants](http://www.encyclopedia.chicagohistory.org/pages/758.html) flooded the West side’s 19th Ward, Anthony D’Andrea and his supporters mounted a bloody campaign to unseat Powers. From D’Andrea’s first aldermanic defeat in 1916 to his last in 1921, the violent allies of each alderman killed each other at an astonishing pace (30 deaths were reported in 5 years) until D’Andrea’s assassination in May of 1921, at which time it became clear that Powers reigned triumphant in the 19th Ward, despite his [corruption and tolerance of crime](/documentbrowser/?nodeid=57734&page=132).
