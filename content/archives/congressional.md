@@ -1,5 +1,7 @@
 ---
 title: "US Congressional Document"
+image_caption: "Social Service - Mary McDowell Settlement House."
+image_file: site/i03889thmb.jpg
 ---
 
 ---

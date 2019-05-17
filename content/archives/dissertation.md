@@ -1,5 +1,7 @@
 ---
 title: "Dissertation"
+image_caption: "Fete Night, Wooded Island."
+image_file: site/i52342thmb.jpg
 ---
 ---
 #### Dissertation

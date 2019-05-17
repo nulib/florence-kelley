@@ -1,6 +1,8 @@
 ---
 title: Archives
 layout: single
+image_caption: "Florence Kelley, 1915, when the United States government refused her a passport. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 90"
+image_file: site/04451105_0098thmb.jpg
 ---
 You can search each of the 50,000 individual pages in the Archives using the [Search All Documents](/archives/search) tool.
 

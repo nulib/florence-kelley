@@ -1,6 +1,7 @@
 ---
 title: "Book/Book Excerpt"
-permalink: /archives/book
+image_caption: "Men pushing a horse drawn wagon along a dirt road while other men watch from the sidewalk."
+image_file: site/DN-0000953thmb.jpg
 ---
 
 ---

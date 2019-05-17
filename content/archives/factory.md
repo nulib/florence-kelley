@@ -1,5 +1,7 @@
 ---
 title: "Report of the Factory Inspectors of Illinois"
+image_file: site/DN-0000076thmb.jpg
+image_caption: "Girl wearing a ruffled hat in a group of children assembled for a fresh air outing."
 ---
 Year | Title
 --- | ---

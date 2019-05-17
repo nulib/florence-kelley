@@ -1,5 +1,7 @@
 ---
 title: "Florence Kelley (Authored by or about)"
+image_caption: "Room of workers 3. Photograph by Rubenstein"
+image_file: site/5780pb31f14jp400gthmb.jpg
 ---
 
 ---

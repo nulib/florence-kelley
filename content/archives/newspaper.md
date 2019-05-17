@@ -1,5 +1,7 @@
 ---
 title: "Newspaper article"
+image_caption: "Inter Ocean building from "Views of Chicago and Vicinity."
+image_file: site/i52213thmb.jpg
 ---
 
 #### New York Times

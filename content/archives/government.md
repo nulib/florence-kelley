@@ -1,5 +1,7 @@
 ---
 title: "Government Documents - Illinois, Chicago, other"
+image_caption: "Speaker's rostrum at the front of the Council Chamber."
+image_file: site/DN-0000399thmb.jpg
 ---
 
 ---

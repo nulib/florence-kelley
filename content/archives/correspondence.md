@@ -1,5 +1,7 @@
 ---
 title: "Correspondence"
+image_caption: "Room of workers 5. Photograph by Rubenstein"
+image_file: site/6153pb2f_Cities-6-17thmb.jpg
 ---
 
 ---
