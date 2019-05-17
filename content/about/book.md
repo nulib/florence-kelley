@@ -1,6 +1,7 @@
 ---
 title: "The Book: Florence Kelley and the Children"
-permalink: /about/book/
+image_caption: "Michigan Avenue between Monroe and Adams after the Fire of 1871."
+image_file: site/i20847aathmb.jpg
 ---
 
 ### The Book: Florence Kelley and the Children

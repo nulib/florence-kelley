@@ -1,6 +1,7 @@
 ---
 title: "Credits"
-permalink: /about/credits
+image_caption: "Construction crew."
+image_file: site/i29288thmb.jpg
 ---
 
 ### Credits

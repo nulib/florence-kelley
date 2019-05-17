@@ -1,6 +1,7 @@
 ---
 title: "Video"
-permalink: /about/video/
+image_caption: "Large group of children standing under showers over the street."
+image_file: site/DN-0076144thmb.jpg
 ---
 
 ### Video

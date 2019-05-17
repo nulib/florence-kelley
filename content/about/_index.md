@@ -1,6 +1,8 @@
 ---
 title: About This Project
 layout: single
+image_caption: "Paul Clough in front of the digital imaging machine at the University Library in Evanston, Illinois. Credit: Jerry Lai (WCAS '04) © 2006 Jerry Lai"
+image_file: site/KirtasMachine.jpg
 ---
 [![Homicide in Chicago 1870-1930](/images_fk/mapsAndPapers.jpg)](#)
 

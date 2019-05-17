@@ -1,6 +1,7 @@
 ---
 title: "How to Use This Site"
-permalink: /about/guide/
+image_file: site/DN-0007024thmb.jpg
+image_caption: "Christmas scene at Cook County Hospital, person dressed as Santa Claus holding a child on his lap with two other children standing nearby."
 ---
 
 ### How to Use This Site

@@ -1,6 +1,7 @@
 ---
 title: "Links to Other Web Sites"
-permalink: /about/links/
+image_caption: "Room of workers 1. Photograph by Rubenstein"
+image_file: site/5780pb31f14ep600gthmb.jpg
 ---
 
 ### Links to Other Web Sites

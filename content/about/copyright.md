@@ -1,6 +1,7 @@
 ---
 title: "Copyright"
-permalink: /about/copyright/
+image_file: site/DN-0000022thmb.jpg
+image_caption: "Messenger Boys Strike, group of messenger boys walking down a sidewalk during a strike."
 ---
 
 ### Copyright

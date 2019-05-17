@@ -1,6 +1,7 @@
 ---
 title: "Bibliography"
-permalink: /about/bibliography/
+image_file: site/i52118thmb.jpg
+image_caption: "Two women with basketball. Physical Culture Class."
 ---
 
 ### Bibliography
