@@ -1,5 +1,7 @@
 ---
 title: "Farmer, William M."
+image_file: site/DN-0063682thmb.jpg
+image_caption: "Children at Milton Avenue, a shoeless boy holding the hand of a bigger girl."
 ---
 
 William M. Farmer was born on June 5, 1853 in Fayette County, Illinois. Farmer’s grandparents resided in both North Carolina and Kentucky. It was William Farmer’s father who first moved to and remained in Illinois. Originating from the south, the Farmer family owned slaves; however, they favored abolition of slavery and were strong supporters of the Union cause during the Civil War.

@@ -1,5 +1,7 @@
 ---
 title: "Cooke, George A."
+image_file: site/i52233thmb.jpg
+image_caption: "Inter State Expo Building."
 ---
 
 In 1869 George A. Cooke was born in New Athens, Ohio. Sadly, when he was 11 both of his parents died, and Cooke moved to Mercer County Illinois. He attended Knox College, and graduated in 1892. He was then admitted to the Illinois bar in 1895. He set up his own practice in Aledo, Illinois and continued his practice until he was elected to the Illinois Supreme Court in 1909.

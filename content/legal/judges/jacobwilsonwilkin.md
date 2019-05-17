@@ -1,5 +1,7 @@
 ---
 title: "Wilkin, Jacob Wilson"
+image_file: site/i05740aathmb.jpg
+image_caption: "Looking northeast from corner of Clark Street and Randolph Street from Court House Dome."
 ---
 
 Jacob Wilson Wilkin was born in Newark, Ohio, on June 7, 1837, to Virginia natives Isaac Wilkin and Sarah (Burner) Wilkin. At the age of eight, Jacob Wilkin moved to Crawford County, Illinois, with his parents. Although Isaac Wilkin had originally been a contractor builder in Ohio, he became a farmer on arrival to Illinois and purchased a farm in Marshall, Illinois.

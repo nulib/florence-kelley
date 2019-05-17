@@ -1,5 +1,7 @@
 ---
 title: "Baker, David J."
+image_file: site/i35691aathmb.jpg
+image_caption: "Corner of State and Madison Streets after the Chicago Fire of 1871."
 ---
 
 David Jewett Baker was born on November 20, 1834 in Kaskaskia, Illinois. He received his early education in the area, and attended Shurtliff College in Upper Alton Illinois for his advanced education. In his academic work, Baker was known by his colleagues and professors to be exceptionally bright. He graduated with honors in 1854.

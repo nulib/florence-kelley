@@ -1,5 +1,7 @@
 ---
 title: "Phillips, Jesse J."
+image_caption: "8 hour strike Chicago Typographical Union #16."
+image_file: site/i19989thmb.jpg
 ---
 
 Jesse J. Phillips was born in Montgomery County IL, on May 22, 1837. His parents had been some of Montgomery County’s pioneers after moving from Kentucky. Phillips spent all of his young adult life in Montgomery County, and attended public school there. He received a liberal education at the Hillsboro Academy, and after he graduated in 1857 he decided to pursue a career in law. He studied law at the law offices of Davis and Kingsbury and was admitted into the bar in 1861. He had only practiced law for a year when the outbreak of the Civil War called him to military duty.

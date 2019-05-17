@@ -1,5 +1,7 @@
 ---
 title: "Mulkey, John H."
+image_caption: "Harper's Weekly, Blockade at Grand Crossing on the night of June 26th."
+image_file: site/i28289thmb.jpg
 ---
 
 John H. Mulkey was born on May 24th, 1824. Born and raised in Monroe County, Kentucky, he chose to stay in Kentucky for most of his schooling. He received his college degree from Bacon College in Harrodsburg, Kentucky. After college he moved to Illinois. When he was twenty-three years old, Mulkey enlisted in the 2nd Illinois Volunteer Infantry in the Mexican American War. He served as a 2nd Lieutenant in the war, and saw a full year of active duty from July of 1847 until the end of the war the following July.

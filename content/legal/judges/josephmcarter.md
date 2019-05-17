@@ -1,5 +1,7 @@
 ---
 title: "Carter, Joseph M."
+image_caption: "Water Tower and waterworks after the Fire of 1871."
+image_file: site/i02792thmb.jpg
 ---
 
 Joseph N. Carter was born in Hardin County Kentucky on March 3rd, 1843. Little is known of Carter’s early life; however sometime before the outbreak of the Civil War, Carter’s family moved to Illinois. During the war Carter served in the 70th Illinois Infantry as a private. He was only 19 at the time, and after the war ended Carter returned to school.

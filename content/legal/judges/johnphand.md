@@ -1,5 +1,7 @@
 ---
 title: "Hand, John P."
+image_file: site/DN-0000398thmb.jpg
+image_caption: "Council Chamber seen from the seating area at the back of the room."
 ---
 
 John P. Hand was born in Henry County, Illinois on November 10, 1850. Hand began his studies at Rock River Seminary in Mount Morris, Illinois. Hand went on to attend Iowa State University and graduated in 1872. After graduation, Hand resolved to pursue a career in law and was admitted to the Bar in 1875.

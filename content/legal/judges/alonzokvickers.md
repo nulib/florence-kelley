@@ -1,5 +1,7 @@
 ---
 title: "Vickers, Alonzo K."
+image_file: site/i19989thmb.jpg
+image_caption: "8 hour strike Chicago Typographical Union #16."
 ---
 
 Alonzo K. Vickers was born in Massac County, Illinois on September 25, 1853. His parents, who originated from Tennessee, came to Illinois in 1844 in search of land. They purchased a farm in Massac County and remained there the rest of their lives. Alonzo was the youngest in the family with two older brothers; however, he would soon be responsible for providing for his family. In 1861, Alonzo’s father died and when the Civil War broke out, both of Alonzo’s brothers went to fight.

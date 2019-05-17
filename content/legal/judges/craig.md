@@ -1,5 +1,7 @@
 ---
 title: "Craig, Alfred M."
+image_file: site/DN-0000953thmb.jpg
+image_caption: "Men pushing a horse drawn wagon along a dirt road while other men watch from the sidewalk."
 ---
 
 Alfred M. Craig was born in Edgar County Illinois on January 15th, 1831. His father was originally from Pennsylvania and his mother originally from Kentucky. The couple moved to Illinois and became invested in the farming business, which was the life Craig was raised in. He attended Knox College, and graduated with honors in1853. He immediately chose to practice law out of College, and opened a successful private practice in Knoxville, Illinois.

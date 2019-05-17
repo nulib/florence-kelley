@@ -1,5 +1,7 @@
 ---
 title: "Schofield, John"
+image_file: site/i32961thmb.jpg
+image_caption: "Exchange Street, 200 feet west of the main entrance to the Union Stockyards."
 ---
 
 John Scholfield was born in 1834 in Clark County, Illinois. His father, Thomas Scholfield, originally from Virginia, was a Pennsylvania Quaker that came to Illinois in 1830 as a pioneer. Thomas married a woman from Ohio and settled on a farm in Clark County. John spent the beginning of his youth working on the farm and attending school; however, when his mother died when he was 16, John left the farm in Clark County and moved to Martinsville, Illinois to live with his uncle.

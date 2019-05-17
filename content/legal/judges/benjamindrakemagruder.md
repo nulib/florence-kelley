@@ -1,5 +1,7 @@
 ---
 title: "Magruder, Benjamin Drake"
+image_file: site/i24066thmb.jpg
+image_caption: "Children playing on sidewalk."
 ---
 
 Benjamin Drake Magruder was born on September 27, 1838 in Natchez, Mississippi. His father, Professor W. K. N. Magruder and his mother were both originally from the North. Because his father was a professor, he prepared young Benjamin for college on his own, and at age 14, Benjamin Magruder entered Yale University.

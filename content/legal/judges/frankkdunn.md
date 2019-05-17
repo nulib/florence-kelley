@@ -1,5 +1,7 @@
 ---
 title: "Dunn, Frank K."
+image_file: site/i35691aathmb.jpg
+image_caption: "Corner of State and Madison Streets after the Chicago Fire of 1871."
 ---
 
 Frank Kershner Dunn was born in Mount Gilead, Ohio on November 13, 1854. Frank’s father, Andrew Kershner worked as a lawyer in Ohio. Frank received his education at Kenyon College in Ohio. In 1873, Frank graduated with a Bachelor of Arts Degree, and decided to follow in his father’s footsteps by attending law school. Frank would later follow in his father’s footsteps not only to the bar, but also to the bench, as Andre Kershner also had served as a judge on the court of common pleas.

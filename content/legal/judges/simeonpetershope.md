@@ -1,5 +1,7 @@
 ---
 title: "Shope, Simeon Peter"
+image_caption: "Lantern Slide #85 "What the Children Want.""
+image_file: site/i14084thmb.jpg
 ---
 
 Simeon Peter Shope was born on December 3rd, 1834 in Akron Ohio. As a boy he was incredibly athletic and retained a physically strong physique throughout his life. When he was young, his family moved to Woodfard County, Illinois. In Illinois, Shope attended Eureka College. Shope studied law under Judge Powell and Judge Purple before entering into his own practice. Upon his admittance to the bar, Shope moved to Lewiston, Illinois and began his own private practice.

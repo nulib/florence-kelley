@@ -1,5 +1,7 @@
 ---
 title: "Scott, John M."
+image_caption: "Scott, John M."
+image_file: site/JohnMScott.jpg
 ---
 
 John M. Scott was born on August 1, 1824 in St. Clair County, Illinois. John’s father, Samuel Scott was born in Virginia but came from a family of Irish immigrants. John’s mother Nancy Biggs was born in Illinois. As a boy, John attended public schooling; however, his parents concurrently provided him with private instruction as well. In his private instruction, John excelled in the study of Latin which would help him in his later study of law. He also exhibited much skill in mathematics which he considered his favorite subject.

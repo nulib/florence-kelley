@@ -1,5 +1,7 @@
 ---
-title: "Bailey,Joseph M."
+title: "Bailey, Joseph M."
+image_file: site/5780pb31f7ap600gthmb.jpg
+image_caption: "Men overlooking woman. Photograph by Rubenstein."
 ---
 
 Joseph M. Bailey was born June 22, 1833 in Middlebury, NY. His parents were farmers, originally from New England. His grandmother was a descendent of a mate on the Mayflower, making Joseph of puritan decent. Joseph spent his entire childhood on his father’s farm, and attended the Academy of Wyoming County New York. He then studied at the University of Rochester and graduated with honors in 1854.
