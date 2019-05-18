@@ -1,6 +1,6 @@
 ---
 title: "Shope, Simeon Peter"
-image_caption: "Lantern Slide #85 "What the Children Want.""
+image_caption: "Lantern Slide #85 'What the Children Want.'"
 image_file: site/i14084thmb.jpg
 ---
 

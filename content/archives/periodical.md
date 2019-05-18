@@ -1,7 +1,7 @@
 ---
 title: "Periodical article"
 image_file: site/i52212thmb.jpg
-image_caption: "Market Street from "Views of Chicago and Vicinity."
+image_caption: "Market Street from 'Views of Chicago and Vicinity'."
 ---
 #### American Journal of Sociology
 Year | Title

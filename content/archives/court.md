@@ -1,7 +1,7 @@
 ---
 title: "Court Documents"
 image_file: site/i52214thmb.jpg
-image_caption: "Randolph Street and City Hall from "Views of Chicago and Vicinity."
+image_caption: "Randolph Street and City Hall from 'Views of Chicago and Vicinity'."
 ---
 
 #### Ritchie v. People (Illinois Supreme Court) 1895
