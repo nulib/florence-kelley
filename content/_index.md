@@ -2,7 +2,7 @@
 # Enter the title as it appears on the page
 title: "The Life and Times of Florence Kelley in Chicago, 1891-1899"
 # copy the URL, omitting the base URL (http://florencekelley.northwestern.edu/)
-image: /img/florence-kelley.jpg
+image: /images_fk/COVER-F-spine-B-small.jpg
 ---
 
 ### Florence Kelley, Factory Inspector in 1890s Chicago, and the Children
