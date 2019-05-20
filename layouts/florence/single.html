@@ -61,6 +61,18 @@
         </div>
         <br>
         {{ end }}
+        {{ with .Params.related_content }}
+        <aside class="menu">
+          <p class="menu-label">
+            Related Content
+          </p>
+          <ul class="menu-list">
+            {{ range .}}
+            <li><a href="{{ .url}} ">{{ .title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
     </div>
 </div>
 </div>
