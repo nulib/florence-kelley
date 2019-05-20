@@ -84,7 +84,7 @@
             <div class="card">
               <div class="card-image">
                   <figure class="image">
-                      <img src="/images_fk/{{ .Params.image_file }}">
+                      <img src="/images_fk/{{ .Params.image_file }}" data-jslghtbx>
                   </figure>
               </div>
               <div class="card-content">
@@ -94,7 +94,7 @@
               </div>
             </div>
             <br>
-            {{ end }} 
+            {{ end }}
             {{ with .Params.related_content }}
             <aside class="menu">
               <p class="menu-label">
@@ -105,7 +105,7 @@
                 <li><a href="{{ .url}} ">{{ .title }}</a></li>
                 {{ end }}
               </ul>
-            </div>                
+            </div>
             {{ end }}
         </div>
     </div>
