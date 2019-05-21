@@ -2,6 +2,15 @@
 title: "The Iroquois Theatre Fire"
 image_file: site/i34981aathmb.jpg
 image_caption: "Charred program, Mr. Blue Beard at the Iroquois Theater from the day of the fire."
+related_content:
+  - title: "Greater Needs than Fire Drills: Miss Florence Kelley Points Out Defects in Factories and Sweat Shops"
+    url:
+  - title: "Levy Mayer and the New Industrial Era"
+    url:
+  - title: "Moran's Dictionary of Chicago and Its Vicinity"
+    url:
+  - title: "The Theatres: The "Bostonians" Open Their Season at Chicago Opera-House"
+    url: 
 ---
 
 On December 30, 1903 in the afternoon 575 people – hundreds of young children and their mothers who had come to see Eddie Foy in a holiday matinee – died when flames, fumes, smoke and explosions rocketed from the stage of the Iroquois Theatre. Then a thin blue mist and great volumes of grey cloud engulfed the audience. Many died in their seats, others were trampled on their way to the exits.

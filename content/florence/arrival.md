@@ -2,8 +2,22 @@
 title: "Arrival at Hullhouse"
 image_file: site/04451105_0068thmb.jpg
 image_caption: "Florence Kelley and her husband, Lazare Wischnewetsky, with their son, Nicholas, and Lazare's mother, 1885. From Sklar, Katherine Notes of Sixty Years: The Autobiography of Florence Kelley, p. 60"
+related_content:
+  - title: "Amusements: John T. Raymond at Hooley's"
+    url:
+  - title: "Hull House Maps and Papers"
+    url:
+  - title: "If Christ Came to Chicago"
+    url:
+  - title: "Judge Kelley's Daughter Married"
+    url:
+  - title: "Kelley v. Wischnewetzy: Certificate of Evidence"
+    url:
+  - title: "Letters from Europe"
+    url:
+  - title: "Twenty Years at Hull House"
+    url:
 ---
-
 When Florence Kelley arrived in Chicago, as she later wrote, ‘on a snowy morning between Christmas 1891 and New Year’s 1892' one of her first destinations was Hull House. Her later description of the seemingly enchanted, idyllic journey through the streets of Chicago to get to Hull House is classic:
 
 >“On a snowy morning between Christmas 1891 and New Year’s 1892, I arrived at Hull House, Chicago, a little before breakfast time, and found there Henry Standing Bear, a Kickapoo Indian, waiting for the front door to be opened. It was Miss Addams who opened it, holding on her left arm a singularly unattractive, fat, pudgy baby belonging to the cook, who was behind hand with the breakfast. Miss Addams was a little hindered in her movement by a super-energetic kindergarten child, left by its mother while she went to a sweatshop for a bundle of cloaks to be finished.” [[read more]](1986. Kelley, Florence. Illinois Labor History Society.)
