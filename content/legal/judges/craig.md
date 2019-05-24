@@ -2,6 +2,17 @@
 title: "Craig, Alfred M."
 image_file: site/DN-0000953thmb.jpg
 image_caption: "Men pushing a horse drawn wagon along a dirt road while other men watch from the sidewalk."
+related_content:
+  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
+    url:
+  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
+    url:
+  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
+    url:
+  - title: "Moran's Dictionary of Chicago and Its Vicinity"
+    url:
+  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
+    url:
 ---
 
 Alfred M. Craig was born in Edgar County Illinois on January 15th, 1831. His father was originally from Pennsylvania and his mother originally from Kentucky. The couple moved to Illinois and became invested in the farming business, which was the life Craig was raised in. He attended Knox College, and graduated with honors in1853. He immediately chose to practice law out of College, and opened a successful private practice in Knoxville, Illinois.
