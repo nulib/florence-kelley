@@ -2,8 +2,36 @@
 title: "William Darrah 'Pig Iron' Kelley"
 image_file: site/KelleyWilliamDarrah.jpg
 image_caption:  "William Darrah Kelley"
+related_content:
+  - title: "Abolition of Slavery"
+    url:
+  - title: "Florence Kelley to Nicholas Kelley, April 16, 1902"
+    url:
+  - title: "Florence Kelley to Nicholas Kelley, Aug. 21, 1902"
+    url:
+  - title: "Florence Kelley to Nicholas Kelley, Aug. 3, 1902"
+    url:
+  - title: "Florence Kelley to Nicholas Kelley, Dec. 1, 1902"
+    url:
+  - title: "Florence Kelley to Nicholas Kelley, July 3, 1902"
+    url:
+  - title: "Florence Kelley to Nicholas Kelley, June 13, 1902"
+    url:
+  - title: "Florence Kelley to Nicholas Kelley, June 29, 1902"
+    url:
+  - title: "Judge Kelley's Will"
+    url:
+  - title: "Judge William D. Kelley's Estate"
+    url:
+  - title: "Letters from Europe"
+    url:
+  - title: "Obituary: William D. Kelley is Dead"
+    url:
+  - title: "Our Toiling Children"
+    url:
+  - title: "The Shooting of Judge Kelley's Son"
+    url:
 ---
-
 Florence Kelley’s education was directed first by her father, a Congressman for thirty five years from Pennsylvania, called Pig Iron Kelley because he represented the iron and steel districts of Pennsylvania and was fiercely protectionist, voting in favor of tariffs to shield the industry from competition from abroad.
 
 The question of tariffs and of whether the United States currency and banking deposits should be backed by gold or silver were the burning policy questions of the [1890's](/historical/panic). A prominent abolitionist, Congressman Kelley lived through the [Civil War](http://www.loc.gov/pictures/collection/cwp/) and bore witness to the economic and political devastation which followed.

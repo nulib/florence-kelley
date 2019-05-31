@@ -2,8 +2,48 @@
 title: "Timeline"
 image_file: site/i19989thmb.jpg
 image_caption: "8 hour strike Chicago Typographical Union #16."
+related_content:
+  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
+    url:
+  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
+    url:
+  - title: "Annual Report of the Department of Health of the City of Chicago 1893"
+    url:
+  - title: "Annual Report of the Department of Health of the City of Chicago 1894"
+    url:
+  - title: "Annual Report of the Factory Inspectors of Illinois, 1899"
+    url:
+  - title: "As Others See Chicago: Impressions of Visitors, 1673-1933"
+    url:
+  - title: "Biennial Report of the Department of Health of the City of Chicago 1895-96"
+    url:
+  - title: "Centennial History of Illinois: vol. 5 (The Modern Commonwealth, 1893-1918)"
+    url:
+  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
+    url:
+  - title: "Chicago and the American Literary Imagination, 1880-1920"
+    url:
+  - title: "Flaws in the Law: Supreme Court Punctures the Eight-Hour Act"
+    url:
+  - title: "If Christ Came to Chicago"
+    url:
+  - title: "Moran's Dictionary of Chicago and Its Vicinity"
+    url:
+  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
+    url:
+  - title: "The Chicago Strike"
+    url:
+  - title: "The Pullman Strike : the Story of a Unique Experiment and of a Great Labor Upheaval"
+    url:
+  - title: "The Tenements of Chicago, 1908-1935"
+    url:
+  - title: "Truancy and Non-Attendance in the Chicago Schools: A Study of the Social Aspects of the Compulsory"
+    url:
+  - title: "Education and Child Labor Legislation of Illinois"
+    url:
+  - title: "Vice in Chicago"
+    url:
 ---
-
 Date | Description
 :---: | :---
 1859 | Born to William Darrah Kelley and Caroline Bartram (Bonsall) Kelley in Philadelphia, Pennsylvania

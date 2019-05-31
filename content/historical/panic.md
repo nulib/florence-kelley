@@ -2,6 +2,39 @@
 title: "The Panic of 1893"
 image_file: site/i18146thmb.jpg
 image_caption: "Interior of Board of Trade, the pit"
+related_content:
+  - title: "1890 Census: Report On Vital & Social Statistics in the U.S"
+    url:
+  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
+    url:
+  - title: "Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)"
+    url:
+  - title: "Biennial Report of the Department of Health of the City of Chicago 1895-96"
+    url:
+  - title: "Centennial History of Illinois: vol. 5 (The Modern Commonwealth, 1893-1918)"
+    url:
+  - title: "Factory Inspection in the United States"
+    url:
+  - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 1"
+    url:
+  - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 2"
+    url:
+  - title: "If Christ Came to Chicago"
+    url:
+  - title: "Report of the Illinois Bureau of Labor Statistics - 1890 - 6th Biennial"
+    url:
+  - title: "Report of the Illinois Bureau of Labor Statistics - 1892 - 7th Biennial"
+    url:
+  - title: "Report of the Illinois Bureau of Labor Statistics - 1894 - 8th Biennial"
+    url:
+  - title: "Report of the Illinois Bureau of Labor Statistics - 1896 - 9th Biennial"
+    url:
+  - title: "Report of the Illinois Bureau of Labor Statistics - 1898 - 10th Biennial"
+    url:
+  - title: "Slums of the Great Cities - Baltimore, Chicago, Philadelphia & New York"
+    url:
+  - title: "The Chicago Strike"
+    url:
 ---
 
 [The Panic of 1893](https://en.wikipedia.org/wiki/Panic_of_1893) was a true and severe financial panic lasting from May of 1893 to November, 1893, with a run on currency, and banks closing, and businesses and manufacturers not being able to open because they had not cash to pay workers or buy materials. The panic included precipitous declines in the stock market, the failure of Wall Street brokerage houses, and the failure of 158 national banks in 1893, mostly in the South and West. Other bank failures included 172 state banks, and 177 private banks, as well as 47 savings banks and 13 loan and trust companies and 16 mortgage companies. The panic started in New York and spread to the rest of the country. This was the atmosphere in which Florence Kelley and her colleagues began their work chronicling the economic conditions in the tenements and [slums of Chicago](/historical/panic/#).

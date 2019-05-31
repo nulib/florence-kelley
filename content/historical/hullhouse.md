@@ -2,6 +2,37 @@
 title: "Hull House Maps and Papers"
 image_file: site/i21905thmb.jpg
 image_caption: "Boys in settlement house workshop."
+related_content:
+  - title: "1890 Census: Report On Vital & Social Statistics in the U.S"
+    url:
+  - title: "A History of Illinois Labor Legislation"
+    url:
+  - title: "Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)"
+    url:
+  - title: "Hull House Maps and Papers"
+    url:
+  - title: "Hull House Summer School"
+    url:
+  - title: "Report and Findings of the Joint Committee to Investigate the "Sweat Shop" System [together with a transcript of the testimony taken by the committee]"
+    url:
+  - title: "Report of the Illinois Bureau of Labor Statistics - 1890 - 6th Biennial"
+    url:
+  - title: "Slums of the Great Cities - Baltimore, Chicago, Philadelphia & New York"
+    url:
+  - title: "Some Ethical Gains Through Legislation"
+    url:
+  - title: "The "New Conscience:" Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
+    url:
+  - title: "The Condition of the Working Class in England in 1844"
+    url:
+  - title: "The Cost of Something for Nothing"
+    url:
+  - title: "Twenty Years at Hull House"
+    url:
+  - title: "Wealth Against Commonwealth"
+    url:
+  - title: "Women and Social Legislation in the United States"
+    url:
 ---
 
 The book [Hull House Maps and Papers](/historical/hullhouse/#), published in 1895, is a series of essays and statistical information collected by Florence Kelley and her colleagues at Hull House, the settlement house at 335 South Halsted Street.

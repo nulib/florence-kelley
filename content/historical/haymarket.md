@@ -2,6 +2,23 @@
 title: "The Haymarket"
 image_file: site/i19202thmb.jpg
 image_caption: "West Randolph Street market (Haymarket Square)."
+related_content:
+  - title: "Altgeld Denys It: He Gives His Side of the Loan Story"
+    url:
+  - title: "Altgeld Has Not Answered"
+    url:
+  - title: "Eagle Forgotten: The Life of John Peter Altgeld"
+    url:
+  - title: "Fix on Judge Gary"
+    url:
+  - title: "Inaugral Address of John Peter Altgeld Before the Thirty-Eighth General Assembly, january 10, 1893"
+    url:
+  - title: "John Peter Altgeld: A Spokesman for Democracy"
+    url:
+  - title: "The Administration of Governor John Peter Altgeld of Illinois 1893-1897"
+    url:
+  - title: "Will Altgeld Please Explain?"
+    url:
 ---
 
 The Haymarket is a place, a city square, formerly an important market in Chicago. Its name is remembered because on May 4, 1886, a bomb was thrown at an [anarchist meeting](/context/movements/haymarket/). Police marched from the nearby Desplaines police station and fired upon the small crowd assembled, and seven police officers died, several more were wounded. A number of persons at the meeting were wounded and some may have died. The event occurred at a time of great tension over strikes and other conflicts involving the organization of labor. [[read more]](http://www.encyclopedia.chicagohistory.org/pages/571.html)

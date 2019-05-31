@@ -2,6 +2,49 @@
 title: "3 Pivotal Court Cases"
 image_file: site/5780pb31f14ip400g.jpg
 image_caption: "Men working 1. Photograph by Rubenstein"
+related_content:
+  - title: "Muller v. Oregon: Brief for Plaintiff in Error"
+    url:
+  - title: "Muller v. Oregon: Supreme Court Opinion"
+    url:
+  - title: "Muller v. Oregon: Transcript of Record"
+    url:
+  - title: "Ritchie v. People: Abstract of Record 1"
+    url:
+  - title: "Ritchie v. People: Abstract of Record 10"
+    url:
+  - title: "Ritchie v. People: Abstract of Record 2"
+    url:
+  - title: "Ritchie v. People: Abstract of Record 3"
+    url:
+  - title: "Ritchie v. People: Abstract of Record 4"
+    url:
+  - title: "Ritchie v. People: Abstract of Record 5"
+    url:
+  - title: "Ritchie v. People: Abstract of Record 8"
+    url:
+  - title: "Ritchie v. People: Abstract of Record 9"
+    url:
+  - title: "Ritchie v. People: Brief and Argument of Defendant in Error"
+    url:
+  - title: "Ritchie v. People: Brief and Argument of Plaintiff in Error"
+    url:
+  - title: "Ritchie v. People: Opinion of Nebraska"
+    url:
+  - title: "Ritchie v. People: Various Documents"
+    url:
+  - title: "Ritchie v. Wayman: Brief and Argument for Appellants by Louis Brandeis"
+    url:
+  - title: "Ritchie v. Wayman: Brief and Argument for Appellees"
+    url:
+  - title: "Ritchie v. Wayman: Brief and Argument for John E. W. Wayman"
+    url:
+  - title: "Ritchie v. Wayman: Demurrer to Bill of Complaint"
+    url:
+  - title: "Ritchie v. Wayman: Records & Briefs"
+    url:
+  - title: "Ritchie v. Wayman: Ritchie Complaint"
+    url:
 ---
 
 #### *Ritchie v. People* (1895) & *Ritchie v. Wayman* (1910)

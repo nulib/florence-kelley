@@ -2,8 +2,32 @@
 title: "Henry Demarest Lloyd and Jesse Bross"
 image_file: site/LloydHenryDemarest.jpg
 image_caption: "Henry Demarest Lloyd"
+related_content:
+  - title: "Contribution of William Bross to the Growth of the City of Chicago"
+    url:
+  - title: "Henry Demarest Lloyd to Florence Kelley, Aug. 15, 1894"
+    url:
+  - title: "Henry Demarest Lloyd to Florence Kelley, Oct. 18, 1899"
+    url:
+  - title: "Henry Demarest Lloyd to Florence Kelley, Sept. 29, 1905"
+    url:
+  - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 1"
+    url:
+  - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 2"
+    url:
+  - title: "Hull House Maps and Papers"
+    url:
+  - title: "Obituary: Henry D. Lloyd is Dead"
+    url:
+  - title: "Our Toiling Children"
+    url:
+  - title: "The "New Conscience:" Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
+    url:
+  - title: "Twenty Years at Hull House"
+    url:
+  - title: "Wealth Against Commonwealth"
+    url:
 ---
-
 When Florence Kelley arrived in Chicago on that snowy December of 1891, with three children, Nicholas, 6, Margaret, 4, and John Brown, 2, in tow, she went first to the Women’s Temple of the Women’s Christian Temperance Union, where there was a nursery. Within a few days she had gone to [Hull House](/historical/hullhouse), the Settlement, where she met Jane Addams. For the rest of her time in Chicago Hull House would be the center of her public and reform activities, with its residents and friends playing important roles.
 
 Soon after her arrival in Chicago, Jane Addams introduced Florence Kelley to Henry Demarest Lloyd and his wife, Jesse Bross Lloyd. The Lloyds promptly and generously offered to take the children into their family and home, a rambling country house in Winnetka. Soon after the children’s encampment at Wayside, their nursemaid arrived on the train from New York with a trunk full of clothes and toys. And so the children stayed with the Lloyds in Winnetka, on and off, for the next several years. The oldest child, Nicholas, often went for summer holidays with the Lloyds in Rhode Island.
