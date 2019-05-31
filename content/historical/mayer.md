@@ -2,6 +2,33 @@
 title: "Levy Mayer"
 image_file: site/levymayerhall.jpg
 image_caption: "Levy Mayer Hall"
+related_content:
+  - title: "Buys in the Calumet Distillery"
+    url:
+  - title: "Change in Whisky Trust"
+    url:
+  - title: "Eyes on the Bench: Hot Times to Follow Supreme Court Whisky Decision"
+    url:
+  - title: "Levy Mayer Argues Against the Law: Question of the Constitutionality of the Eight-Hour Act is Raised"
+    url:
+  - title: "Levy Mayer and the New Industrial Era"
+    url:
+  - title: "NU School of Law Description of New Bldgs"
+    url:
+  - title: "Not Worth Paper Written On: Mrs. Kelley's Estimate of Value of Child-Labor Law"
+    url:
+  - title: "Obituary: Levy Mayer's Burial to Wait Return of Wife"
+    url:
+  - title: "Obituary: Levy Mayer, Noted Lawyer, Found Dead"
+    url:
+  - title: "To Adopt a Reorganization Plan: Attorney Levy Mayer to Go to New York Today for the Whisky Trust"
+    url:
+  - title: "Whisky Trust Denies It All: Answer to Attorney-General Moloney's Charges"
+    url:
+  - title: "Whisky Trust Gets a Blow"
+    url:
+  - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois "Eight-Hour" Decision"
+    url:
 ---
 
 The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/historical/mayer/#) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.

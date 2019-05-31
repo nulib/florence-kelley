@@ -3,6 +3,48 @@ title: "Historical Context"
 layout: single
 image_caption: "Bryan Block, NW corner of Monroe and LaSalle Street."
 image_file: site/i21542thmb.jpg
+related_content:
+  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
+    url:
+  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
+    url:
+  - title: "Annual Report of the Department of Health of the City of Chicago 1893"
+    url:
+  - title: "Annual Report of the Department of Health of the City of Chicago 1894"
+    url:
+  - title: "Annual Report of the Factory Inspectors of Illinois, 1899"
+    url:
+  - title: "As Others See Chicago: Impressions of Visitors, 1673-1933"
+    url:
+  - title: "Biennial Report of the Department of Health of the City of Chicago 1895-96"
+    url:
+  - title: "Centennial History of Illinois: vol. 5 (The Modern Commonwealth, 1893-1918)"
+    url:
+  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
+    url:
+  - title: "Chicago and the American Literary Imagination, 1880-1920"
+    url:
+  - title: "Flaws in the Law: Supreme Court Punctures the Eight-Hour Act"
+    url:
+  - title: "If Christ Came to Chicago"
+    url:
+  - title: "Moran's Dictionary of Chicago and Its Vicinity"
+    url:
+  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
+    url:
+  - title: "The Chicago Strike"
+    url:
+  - title: "The Pullman Strike : the Story of a Unique Experiment and of a Great Labor Upheaval"
+    url:
+  - title: "The Tenements of Chicago, 1908-1935"
+    url:
+  - title: "Truancy and Non-Attendance in the Chicago Schools: A Study of the Social Aspects of the"
+    url:
+  - title: "Compulsory Education and Child Labor Legislation of Illinois"
+    url:
+  - title: "Vice in Chicago"
+    url:
+    
 ---
 
 The decade of the 1890's marks the firm establishment of Chicago’s position as the nation’s second city, passing Philadelphia and Brooklyn in population, and assuming a place of financial and industrial preeminence, reinforced by being the center of the newly linked national railroad system. After the historic immigrations of the 1880's, mostly from Europe, and the rebuilding from the devastation of the [Fire](http://www.encyclopedia.chicagohistory.org/pages/1740.html), the city’s economy boomed, bringing more people.

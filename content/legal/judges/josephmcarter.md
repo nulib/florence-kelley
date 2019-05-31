@@ -2,6 +2,17 @@
 title: "Carter, Joseph M."
 image_caption: "Water Tower and waterworks after the Fire of 1871."
 image_file: site/i02792thmb.jpg
+related_content:
+  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
+    url:
+  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
+    url:
+  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
+    url:
+  - title: "Moran's Dictionary of Chicago and Its Vicinity"
+    url:
+  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
+    url:
 ---
 
 Joseph N. Carter was born in Hardin County Kentucky on March 3rd, 1843. Little is known of Carter’s early life; however sometime before the outbreak of the Civil War, Carter’s family moved to Illinois. During the war Carter served in the 70th Illinois Infantry as a private. He was only 19 at the time, and after the war ended Carter returned to school.

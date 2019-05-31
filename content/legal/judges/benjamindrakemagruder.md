@@ -2,6 +2,19 @@
 title: "Magruder, Benjamin Drake"
 image_file: site/i24066thmb.jpg
 image_caption: "Children playing on sidewalk."
+related_content:
+  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
+    url:
+  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
+    url:
+  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
+    url:
+  - title: "Feed for the Lawyers"
+    url:
+  - title: "Moran's Dictionary of Chicago and Its Vicinity"
+    url:
+  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
+    url:
 ---
 
 Benjamin Drake Magruder was born on September 27, 1838 in Natchez, Mississippi. His father, Professor W. K. N. Magruder and his mother were both originally from the North. Because his father was a professor, he prepared young Benjamin for college on his own, and at age 14, Benjamin Magruder entered Yale University.
