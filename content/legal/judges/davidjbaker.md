@@ -2,22 +2,6 @@
 title: "Baker, David J."
 image_file: site/i35691aathmb.jpg
 image_caption: "Corner of State and Madison Streets after the Chicago Fire of 1871."
-related_content:
-  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
-  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
-  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
-  - title: "Judge Baker is Taken to Task"
-    url:
-  - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
-  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
-  - title: "Reproof to Judge Baker"
-    url:
-  - title: "Sons of the Revolution Meet: Judge Frank Baker Is Chosen President"
 ---
 
 David Jewett Baker was born on November 20, 1834 in Kaskaskia, Illinois. He received his early education in the area, and attended Shurtliff College in Upper Alton Illinois for his advanced education. In his academic work, Baker was known by his colleagues and professors to be exceptionally bright. He graduated with honors in 1854.

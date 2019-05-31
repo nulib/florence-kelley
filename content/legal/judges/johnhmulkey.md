@@ -2,17 +2,6 @@
 title: "Mulkey, John H."
 image_caption: "Harper's Weekly, Blockade at Grand Crossing on the night of June 26th."
 image_file: site/i28289thmb.jpg
-related_content:
-  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
-  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
-  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
-  - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
-  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
 ---
 
 John H. Mulkey was born on May 24th, 1824. Born and raised in Monroe County, Kentucky, he chose to stay in Kentucky for most of his schooling. He received his college degree from Bacon College in Harrodsburg, Kentucky. After college he moved to Illinois. When he was twenty-three years old, Mulkey enlisted in the 2nd Illinois Volunteer Infantry in the Mexican American War. He served as a 2nd Lieutenant in the war, and saw a full year of active duty from July of 1847 until the end of the war the following July.

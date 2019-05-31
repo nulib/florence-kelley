@@ -2,46 +2,8 @@
 title: "Lives of Children"
 image_file: site/i52108thmb.jpg
 image_caption: "Children digging with pick axes on a Chicago street."
-related_content:
-  - title: "Child Labor Legislation"
-    url:
-  - title: "Child Labor Legislation and Enforcement in New England and the Middle States"
-    url:
-  - title: "Industrial Conditions as a Community Problem with Particular Reference to Child Labor"
-    url:
-  - title: "Labor of Women and Children in Tenements"
-    url:
-  - title: "More Seats Needed Children Forced Out of School for Want of Room"
-    url:
-  - title: "Not Worth Paper Written On: Mrs. Kelley's Estimate of Value of Child-Labor Law"
-    url:
-  - title: "Obstacles to the Enforcement of Child Labor Legislation"
-    url:
-  - title: "On Some Changes in the Legal Status of the Child Since Blackstone"
-    url:
-  - title: "Our Toiling Children"
-    url:
-  - title: "Preventive Work for Children Discussed at the Conference of the Bureau of Charities"
-    url:
-  - title: "Preventive Work for Children Societies Will Discuss the Subject in a Series of Papers"
-    url:
-  - title: "Report on Condition of Woman and Child Wage-Earners in the United States; Volume IX"
-    url:
-  - title: "The Delinquent Child and the Home"
-    url:
-  - title: "The Federal Children's Bureau: A Symposium"
-    url:
-  - title: "The Federal Government and the Working Children"
-    url:
-  - title: "The Illinois Child-Labor Law"
-    url:
-  - title: "The Invasion of Family Life by Industry"
-    url:
-  - title: "To Stop Child Labor: Dr. Probst and Florence Kelley Start a Crusade"
-    url:
-  - title: "Truancy and Non-Attendance in the Chicago Schools: A Study of the Social Aspects of the Compulsory Education and Child Labor Legislation of Illinois"
-    url:
 ---
+
 Florence Kelley’s first and unwavering commitment was to to improving the lives of the tens of thousands of girls and boys who worked. Her own writings returned again and again to the conditions under which children operated sewing machines in the tenements, carried water and molten glass through the night in the factories, stood knee deep in blood and entrails at the stockyards, and operated machinery which often claimed an arm, a leg, a hand, or a their eyesight.
 
 For Florence Kelley, the children should be out of the sweatshops and bars and off the factory floor and streets, and in school. Always a teacher herself, her multiplicity of projects always had as their goal getting the children out from under their workloads and into a school.

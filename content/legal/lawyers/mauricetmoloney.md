@@ -2,21 +2,6 @@
 title: "Moloney, Maurice T."
 image_file: site/5780pb31f7kp400gthmb.jpg
 image_caption: "Room of workers 2. Photograph by Rubenstein"
-related_content:
-  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
-  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
-  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
-  - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
-  - title: "Obituary: M.T. Moloney Dies at Ottawa"
-    url:
-  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
-  - title: "Whisky Trust Denies It All: Answer to Attorney-General Moloney's Charges"
-    url:
 ---
 
 Maurice T. Moloney was born in Kerry county, Ireland on July 26th, 1849. Moloney came to the United States at the young age of 18. When he first arrived in the United States, he did not know what profession he was going to pursue. He eventually decided to pursue a career in law, and attended the University of Virginia Law School. He graduated in 1871 with a Bachelor of Law degree, and was admitted to the Bar in Virginia.

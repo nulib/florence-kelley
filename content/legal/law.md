@@ -2,21 +2,6 @@
 title: "The Law As Storyteller"
 image_caption: "Management notice. Photograph by Rubenstein"
 image_file: site/5780pb31f15np400gthmb.jpg
-related_content:
-  - title: "A Divorce Asked For (NYT)"
-    url:
-  - title: "Dr. Wischnewetzky Unsuccessful"
-    url:
-  - title: "Forced to Run Away: Mrs. Wiscenewetzky Pleads for her Children"
-    url:
-  - title: "From His Standpoint: Wischnewetzky's Testimony About his Domestic Troubles"
-    url:
-  - title: "Judge Kelley's Daughter Married"
-    url:
-  - title: "Kelley v. Wischnewetzky: Certificate of Evidence"
-    url:
-  - title: "Ritchie v. People: Brief and Argument of Defendant in Error"
-    url:
 ---
 
 >“Imaginative work ... is like a spider’s web ... attached to life at all four corners ... one remembers that these webs are not spun in mid-air by incorporeal creatures, but are the work of suffering human beings, and are attached to grossly material things like health and money and the houses we live in ...”

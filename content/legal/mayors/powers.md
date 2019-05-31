@@ -2,29 +2,6 @@
 title: "Powers, Johnny"
 image_caption: "Fireboat, the Swenie, docked on the Chicago River."
 image_file: site/DN-0000485thmb.jpg
-related_content:
-  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
-  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
-  - title: "Conditions According to Wealth: Florence Kelley Gives Some Facts About West Side Streets and Alleys"
-    url:
-  - title: "Helped the Plague Gross Mismanagement Charged against Dr. Reynolds"
-    url:
-  - title: "Hull House Maps and Papers"
-    url:
-  - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
-  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
-  - title: "The Tenements of Chicago, 1908-1935"
-    url:
-  - title: "Twenty Years at Hull House"
-    url:
-  - title: "Vice in Chicago"
-    url:
-  - title: "Why Filth Abounds: Revelations in Reference to Streets and Alleys"
-    url:
 ---
 
 Chicago alderman Johnny Powers was born February 15, 1852 in Brannon, Kilkenny, Ireland. As an Irish immigrant, he was able to gain control of Chicago’s predominantly Irish 19th Ward as a Democratic Party boss from 1888-1927. His involvement in the “Alderman’s Wars” of 1916-1921 made famous his nickname, Johnny “De Pow” Powers. As [Italian immigrants](http://www.encyclopedia.chicagohistory.org/pages/758.html) flooded the West side’s 19th Ward, Anthony D’Andrea and his supporters mounted a bloody campaign to unseat Powers. From D’Andrea’s first aldermanic defeat in 1916 to his last in 1921, the violent allies of each alderman killed each other at an astonishing pace (30 deaths were reported in 5 years) until D’Andrea’s assassination in May of 1921, at which time it became clear that Powers reigned triumphant in the 19th Ward, despite his [corruption and tolerance of crime](/documentbrowser/?nodeid=57734&page=132).

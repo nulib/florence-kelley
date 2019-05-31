@@ -2,29 +2,6 @@
 title: "The Factory Inspection Reports"
 image_file: site/5780pb31f15np400gthmb.jpg
 image_caption: "Management notice. Photograph by Rubenstein"
-related_content:
-  - title: "A History of Illinois Labor Legislation"
-    url:
-  - title: "Annual Report of the Department of Health of the City of Chicago 1893"
-    url:
-  - title: "Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)"
-    url:
-  - title: "Annual Report of the Factory Inspectors of Illinois, 1893"
-    url:
-  - title: "Annual Report of the Factory Inspectors of Illinois, 1894"
-    url:
-  - title: "Annual Report of the Factory Inspectors of Illinois, 1895"
-    url:
-  - title: "Annual Report of the Factory Inspectors of Illinois, 1896"
-    url:
-  - title: "Annual Report of the Factory Inspectors of Illinois, 1897"
-    url:
-  - title: "Annual Report of the Factory Inspectors of Illinois, 1898"
-    url:
-  - title: "Annual Report of the Factory Inspectors of Illinois, 1899"
-    url:
-  - title: "Ninth Annual Report of the Factory Inspectors of the State of NY (transmitted to the legislature 01/28/1895)"
-    url:
 ---
 
 The four Annual Reports of the Factory Inspectors of Illinois, filed by Florence Kelley for the years 1893, 1894, 1895, and 1896, the years in which she held the office of Chief Factory Inspector, are official reports to the Governor, a compendium of information on prosecutions under the Factory and Workshop Inspection Act, and a history of the constitutional challenge to the legislation brought by the Illinois Manufacturers Association under the leadership of [Levy Mayer](/historical/mayer).
