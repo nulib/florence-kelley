@@ -2,17 +2,6 @@
 title: "Cooke, George A."
 image_file: site/i52233thmb.jpg
 image_caption: "Inter State Expo Building."
-related_content:
-  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
-  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
-  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
-  - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
-  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
 ---
 
 In 1869 George A. Cooke was born in New Athens, Ohio. Sadly, when he was 11 both of his parents died, and Cooke moved to Mercer County Illinois. He attended Knox College, and graduated in 1892. He was then admitted to the Illinois bar in 1895. He set up his own practice in Aledo, Illinois and continued his practice until he was elected to the Illinois Supreme Court in 1909.

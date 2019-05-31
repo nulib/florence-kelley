@@ -2,66 +2,8 @@
 title: "December, 1897: The John Crerar Library, Brandeis and Ritchie II"
 image_file: site/i19144thmb.jpg
 image_caption: "John Crerar Library"
-related_content:
-  - title: "Attacking the Law: Manufacturers Test the Eight-Hour Labor Statute"
-    url:
-  - title: "Densare Denounced Stirring Speeches against the Sweating System"
-    url:
-  - title: "Essentials in Factory Inspection"
-    url:
-  - title: "Factory Cases in the Supreme Court"
-    url:
-  - title: "Factory Inspection Proprietors of Workshops Not All Disposed to Comply with the Law"
-    url:
-  - title: "Factory Inspection in the United States"
-    url:
-  - title: "Factory Legislation for Women in the United States"
-    url:
-  - title: "Hit at Sweat-Shops: Speakers Urge the Eight-Hour Law for Women"
-    url:
-  - title: "Illinois, Department of Labor, Bureau of Labor Statistics, Bulletin, Labor Legislation in the 46th General Assembly of Illinois (1909)."
-    url:
-  - title: "In Labor's Realm The Eight-hour Law Gets a Blow in Kansas"
-    url:
-  - title: "Kelley v. Wischnewetzky: Certificate of Evidence"
-    url:
-  - title: "Law Can't Limit a Working Day"
-    url:
-  - title: "Levy Mayer Argues Against the Law: Question of the Constitutionality of the Eight-Hour Act is Raised"
-    url:
-  - title: "Looking in an Evil: Uncle Sam Examining the Sweatshop System"
-    url:
-  - title: "Modern Slave Dens Tour of the Legislative Committee to Sweat Shops"
-    url:
-  - title: "More Time to Work: Movement to Abolish the Eight-Hour Law"
-    url:
-  - title: "Muller v. Oregon: Brief for Plaintiff in Error"
-    url:
-  - title: "National Consumer's League and the Brandeis Brief"
-    url:
-  - title: "Never Cease Work Sweat-shops Found Running All Day Sunday"
-    url:
-  - title: "Ninth Annual Report of the Factory Inspectors of the State of NY (transmitted to the legislature 01/28/1895)"
-    url:
-  - title: "Report on Condition of Woman and Child Wage-Earners in the United States; Volume IX"
-    url:
-  - title: "Ritchie v. Wayman: Brief and Argument for Appellants by Louis Brandeis"
-    url:
-  - title: "Ritchie v. Wayman: Brief and Argument for Appellants by Louis Brandeis"
-    url:
-  - title: "Says the Laws Are Defective: Miss Florence Kelley, Factory Inspector, Delivers an Address"
-    url:
-  - title: "Sweat Shops Should Go Illinois Factory Inspectors Decidedly Urge Their Abolition"
-    url:
-  - title: "The United States Supreme Court and the Utah Eight-Hours' Law"
-    url:
-  - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois "Eight-Hour" Decision"
-    url:
-  - title: "Women Against Eight-Hour Law"
-    url:
-  - title: "Would Smash A Law: Sharp Argument in the Eight-Hour Test Case at Mt. Vernon"
-    url:
 ---
+
 In December of 1897, Florence Kelley found herself working as a part time librarian for the [John Crerar Library](https://www.lib.uchicago.edu/crerar/), a special reference collection established by the estate of John Crerar, after being unexpectedly fired as Chief Factory Inspector in August of 1897.
 
 [John Peter Altgeld](/historical/altgeld) was not reelected Governor of Illinois in the fall of 1896 during a Republican sweep of national and state elections where the stability of currency was a principal issue. Major William McKinley, a modest civil war hero and congressman, was elected President over Illinois native son [William Jennings Bryan](http://historymatters.gmu.edu/d/5354/). One commentator noted: "McKinley had the gift, invaluable to a politician of narrow vision and limited understanding, of emitting sonorous platitudes as though they were recently discovered truths."

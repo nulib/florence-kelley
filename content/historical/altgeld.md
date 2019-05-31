@@ -2,38 +2,8 @@
 title: "John Peter Altgeld"
 image_file: site/altgeldTest.jpg
 image_caption: "John Peter Altgeld"
-related_content:
-  - title: "Altgeld Denys It: He Gives His Side of the Loan Story"
-    url:
-  - title: "Altgeld Has Not Answered"
-    url:
-  - title: "Chicago National Bank to Move to Unity Building"
-    url:
-  - title: "Eagle Forgotten: The Life of John Peter Altgeld"
-    url:
-  - title: "John P. Algeld of Lake View Nominated By Democrats"
-    url:
-  - title: "John Peter Altgeld: A Spokesman for Democracy"
-    url:
-  - title: "Obituary: Career of John Peter Altgeld"
-    url:
-  - title: "Obituary: Ex-Gov. J.P. Altgeld Dead"
-    url:
-  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
-  - title: "Sarahs Choice"
-    url:
-  - title: "Tattlings of a Retired Politician: A Million Dollar Bribe"
-    url:
-  - title: "The Administration of Governor John Peter Altgeld of Illinois 1893-1897"
-    url:
-  - title: "The Cost of Something for Nothing"
-    url:
-  - title: "The Pullman Strike : the Story of a Unique Experiment and of a Great Labor Upheaval"
-    url:
-  - title: "Will Altgeld Please Explain?"
-    url:
 ---
+
 John Peter Altgeld was born on December 30, 1847 in the small German village of Nieder Selters. His father was a struggling farmer and a wagon maker, so to improve their life, his family left Germany for Newville, Ohio when John was only three months old. The Altgelds continued to be farmers. During this time, the Altgelds had eight more children, making John the eldest of nine, although three would die during infancy.
 
 John spent most of his childhood working on his family’s farm. In school John was an average student, and at age 12 he stopped attending school at the request of his father. John did not mind this entirely as he was picked on frequently by other children for being a foreigner.
