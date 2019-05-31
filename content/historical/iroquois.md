@@ -9,7 +9,7 @@ related_content:
     url:
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
     url:
-  - title: "The Theatres: The "Bostonians" Open Their Season at Chicago Opera-House"
+  - title: "The Theatres: The 'Bostonians' Open Their Season at Chicago Opera-House"
     url: 
 ---
 
