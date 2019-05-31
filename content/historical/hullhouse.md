@@ -13,7 +13,7 @@ related_content:
     url:
   - title: "Hull House Summer School"
     url:
-  - title: "Report and Findings of the Joint Committee to Investigate the "Sweat Shop" System [together with a transcript of the testimony taken by the committee]"
+  - title: "Report and Findings of the Joint Committee to Investigate the 'Sweat Shop' System [together with a transcript of the testimony taken by the committee]"
     url:
   - title: "Report of the Illinois Bureau of Labor Statistics - 1890 - 6th Biennial"
     url:
@@ -21,7 +21,7 @@ related_content:
     url:
   - title: "Some Ethical Gains Through Legislation"
     url:
-  - title: "The "New Conscience:" Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
+  - title: "The 'New Conscience:' Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
     url:
   - title: "The Condition of the Working Class in England in 1844"
     url:
