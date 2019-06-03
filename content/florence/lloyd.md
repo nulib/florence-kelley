@@ -21,7 +21,7 @@ related_content:
     url:
   - title: "Our Toiling Children"
     url:
-  - title: "The "New Conscience:" Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
+  - title: "The 'New Conscience:' Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
     url:
   - title: "Twenty Years at Hull House"
     url:

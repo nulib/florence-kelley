@@ -27,7 +27,7 @@ related_content:
     url:
   - title: "Whisky Trust Gets a Blow"
     url:
-  - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois "Eight-Hour" Decision"
+  - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois 'Eight-Hour' Decision"
 ---
 
 The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/legal/lawyers/levymayer/#) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.

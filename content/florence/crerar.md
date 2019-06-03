@@ -55,7 +55,7 @@ related_content:
     url:
   - title: "The United States Supreme Court and the Utah Eight-Hours' Law"
     url:
-  - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois "Eight-Hour" Decision"
+  - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois 'Eight-Hour' Decision"
     url:
   - title: "Women Against Eight-Hour Law"
     url:
