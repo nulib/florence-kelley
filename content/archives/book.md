@@ -4,7 +4,6 @@ image_caption: "Men pushing a horse drawn wagon along a dirt road while other me
 image_file: site/DN-0000953thmb.jpg
 ---
 
----
 Year | Title
 --- | ---
 2007 | [History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)](2007. Pierce, Bessie Louise. University of Chicago Press Copyright 2007 University of Chicago Press.)

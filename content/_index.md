@@ -7,7 +7,7 @@ image: /images_fk/COVER-F-spine-B-small.jpg
 
 ### Florence Kelley, Factory Inspector in 1890s Chicago, and the Children
 
-This book braids together three narratives: the story of Florence Kelley’s life as a mother and reformer in the tumult of 1890s Chicago; the story of the author’s arrival in Chicago a century later and her new life and work here; and references to wrongful convictions and exonerations over the course of a decade leading finally to the abolition of capital punishment in Illinois...[[more]](http://florencekelley.northwestern.edu/about/book)
+This book braids together three narratives: the story of Florence Kelley’s life as a mother and reformer in the tumult of 1890s Chicago; the story of the author’s arrival in Chicago a century later and her new life and work here; and references to wrongful convictions and exonerations over the course of a decade leading finally to the abolition of capital punishment in Illinois...[[more]](/about/book)
 
 > “This book documents and explores an important time in US history, and does so with a depth and intelligence that make it irresistibly compelling.” - Scott Turow, author, Presumed Innocent
 

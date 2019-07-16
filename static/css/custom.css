@@ -1,0 +1,8 @@
+.footer {
+  background-color: #000;
+}
+
+.content a:hover {
+  color: #272B30;
+  background-color: yellow;
+}

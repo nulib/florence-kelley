@@ -39,4 +39,4 @@ The School’s curriculum was based upon corrective measures and training in han
 
 From: [Second Annual Report of the Executive Board of the Jewish Training School of Chicago](/historical/jts/#), Joseph Stolz, Secretary.
 
-next:  [Legal Context](/legal)
+next:  [Legal Context](/legal/law/)
