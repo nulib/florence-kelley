@@ -17,40 +17,34 @@
 </section>
 
 <div class="section">
-
-<div class="container">
-<div class="columns">
-    <div class="column is-one-quarter">
-
-        <aside class="menu">
-        <a href="/florence/" class="menu-label">
-        Florence Kelley
-        </a>
-        <ul class="menu-list">
-        <li><a href="/florence/education/">Education</a></li>
-        <li><a href="/florence/arrival/">Arrival at Hull House</a></li>
-        <li><a href="/florence/1892/">March 24 and March 25, 1892: The Cook County Court House</a></li>
-        <li><a href="/florence/inspector/">Spring - Summer 1892: Working in the Tenements of the 19th Ward</a></li>
-        <li><a href="/florence/1894/">Spring - Summer 1894: Factory Inspections and a Small Pox Epidemic</a></li>
-        <li><a href="/florence/1895/">March 1895: Springfield, Illinois and the Illinois Supreme Court</a></li>
-        <li><a href="/florence/crerar/">December, 1897: The John Crerar Library, Brandeis and Ritchie II</a></li>
-        <li><a href="/florence/father/">William Darrah "Pig Iron" Kelley</a></li>
-        <li><a href="/florence/lloyd/">Henry Demarest Lloyd and Jesse Bross</a></li>
-        </ul>
-        </aside>
-    </div>
-    <div class="column">
-        <div class="content">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-three-quarters">
+          <div class="content">
             {{ .Content}}
-        </div>
-      <br>
-    </div>
-    <div class="column is-one-quarter">
+            <div class="box">
+              {{ with .Params.related_content }}
+            <aside class="menu">
+              <p class="menu-label">
+                Related Content
+              </p>
+              <ul class="menu-list">
+                {{ range .}}
+                <li><a href="{{ .url}} ">{{ .title }}</a></li>
+                {{ end }}
+              </ul>
+            </aside>
+              {{ end }}
+            </div>
+          </div>
+      </div>
+      <div class="column is-one-quarter">
         {{ if .Params.image_file }}
         <div class="card">
           <div class="card-image">
               <figure class="image">
-                <img data-jslghtbx-caption="{{ .Params.image_caption }}" src="/images_fk/{{ .Params.image_file }}" data-jslghtbx>              </figure>
+                <img data-jslghtbx-caption="{{ .Params.image_caption }}" src="/images_fk/{{ .Params.image_file }}" data-jslghtbx>
+              </figure>
           </div>
           <div class="card-content">
             <div class="content">
@@ -60,21 +54,26 @@
         </div>
         <br>
         {{ end }}
-        {{ with .Params.related_content }}
-        <aside class="menu">
-          <p class="menu-label">
-            Related Content
-          </p>
-          <ul class="menu-list">
-            {{ range .}}
-            <li><a href="{{ .url}} ">{{ .title }}</a></li>
-            {{ end }}
-          </ul>
-        </div>
-        {{ end }}
+          <aside class="menu">
+            <a href="/florence/" class="menu-label">
+            Florence Kelley
+            </a>
+            <ul class="menu-list">
+              <li><a href="/florence/education/">Education</a></li>
+              <li><a href="/florence/arrival/">Arrival at Hull House</a></li>
+              <li><a href="/florence/1892/">March 24 and March 25, 1892: The Cook County Court House</a></li>
+              <li><a href="/florence/inspector/">Spring - Summer 1892: Working in the Tenements of the 19th Ward</a></li>
+              <li><a href="/florence/1894/">Spring - Summer 1894: Factory Inspections and a Small Pox Epidemic</a></li>
+              <li><a href="/florence/1895/">March 1895: Springfield, Illinois and the Illinois Supreme Court</a></li>
+              <li><a href="/florence/crerar/">December, 1897: The John Crerar Library, Brandeis and Ritchie II</a></li>
+              <li><a href="/florence/father/">William Darrah "Pig Iron" Kelley</a></li>
+              <li><a href="/florence/lloyd/">Henry Demarest Lloyd and Jesse Bross</a></li>
+            </ul>
+          </aside>
+          <br>
+      </div>
     </div>
-</div>
-</div>
+  </div>
 </div>
 {{ end }}
 {{ define "footer" }}

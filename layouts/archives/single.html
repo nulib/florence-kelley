@@ -20,59 +20,45 @@
 
   <div class="container">
     <div class="columns">
-        <div class="column is-one-quarter">
-            <aside class="menu">
+      <div class="column is-three-quarters">
+        <div class="content">
+          {{ .Content}}
+        </div>
+      </div>
+      <div class="column is-one-quarter">
+        {{ if .Params.image_file }}
+        <div class="card">
+          <div class="card-image">
+              <figure class="image">
+                <img data-jslghtbx-caption="{{ .Params.image_caption }}" src="/images_fk/{{ .Params.image_file }}" data-jslghtbx>                  </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <p>{{ .Params.image_caption }}</p>
+            </div>
+          </div>
+        </div>
+        <br>
+        {{ end }}
+          <aside class="menu">
             <a href="/archives/" class="menu-label">
             Archives
             </a>
             <ul class="menu-list">
-            <li><a href="/archives/book/">Book/ Book Excerpt</a></li>
-            <li><a href="/archives/correspondence/">Correspondence</a></li>
-            <li><a href="/archives/court/">Court Documents</a></li>
-            <li><a href="/archives/dissertation/">Dissertation</a></li>
-            <li><a href="/archives/kelley/">Florence Kelley</a></li>
-            <li><a href="/archives/government/">Government Documents - Illinois, Chicago, other</a></li>
-            <li><a href="/archives/newspaper/">Newspaper Article</a></li>
-            <li><a href="/archives/periodical/">Periodical article</a></li>
-            <li><a href="/archives/factory/">Report of the Factory Inspectors of Illinois</a></li>
-            <li><a href="/archives/congressional/">US Congressional Document</a></li>
+              <li><a href="/archives/book/">Book/ Book Excerpt</a></li>
+              <li><a href="/archives/correspondence/">Correspondence</a></li>
+              <li><a href="/archives/court/">Court Documents</a></li>
+              <li><a href="/archives/dissertation/">Dissertation</a></li>
+              <li><a href="/archives/kelley/">Florence Kelley</a></li>
+              <li><a href="/archives/government/">Government Documents - Illinois, Chicago, other</a></li>
+              <li><a href="/archives/newspaper/">Newspaper Article</a></li>
+              <li><a href="/archives/periodical/">Periodical article</a></li>
+              <li><a href="/archives/factory/">Report of the Factory Inspectors of Illinois</a></li>
+              <li><a href="/archives/congressional/">US Congressional Document</a></li>
             </ul>
-            </aside>
-        </div>
-        <div class="column">
-          <div class="content">
-            {{ .Content}}
-          </div>
-          <br>
-        </div>
-        <div class="column is-one-quarter">
-            {{ if .Params.image_file }}
-            <div class="card">
-              <div class="card-image">
-                  <figure class="image">
-                    <img data-jslghtbx-caption="{{ .Params.image_caption }}" src="/images_fk/{{ .Params.image_file }}" data-jslghtbx>                  </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  <p>{{ .Params.image_caption }}</p>
-                </div>
-              </div>
-            </div>
-            <br>
-            {{ end }}
-            {{ with .Params.related_content }}
-            <aside class="menu">
-              <p class="menu-label">
-                Related Content
-              </p>
-              <ul class="menu-list">
-                {{ range .}}
-                <li><a href="{{ .url}} ">{{ .title }}</a></li>
-                {{ end }}
-              </ul>
-            </div>
-            {{ end }}
-        </div>
+          </aside>
+      </div>
+      </div>
     </div>
   </div>
 

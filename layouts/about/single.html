@@ -17,34 +17,15 @@
 </section>
 
 <div class="section">
-
-<div class="container">
-
-<div class="columns">
-    <div class="column is-one-quarter">
-        <aside class="menu">
-        <a href="/about/" class="menu-label">
-        About
-        </a>
-        <ul class="menu-list">
-        <li><a href="/about/book/">The Book: Florence Kelley and the Childrem</a></li>
-        <li><a href="/about/guide/">How to Use this Site</a></li>
-        <li><a href="/about/credits/">Credits</a></li>
-        <li><a href="/about/video/">Video</a></li>
-        <li><a href="/about/links/">Links to Other Web Sites</a></li>
-        <li><a href="/about/contact/">Contact Us/ Feedback</a></li>
-        <li><a href="/about/bibliography/">Bibliography</a></li>
-        <li><a href="/about/copyright/">Copyright</a></li>
-        </ul>
-        </aside>
-    </div>
-    <div class="column">
-        <div class="content">
-          {{ .Content}}
-        </div>
-      <br>
-    </div>
-    <div class="column is-one-quarter">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+          <div class="content">
+            {{ .Content}}
+          </div>
+        <br>
+      </div>
+      <div class="column is-one-quarter">
         {{ if .Params.image_file }}
         <div class="card">
           <div class="card-image">
@@ -59,23 +40,24 @@
         </div>
         <br>
         {{ end }}
-        {{ with .Params.related_content }}
         <aside class="menu">
-          <p class="menu-label">
-            Related Content
-          </p>
+          <a href="/about/" class="menu-label">
+          About
+          </a>
           <ul class="menu-list">
-            {{ range .}}
-            <li><a href="{{ .url}} ">{{ .title }}</a></li>
-            {{ end }}
+            <li><a href="/about/book/">The Book: Florence Kelley and the Childrem</a></li>
+            <li><a href="/about/guide/">How to Use this Site</a></li>
+            <li><a href="/about/credits/">Credits</a></li>
+            <li><a href="/about/video/">Video</a></li>
+            <li><a href="/about/links/">Links to Other Web Sites</a></li>
+            <li><a href="/about/contact/">Contact Us/ Feedback</a></li>
+            <li><a href="/about/bibliography/">Bibliography</a></li>
+            <li><a href="/about/copyright/">Copyright</a></li>
           </ul>
-        </div>
-        {{ end }}
+        </aside>
+      </div>
     </div>
-</div>
-
-</div>
-
+  </div>
 </div>
 {{ end }}
 {{ define "footer" }}

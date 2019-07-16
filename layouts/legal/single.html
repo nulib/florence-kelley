@@ -17,100 +17,98 @@
 </section>
 
 <div class="section">
-
   <div class="container">
     <div class="columns">
-        <div class="column is-one-quarter">
-            <aside class="menu">
-            <a href="/legal/" class="menu-label">
-            Legal Context
-            </a>
-            <ul class="menu-list">
-            <li><a href="/legal/timeline/">The Law as Storyteller</a></li>
-            <li><a href="/legal/reports/">The Factory Inspection Reports</a></li>
-            <li><a href="/legal/court/">Three Pivotal Court Cases</a></li>
-            <li>
-              <a href="/legal/mayors/">Mayors and Aldermen</a>
-              <ul>
-                  <li><a href="/legal/mayors/harrisonJr/">Harrison, Carter H. II</a></li>
-                  <li><a href="/legal/mayors/harrisonSr/">Harrison, Carter H.</a></li>
-                  <li><a href="/legal/mayors/powers/">Powers, Johnny</a></li>
-                  <li><a href="/legal/mayors/washburne/">Washburne, Hempstead</a></li>
-              </ul>
-            </li>
-            <li>
-                <a href="/legal/judges/">Judges</a>
-                <ul>
-                    <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
-                    <li><a href="/legal/judges/">Baker, David J.</a></li>
-                    <li><a href="/legal/judges/">Carter, Joseph M.</a></li>
-                    <li><a href="/legal/judges/">Carter, Orrin Nelson</a></li>
-                    <li><a href="/legal/judges/">Cartwright, James H.</a></li>
-                    <li><a href="/legal/judges/">Cooke, George A.</a></li>
-                    <li><a href="/legal/judges/">Craig, Alfred M.</a></li>
-                    <li><a href="/legal/judges/">Dunn, Frank K.</a></li>
-                    <li><a href="/legal/judges/">Farmer, William M.</a></li>
-                    <li><a href="/legal/judges/">Hand, John P.</a></li>
-                    <li><a href="/legal/judges/">Magruder, Benjamin Drake</a></li>
-                    <li><a href="/legal/judges/">Mulkey, John H.</a></li>
-                    <li><a href="/legal/judges/">Philips, Jesse J.</a></li>
-                    <li><a href="/legal/judges/">Schofield, John</a></li>
-                    <li><a href="/legal/judges/">Scott, John</a></li>
-                    <li><a href="/legal/judges/">Shope, Simeon Peter</a></li>
-                    <li><a href="/legal/judges/">Vickers, Alonzo K.</a></li>
-                    <li><a href="/legal/judges/">Wilkin, Jacob Wilson</a></li>
-                </ul>
-            </li>
-            <li>
-              <a href="/legal/lawyers/">Lawyers</a>
-              <ul>
-                <li><a href="/legal/lawyers/bruce/">Bruce, Andrew</a></li>
-                <li><a href="/legal/lawyers/ela/">Ela, John W.</a></li>
-                <li><a href="/legal/lawyers/levymayer/">Mayer, Levy</a></li>
-                <li><a href="/legal/lawyers/mauricetmoloney/">Moloney, Maurice T.</a></li>
-              </ul>
-            </li>
-            </ul>
-            </aside>
+      <div class="column is-three-quarters">
+        <div class="content">
+          {{ .Content}}
         </div>
-        <div class="column">
-          <div class="content">
-            {{ .Content}}
+        <br>
+        {{ with .Params.related_content }}
+        <div class="box">
+          <aside class="menu">
+            <p class="menu-label">
+              Related Content
+            </p>
+            <ul class="menu-list">
+              {{ range .}}
+              <li><a href="{{ .url}} ">{{ .title }}</a></li>
+              {{ end }}
+            </ul>
+          </aside>
+        </div>
+        {{ end }}
+      </div>
+      <div class="column is-one-quarter">
+        {{ if .Params.image_file }}
+        <div class="card">
+          <div class="card-image">
+            <figure class="image">
+              <img data-jslghtbx-caption="{{ .Params.image_caption }}" src="/images_fk/{{ .Params.image_file }}" data-jslghtbx>
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="content">
+              <p>{{ .Params.image_caption }}</p>
+            </div>
+          </div>
           </div>
           <br>
-        </div>
-        <div class="column is-one-quarter">
-            {{ if .Params.image_file }}
-            <div class="card">
-              <div class="card-image">
-                  <figure class="image">
-                      <img data-jslghtbx-caption="{{ .Params.image_caption }}" src="/images_fk/{{ .Params.image_file }}" data-jslghtbx>
-                  </figure>
-              </div>
-              <div class="card-content">
-                <div class="content">
-                  <p>{{ .Params.image_caption }}</p>
-                </div>
-              </div>
-            </div>
-            <br>
-            {{ end }}
-            {{ with .Params.related_content }}
-            <aside class="menu">
-              <p class="menu-label">
-                Related Content
-              </p>
-              <ul class="menu-list">
-                {{ range .}}
-                <li><a href="{{ .url}} ">{{ .title }}</a></li>
-                {{ end }}
-              </ul>
-            </div>
-            {{ end }}
-        </div>
+        {{ end }}
+        <aside class="menu">
+          <a href="/legal/" class="menu-label">
+          Legal Context
+          </a>
+        <ul class="menu-list">
+        <li><a href="/legal/timeline/">The Law as Storyteller</a></li>
+        <li><a href="/legal/reports/">The Factory Inspection Reports</a></li>
+        <li><a href="/legal/court/">Three Pivotal Court Cases</a></li>
+        <li>
+          <a href="/legal/mayors/">Mayors and Aldermen</a>
+          <ul>
+              <li><a href="/legal/mayors/harrisonJr/">Harrison, Carter H. II</a></li>
+              <li><a href="/legal/mayors/harrisonSr/">Harrison, Carter H.</a></li>
+              <li><a href="/legal/mayors/powers/">Powers, Johnny</a></li>
+              <li><a href="/legal/mayors/washburne/">Washburne, Hempstead</a></li>
+          </ul>
+        </li>
+        <li>
+            <a href="/legal/judges/">Judges</a>
+            <ul>
+                <li><a href="/legal/judges/">Bailey, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Baker, David J.</a></li>
+                <li><a href="/legal/judges/">Carter, Joseph M.</a></li>
+                <li><a href="/legal/judges/">Carter, Orrin Nelson</a></li>
+                <li><a href="/legal/judges/">Cartwright, James H.</a></li>
+                <li><a href="/legal/judges/">Cooke, George A.</a></li>
+                <li><a href="/legal/judges/">Craig, Alfred M.</a></li>
+                <li><a href="/legal/judges/">Dunn, Frank K.</a></li>
+                <li><a href="/legal/judges/">Farmer, William M.</a></li>
+                <li><a href="/legal/judges/">Hand, John P.</a></li>
+                <li><a href="/legal/judges/">Magruder, Benjamin Drake</a></li>
+                <li><a href="/legal/judges/">Mulkey, John H.</a></li>
+                <li><a href="/legal/judges/">Philips, Jesse J.</a></li>
+                <li><a href="/legal/judges/">Schofield, John</a></li>
+                <li><a href="/legal/judges/">Scott, John</a></li>
+                <li><a href="/legal/judges/">Shope, Simeon Peter</a></li>
+                <li><a href="/legal/judges/">Vickers, Alonzo K.</a></li>
+                <li><a href="/legal/judges/">Wilkin, Jacob Wilson</a></li>
+            </ul>
+        </li>
+        <li>
+          <a href="/legal/lawyers/">Lawyers</a>
+          <ul>
+            <li><a href="/legal/lawyers/bruce/">Bruce, Andrew</a></li>
+            <li><a href="/legal/lawyers/ela/">Ela, John W.</a></li>
+            <li><a href="/legal/lawyers/levymayer/">Mayer, Levy</a></li>
+            <li><a href="/legal/lawyers/mauricetmoloney/">Moloney, Maurice T.</a></li>
+          </ul>
+        </li>
+        </ul>
+        </aside>
+      </div>
     </div>
   </div>
-
 </div>
 {{ end }}
 {{ define "footer" }}

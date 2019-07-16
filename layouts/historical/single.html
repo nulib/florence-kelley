@@ -17,36 +17,29 @@
 </section>
 
 <div class="section">
-
-<div class="container">
-<div class="columns">
-    <div class="column is-one-quarter">
-        <aside class="menu">
-        <a href="/historical/" class="menu-label">
-        Historical Context
-        </a>
-        <ul class="menu-list">
-        <li><a href="/historical/timeline/">Timeline</a></li>
-        <li><a href="/historical/expo/">The World's Columbian Exposition</a></li>
-        <li><a href="/historical/panic/">The Panic of 1893</a></li>
-        <li><a href="/historical/haymarket/">The Haymarket</a></li>
-        <li><a href="/historical/hullhouse/">Hull House Maps and Papers</a></li>
-        <li><a href="/historical/iroquois/">The Iroquois Theatre Fire</a></li>
-        <li><a href="/historical/stockyards/">The Stockyards</a></li>
-        <li><a href="/historical/children/">Lives of Children</a></li>
-        <li><a href="/historical/altgeld/">John Peters Altgeld</a></li>
-        <li><a href="/historical/mayer/">Levy Mayer</a></li>
-        <li><a href="/historical/jts/">The Jewish Training School of Chicago</a></li>
-        </ul>
-        </aside>
-    </div>
-    <div class="column">
-        <div class="content">
-          {{ .Content}}
-        </div>
-        <br>
-    </div>
-    <div class="column is-one-quarter">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+          <div class="content">
+            {{ .Content}}
+          </div>
+          <br>
+          {{ with .Params.related_content }}
+          <div class="box">
+            <aside class="menu">
+              <p class="menu-label">
+                Related Content
+              </p>
+              <ul class="menu-list">
+                {{ range .}}
+                <li><a href="{{ .url}} ">{{ .title }}</a></li>
+                {{ end }}
+              </ul>
+            </aside>
+          </div>
+          {{ end }}
+      </div>
+      <div class="column is-one-quarter">
         {{ if .Params.image_file }}
         <div class="card">
           <div class="card-image">
@@ -61,21 +54,27 @@
         </div>
         <br>
         {{ end }}
-        {{ with .Params.related_content }}
         <aside class="menu">
-          <p class="menu-label">
-            Related Content
-          </p>
+          <a href="/historical/" class="menu-label">
+          Historical Context
+          </a>
           <ul class="menu-list">
-            {{ range .}}
-            <li><a href="{{ .url}} ">{{ .title }}</a></li>
-            {{ end }}
+            <li><a href="/historical/timeline/">Timeline</a></li>
+            <li><a href="/historical/expo/">The World's Columbian Exposition</a></li>
+            <li><a href="/historical/panic/">The Panic of 1893</a></li>
+            <li><a href="/historical/haymarket/">The Haymarket</a></li>
+            <li><a href="/historical/hullhouse/">Hull House Maps and Papers</a></li>
+            <li><a href="/historical/iroquois/">The Iroquois Theatre Fire</a></li>
+            <li><a href="/historical/stockyards/">The Stockyards</a></li>
+            <li><a href="/historical/children/">Lives of Children</a></li>
+            <li><a href="/historical/altgeld/">John Peters Altgeld</a></li>
+            <li><a href="/historical/mayer/">Levy Mayer</a></li>
+            <li><a href="/historical/jts/">The Jewish Training School of Chicago</a></li>
           </ul>
-        </div>
-        {{ end }}
+        </aside>
+      </div>
     </div>
-</div>
-</div>
+  </div>
 </div>
 {{ end }}
 {{ define "footer" }}
