@@ -23,8 +23,7 @@
 
     {{ if .IsHome }} {{ partial "site-verification" . }} {{ end }}
     {{ template "_internal/google_analytics_async.html" . }}
-    {{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}
-
+    <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     <link rel="canonical" href="{{ .Permalink }}"> {{ if (isset .Params "prev") }}
     <link rel="prev" href="{{ .Params.prev }}"> {{ end }} {{ if (isset .Params "next") }}
     <link rel="next" href="{{ .Params.next }}"> {{ end }} {{ partial "favicon" . }}
