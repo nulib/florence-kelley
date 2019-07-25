@@ -18,7 +18,7 @@ Year | Title
 --- | ---
 1909 | [Illinois, Department of Labor, Bureau of Labor Statistics, Bulletin, Labor Legislation in the 46th General Assembly of Illinois (1909).](1909. Illinois General Assembly. 1909 Laws of Illinois 212-213.)
 1893 | [Inaugral Address of John Peter Altgeld Before the Thirty-Eighth General Assembly, january 10, 1893](1893. Altgeld, John Peter. Springfield, Illinois, H.W. Rokker, Printer and Binder, 1893. Courtesy State of Illinois Historical Archives.)
-1893 | [Laws of the State of Illinois Passed By the Thirty-Eighth General Assembly](1893. 38th General Assembly.)
+1893 | [Laws of the State of Illinois Passed By the Thirty-Eighth General Assembly](/fk_documents/fk_00221726.pdf)
 1893 | [Report and Findings of the Joint Committee to Investigate the "Sweat Shop" System [together with a transcript of the testimony taken by the committee]](1893)
 1891 | [Report of the Illinois Bureau of Labor Statistics - 1890 - 6th Biennial](1891.)
 1893 | [Report of the Illinois Bureau of Labor Statistics - 1892 - 7th Biennial](1893.)

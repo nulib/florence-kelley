@@ -17,7 +17,7 @@ related_content:
   - title: "Hull House Maps and Papers"
     url:
   - title: "Letters from Europe"
-    url:
+    url: /fk_documents/fk_01564781.pdf
   - title: "Levy Mayer and the New Industrial Era"
     url:
 ---
