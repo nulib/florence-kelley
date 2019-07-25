@@ -12,5 +12,8 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
+# PDF Documents
+/static/fk_documents
+
 # OSX
 .DS_Store
