@@ -4,19 +4,19 @@ image_caption: "Management notice. Photograph by Rubenstein"
 image_file: site/5780pb31f15np400gthmb.jpg
 related_content:
   - title: "A Divorce Asked For (NYT)"
-    url:
+    url: fk_31110001.pdf
   - title: "Dr. Wischnewetzky Unsuccessful"
-    url:
+    url: fk_31120025.pdf
   - title: "Forced to Run Away: Mrs. Wiscenewetzky Pleads for her Children"
-    url:
+    url: fk_31120023.pdf
   - title: "From His Standpoint: Wischnewetzky's Testimony About his Domestic Troubles"
-    url:
+    url: fk_31120024.pdf
   - title: "Judge Kelley's Daughter Married"
-    url:
+    url: fk_31110004.pdf
   - title: "Kelley v. Wischnewetzky: Certificate of Evidence"
-    url:
+    url: fk_99000005_01.pdf
   - title: "Ritchie v. People: Brief and Argument of Defendant in Error"
-    url:
+    url: fk_99000002_01.pdf
 aliases: [/legal/]
 ---
 

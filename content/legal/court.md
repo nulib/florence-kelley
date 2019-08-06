@@ -4,47 +4,47 @@ image_file: site/5780pb31f14ip400g.jpg
 image_caption: "Men working 1. Photograph by Rubenstein"
 related_content:
   - title: "Muller v. Oregon: Brief for Plaintiff in Error"
-    url:
+    url: fk_07382911.pdf
   - title: "Muller v. Oregon: Supreme Court Opinion"
-    url:
+    url: fk_07382912.pdf
   - title: "Muller v. Oregon: Transcript of Record"
-    url:
+    url: fk_07382913.pdf
   - title: "Ritchie v. People: Abstract of Record 1"
-    url:
+    url: fk_99000002_03.pdf
   - title: "Ritchie v. People: Abstract of Record 10"
-    url:
+    url: fk_99000002_12.pdf
   - title: "Ritchie v. People: Abstract of Record 2"
-    url:
+    url: fk_99000002_04.pdf
   - title: "Ritchie v. People: Abstract of Record 3"
-    url:
+    url: fk_99000002_05.pdf
   - title: "Ritchie v. People: Abstract of Record 4"
-    url:
+    url: fk_99000002_06.pdf
   - title: "Ritchie v. People: Abstract of Record 5"
-    url:
+    url: fk_99000002_07.pdf
   - title: "Ritchie v. People: Abstract of Record 8"
-    url:
+    url: fk_99000002_08.pdf
   - title: "Ritchie v. People: Abstract of Record 9"
-    url:
+    url: fk_99000002_09.pdf
   - title: "Ritchie v. People: Brief and Argument of Defendant in Error"
-    url:
+    url: fk_99000002_01.pdf
   - title: "Ritchie v. People: Brief and Argument of Plaintiff in Error"
-    url:
+    url: fk_99000002_02.pdf
   - title: "Ritchie v. People: Opinion of Nebraska"
-    url:
+    url: fk_99000002_09.pdf
   - title: "Ritchie v. People: Various Documents"
-    url:
+    url: fk_99000002_09.pdf
   - title: "Ritchie v. Wayman: Brief and Argument for Appellants by Louis Brandeis"
-    url:
+    url: fk_99000003_7_r2.pdf
   - title: "Ritchie v. Wayman: Brief and Argument for Appellees"
-    url:
+    url: fk_99000003_5_r2.pdf
   - title: "Ritchie v. Wayman: Brief and Argument for John E. W. Wayman"
-    url:
+    url: fk_99000003_1_r2.pdf
   - title: "Ritchie v. Wayman: Demurrer to Bill of Complaint"
-    url:
+    url: fk_99000003_3_r2.pdf
   - title: "Ritchie v. Wayman: Records & Briefs"
-    url:
+    url: fk_99000003_4_r2.pdf
   - title: "Ritchie v. Wayman: Ritchie Complaint"
-    url:
+    url: fk_99000003_2_r2.pdf
 ---
 
 #### *Ritchie v. People* (1895) & *Ritchie v. Wayman* (1910)

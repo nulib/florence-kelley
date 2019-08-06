@@ -3,18 +3,16 @@ title: "Ela, John W."
 image_caption: "Ruined stage of the Iroquois Theater after the fire, looking down from the balcony."
 image_file: site/DN-0001586thmb.jpg
 related_content:
-  - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
-  - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
-  - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
-  - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
-  - title: "Obituary: Death of John W. Ela (Tribune)"
-    url:
-  - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
+- title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
+  url: fk_04755641_03.pdf
+- title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
+  url: fk_02023466.pdf
+- title: "Centennial History of the City of Chicago: Its Men and Institutions"
+  url: fk_02032274.pdf
+- title: "Moran's Dictionary of Chicago and Its Vicinity"
+  url: fk_01884559.pdf
+- title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
+  url: fk_02006243.pdf
 ---
 
 John W. Ela was born in Meredith New Hampshire in 1840. Ela received his law degree from Harvard University and upon graduation, set up his own law practice in his native town. Ela practiced law in Meredith until the outbreak of the Civil War. In 1863, Ela volunteered as a soldier in the 15th New Hampshire volunteer infantry. Ela served for the entire duration of the Civil War, and by the war’s end, Ela had been promoted to the rank of Captain.

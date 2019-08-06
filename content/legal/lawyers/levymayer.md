@@ -4,30 +4,31 @@ image_file: site/DN-0000398thmb.jpg
 image_caption: "Council Chamber seen from the seating area at the back of the room."
 related_content:
   - title: "Buys in the Calumet Distillery"
-    url:
+    url: fk_31120069.pdf
   - title: "Change in Whisky Trust"
-    url:
+    url: fk_31120072.pdf
   - title: "Eyes on the Bench: Hot Times to Follow Supreme Court Whisky Decision"
-    url:
+    url: fk_31120064.pdf
   - title: "Levy Mayer Argues Against the Law: Question of the Constitutionality of the Eight-Hour Act is Raised"
-    url:
+    url: fk_31120046.pdf
   - title: "Levy Mayer and the New Industrial Era"
-    url:
+    url: fk_00223510.pdf
   - title: "NU School of Law Description of New Bldgs"
-    url:
+    url: fk_04774801.pdf
   - title: "Not Worth Paper Written On: Mrs. Kelley's Estimate of Value of Child-Labor Law"
-    url:
+    url: fk_10757324.pdf
   - title: "Obituary: Levy Mayer's Burial to Wait Return of Wife"
-    url:
+    url: fk_31110041.pdf
   - title: "Obituary: Levy Mayer, Noted Lawyer, Found Dead"
-    url:
+    url: fk_31110040.pdf
   - title: "To Adopt a Reorganization Plan: Attorney Levy Mayer to Go to New York Today for the Whisky Trust"
-    url:
+    url: fk_31120061.pdf
   - title: "Whisky Trust Denies It All: Answer to Attorney-General Moloney's Charges"
-    url:
+    url: fk_31120060.pdf
   - title: "Whisky Trust Gets a Blow"
-    url:
+    url: fk_31120059.pdf
   - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois 'Eight-Hour' Decision"
+    url: fk_31120037.pdf
 ---
 
 The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/legal/lawyers/levymayer/#) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.
