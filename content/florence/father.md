@@ -4,33 +4,33 @@ image_file: site/KelleyWilliamDarrah.jpg
 image_caption:  "William Darrah Kelley"
 related_content:
   - title: "Abolition of Slavery"
-    url:
+    url: fk_01311865.pdf
   - title: "Florence Kelley to Nicholas Kelley, April 16, 1902"
-    url:
+    url: fk_31110070.pdf
   - title: "Florence Kelley to Nicholas Kelley, Aug. 21, 1902"
-    url:
+    url: fk_31110075.pdf
   - title: "Florence Kelley to Nicholas Kelley, Aug. 3, 1902"
-    url:
+    url: fk_31110074.pdf
   - title: "Florence Kelley to Nicholas Kelley, Dec. 1, 1902"
-    url:
+    url: fk_31110076.pdf
   - title: "Florence Kelley to Nicholas Kelley, July 3, 1902"
-    url:
+    url: fk_31110073.pdf
   - title: "Florence Kelley to Nicholas Kelley, June 13, 1902"
-    url:
+    url: fk_31110071.pdf
   - title: "Florence Kelley to Nicholas Kelley, June 29, 1902"
-    url:
+    url: fk_31110072.pdf
   - title: "Judge Kelley's Will"
-    url:
+    url: fk_31110005.pdf
   - title: "Judge William D. Kelley's Estate"
-    url:
+    url: fk_31110006.pdf
   - title: "Letters from Europe"
-    url:
+    url: fk_01564781.pdf
   - title: "Obituary: William D. Kelley is Dead"
-    url:
+    url: fk_31110037.pdf
   - title: "Our Toiling Children"
-    url:
+    url: fk_70090029.pdf
   - title: "The Shooting of Judge Kelley's Son"
-    url:
+    url: fk_31110011.pdf
 ---
 Florence Kelley’s education was directed first by her father, a Congressman for thirty five years from Pennsylvania, called Pig Iron Kelley because he represented the iron and steel districts of Pennsylvania and was fiercely protectionist, voting in favor of tariffs to shield the industry from competition from abroad.
 

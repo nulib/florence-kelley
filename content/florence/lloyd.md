@@ -4,29 +4,29 @@ image_file: site/LloydHenryDemarest.jpg
 image_caption: "Henry Demarest Lloyd"
 related_content:
   - title: "Contribution of William Bross to the Growth of the City of Chicago"
-    url:
+    url: fk_33000001.pdf
   - title: "Henry Demarest Lloyd to Florence Kelley, Aug. 15, 1894"
-    url:
+    url: fk_31110053.pdf
   - title: "Henry Demarest Lloyd to Florence Kelley, Oct. 18, 1899"
-    url:
+    url: fk_31110061.pdf
   - title: "Henry Demarest Lloyd to Florence Kelley, Sept. 29, 1905"
-    url:
+    url: fk_31110066.pdf
   - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 1"
-    url:
+    url: http://www.worldcat.org/oclc/457507360
   - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 2"
-    url:
+    url: http://www.worldcat.org/oclc/457507360
   - title: "Hull House Maps and Papers"
-    url:
+    url: fk_01643285.pdf
   - title: "Obituary: Henry D. Lloyd is Dead"
-    url:
+    url: fk_31120079.pdf
   - title: "Our Toiling Children"
-    url:
+    url: fk_70090029.pdf
   - title: "The 'New Conscience:' Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
-    url:
+    url: fk_31120058.pdf
   - title: "Twenty Years at Hull House"
-    url:
+    url: fk_20455554.pdf
   - title: "Wealth Against Commonwealth"
-    url:
+    url: fk_01577927.pdf
 ---
 When Florence Kelley arrived in Chicago on that snowy December of 1891, with three children, Nicholas, 6, Margaret, 4, and John Brown, 2, in tow, she went first to the Women’s Temple of the Women’s Christian Temperance Union, where there was a nursery. Within a few days she had gone to [Hull House](/historical/hullhouse), the Settlement, where she met Jane Addams. For the rest of her time in Chicago Hull House would be the center of her public and reform activities, with its residents and friends playing important roles.
 

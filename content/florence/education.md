@@ -4,21 +4,21 @@ image_file: "site/04451105_0030thmb.jpg"
 image_caption: "Florence Kelley as a child. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 22"
 related_content:
   - title: "Abolition of Slavery"
-    url:
+    url: fk_01311865.pdf
   - title: "Courts of Appeals"
-    url:
+    url: fk_31120027.pdf
   - title: "Feed for the Lawyers"
-    url:
+    url: fk_31120057.pdf
   - title: "Florence Kelley to Mary Thorn Lewis, June 10, 1885"
-    url:
+    url: fk_31110013.pdf
   - title: "Letters from Europe"
-    url:
+    url: fk_01564781.pdf
   - title: "On Some Changes in the Legal Status of the Child Since Blackstone"
-    url:
+    url: fk_9284629.pdf
   - title: "Sage Maidens of Cornell University"
-    url:
+    url: fk_05635845.pdf
   - title: "Sister Carrie"
-    url:
+    url: fk_00381869.pdf
 ---
 
 Florence Kelley was educated at home for much of her childhood, both because the family lived in what was then far away, four miles, from the center of Philadelphia and because she was often sickly as a child. Occasionally she attended a Friends School, but then ‘ended in bed and a winter of rheumatism. Florence Kelley was one of eight children, six girls and two boys, one set of twins. Five of the children died, including both twins, some as infants, some when they were older. She was the only girl to survive to adulthood, one of her sisters, Anna, living until the age of six before dying when Florence Kelley was 12.

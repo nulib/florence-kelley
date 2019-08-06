@@ -5,21 +5,21 @@ image_file: florenceKelley1.jpg
 image_caption: "Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44"
 related_content:
   - title: "Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)"
-    url:
+    url: fk_01831220.pdf
   - title: "Eagle Forgotten: The Life of John Peter Altgeld"
-    url:
+    url: fk_00796431.pdf
   - title: "Essentials in Factory Inspection"
-    url:
+    url: fk_1010992.pdf
   - title: "Factory Inspection in the United States"
-    url:
+    url: fk_2762420.pdf
   - title: "Factory Legislation for Women in the United States"
-    url:
+    url: fk_2761716.pdf
   - title: "Hull House Maps and Papers"
-    url:
+    url: fk_01643285.pdf
   - title: "Letters from Europe"
-    url: /fk_documents/fk_01564781.pdf
+    url: fk_01564781.pdf
   - title: "Levy Mayer and the New Industrial Era"
-    url:
+    url: fk_00223510.pdf
 ---
 Florence Kelley was the first woman factory inspector in the United States, appointed in Illinois by [Governor John Peter Altgeld](/historical/altgeld) in 1893. A resident of Hull House, and a reformer – who refused to be associated with any political party – Florence Kelley lived in Chicago from 1891 until 1899, leading and participating in a variety of projects. These included: a wage and ethnicity census of the slums and tenements in Chicago; the reporting of cases and contagion in the smallpox epidemic of 1893; the enforcement of the universal primary education laws, and, most importantly, enforcing the provisions of the Illinois Factory Inspection Law of 1893.
 

@@ -4,19 +4,19 @@ image_file: site/04451105_0068thmb.jpg
 image_caption: "Florence Kelley and her husband, Lazare Wischnewetsky, with their son, Nicholas, and Lazare's mother, 1885. From Sklar, Katherine Notes of Sixty Years: The Autobiography of Florence Kelley, p. 60"
 related_content:
   - title: "Amusements: John T. Raymond at Hooley's"
-    url:
+    url: fk_31120048.pdf
   - title: "Hull House Maps and Papers"
-    url:
+    url: fk_01643285.pdf
   - title: "If Christ Came to Chicago"
-    url:
+    url: fk_02010144.pdf
   - title: "Judge Kelley's Daughter Married"
-    url:
+    url: fk_31110004.pdf
   - title: "Kelley v. Wischnewetzy: Certificate of Evidence"
-    url:
+    url: fk_99000005_01.pdf
   - title: "Letters from Europe"
-    url:
+    url: fk_01564781.pdf
   - title: "Twenty Years at Hull House"
-    url:
+    url: fk_20455554.pdf
 ---
 When Florence Kelley arrived in Chicago, as she later wrote, ‘on a snowy morning between Christmas 1891 and New Year’s 1892' one of her first destinations was Hull House. Her later description of the seemingly enchanted, idyllic journey through the streets of Chicago to get to Hull House is classic:
 

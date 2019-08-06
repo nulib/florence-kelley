@@ -4,63 +4,63 @@ image_file: site/i19144thmb.jpg
 image_caption: "John Crerar Library"
 related_content:
   - title: "Attacking the Law: Manufacturers Test the Eight-Hour Labor Statute"
-    url:
+    url: fk_31120012.pdf
   - title: "Densare Denounced Stirring Speeches against the Sweating System"
-    url:
+    url: fk_70000113.pdf
   - title: "Essentials in Factory Inspection"
-    url:
+    url: fk_1010992.pdf
   - title: "Factory Cases in the Supreme Court"
-    url:
+    url: fk_31120035.pdf
   - title: "Factory Inspection Proprietors of Workshops Not All Disposed to Comply with the Law"
-    url:
+    url: fk_70000112.pdf
   - title: "Factory Inspection in the United States"
-    url:
+    url: fk_2762420.pdf
   - title: "Factory Legislation for Women in the United States"
-    url:
+    url: fk_2761716.pdf
   - title: "Hit at Sweat-Shops: Speakers Urge the Eight-Hour Law for Women"
-    url:
+    url: fk_31120044.pdf
   - title: "Illinois, Department of Labor, Bureau of Labor Statistics, Bulletin, Labor Legislation in the 46th General Assembly of Illinois (1909)."
-    url:
+    url: fk_26346636.pdf
   - title: "In Labor's Realm The Eight-hour Law Gets a Blow in Kansas"
-    url:
+    url: fk_17846532.pdf
   - title: "Kelley v. Wischnewetzky: Certificate of Evidence"
-    url:
+    url: fk_99000005_01.pdf
   - title: "Law Can't Limit a Working Day"
-    url:
+    url: fk_31120021.pdf
   - title: "Levy Mayer Argues Against the Law: Question of the Constitutionality of the Eight-Hour Act is Raised"
-    url:
+    url: fk_31120046.pdf
   - title: "Looking in an Evil: Uncle Sam Examining the Sweatshop System"
-    url:
+    url: fk_31120085.pdf
   - title: "Modern Slave Dens Tour of the Legislative Committee to Sweat Shops"
-    url:
+    url: fk_31120099.pdf
   - title: "More Time to Work: Movement to Abolish the Eight-Hour Law"
-    url:
+    url: fk_31120043.pdf
   - title: "Muller v. Oregon: Brief for Plaintiff in Error"
-    url:
+    url: fk_07382911.pdf
   - title: "National Consumer's League and the Brandeis Brief"
-    url:
+    url: fk_02109304.pdf
   - title: "Never Cease Work Sweat-shops Found Running All Day Sunday"
-    url:
+    url: fk_10564325.pdf
   - title: "Ninth Annual Report of the Factory Inspectors of the State of NY (transmitted to the legislature 01/28/1895)"
-    url:
+    url: fk_21697997_1894.pdf
   - title: "Report on Condition of Woman and Child Wage-Earners in the United States; Volume IX"
-    url:
+    url: fk_03984576.pdf
   - title: "Ritchie v. Wayman: Brief and Argument for Appellants by Louis Brandeis"
-    url:
+    url: fk_99000003_6_r2.pdf
   - title: "Ritchie v. Wayman: Brief and Argument for Appellants by Louis Brandeis"
-    url:
+    url: fk_99000003_7_r2-2.pdf
   - title: "Says the Laws Are Defective: Miss Florence Kelley, Factory Inspector, Delivers an Address"
-    url:
+    url: fk_15984732.pdf
   - title: "Sweat Shops Should Go Illinois Factory Inspectors Decidedly Urge Their Abolition"
-    url:
+    url: fk_13425673.pdf
   - title: "The United States Supreme Court and the Utah Eight-Hours' Law"
-    url:
+    url: fk_2761838.pdf
   - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois 'Eight-Hour' Decision"
-    url:
+    url: fk_31120037.pdf
   - title: "Women Against Eight-Hour Law"
-    url:
+    url: fk_31120026.pdf
   - title: "Would Smash A Law: Sharp Argument in the Eight-Hour Test Case at Mt. Vernon"
-    url:
+    url: fk_31120073.pdf
 ---
 In December of 1897, Florence Kelley found herself working as a part time librarian for the [John Crerar Library](https://www.lib.uchicago.edu/crerar/), a special reference collection established by the estate of John Crerar, after being unexpectedly fired as Chief Factory Inspector in August of 1897.
 
