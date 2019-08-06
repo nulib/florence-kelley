@@ -8,7 +8,7 @@ related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
     url:
   - title: "If Christ Came to Chicago"
-    url:
+    url: fk_02010144.pdf
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
     url:
   - title: "The Workers: an Experiment in Reality: The West"

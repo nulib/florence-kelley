@@ -4,33 +4,33 @@ image_file: site/i21905thmb.jpg
 image_caption: "Boys in settlement house workshop."
 related_content:
   - title: "1890 Census: Report On Vital & Social Statistics in the U.S"
-    url:
+    url: fk_03194297.pdf
   - title: "A History of Illinois Labor Legislation"
-    url:
+    url: fk_00204497.pdf
   - title: "Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)"
-    url:
+    url: fk_01831220.pdf
   - title: "Hull House Maps and Papers"
-    url:
+    url: fk_01643285.pdf
   - title: "Hull House Summer School"
-    url:
+    url: fk_14756833.pdf
   - title: "Report and Findings of the Joint Committee to Investigate the 'Sweat Shop' System [together with a transcript of the testimony taken by the committee]"
-    url:
+    url: fk_10972050.pdf
   - title: "Report of the Illinois Bureau of Labor Statistics - 1890 - 6th Biennial"
-    url:
+    url: fk_02195483-06.pdf
   - title: "Slums of the Great Cities - Baltimore, Chicago, Philadelphia & New York"
-    url:
+    url: fk_34440001.pdf
   - title: "Some Ethical Gains Through Legislation"
-    url:
+    url: fk_01546261.pdf
   - title: "The 'New Conscience:' Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
-    url:
+    url: fk_31120058.pdf
   - title: "The Condition of the Working Class in England in 1844"
-    url:
+    url: fk_1028520.pdf
   - title: "The Cost of Something for Nothing"
-    url:
+    url: fk_01529885.pdf
   - title: "Twenty Years at Hull House"
-    url:
+    url: fk_20455554.pdf
   - title: "Wealth Against Commonwealth"
-    url:
+    url: fk_01577927.pdf
   - title: "Women and Social Legislation in the United States"
     url:
 ---

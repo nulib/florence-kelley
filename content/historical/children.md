@@ -20,7 +20,7 @@ related_content:
   - title: "On Some Changes in the Legal Status of the Child Since Blackstone"
     url:
   - title: "Our Toiling Children"
-    url:
+    url: fk_70090029.pdf
   - title: "Preventive Work for Children Discussed at the Conference of the Bureau of Charities"
     url:
   - title: "Preventive Work for Children Societies Will Discuss the Subject in a Series of Papers"

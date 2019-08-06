@@ -4,35 +4,35 @@ image_file: site/altgeldTest.jpg
 image_caption: "John Peter Altgeld"
 related_content:
   - title: "Altgeld Denys It: He Gives His Side of the Loan Story"
-    url:
+    url: fk_31110020.pdf
   - title: "Altgeld Has Not Answered"
-    url:
+    url: fk_31110021.pdf
   - title: "Chicago National Bank to Move to Unity Building"
-    url:
+    url: fk_31110022.pdf
   - title: "Eagle Forgotten: The Life of John Peter Altgeld"
-    url:
+    url: fk_00796431.pdf
   - title: "John P. Algeld of Lake View Nominated By Democrats"
-    url:
+    url: fk_31110019.pdf
   - title: "John Peter Altgeld: A Spokesman for Democracy"
-    url:
+    url: fk_01265753.pdf
   - title: "Obituary: Career of John Peter Altgeld"
-    url:
+    url: fk_31110037.pdf
   - title: "Obituary: Ex-Gov. J.P. Altgeld Dead"
-    url:
+    url: fk_31110024.pdf
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
+    url: fk_02006243.pdf
   - title: "Sarahs Choice"
-    url:
+    url: fk_1028529.pdf
   - title: "Tattlings of a Retired Politician: A Million Dollar Bribe"
-    url:
+    url: fk_31110023.pdf
   - title: "The Administration of Governor John Peter Altgeld of Illinois 1893-1897"
-    url:
+    url: fk_00877655.pdf
   - title: "The Cost of Something for Nothing"
-    url:
-  - title: "The Pullman Strike : the Story of a Unique Experiment and of a Great Labor Upheaval"
-    url:
+    url: fk_01529885.pdf
+  - title: "The Pullman Strike: the Story of a Unique Experiment and of a Great Labor Upheaval"
+    url: fk_00232352.pdf
   - title: "Will Altgeld Please Explain?"
-    url:
+    url: fk_31110025.pdf
 ---
 John Peter Altgeld was born on December 30, 1847 in the small German village of Nieder Selters. His father was a struggling farmer and a wagon maker, so to improve their life, his family left Germany for Newville, Ohio when John was only three months old. The Altgelds continued to be farmers. During this time, the Altgelds had eight more children, making John the eldest of nine, although three would die during infancy.
 

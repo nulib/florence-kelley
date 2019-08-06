@@ -26,7 +26,7 @@ related_content:
   - title: "Flaws in the Law: Supreme Court Punctures the Eight-Hour Act"
     url:
   - title: "If Christ Came to Chicago"
-    url:
+    url: fk_02010144.pdf
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
     url:
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"

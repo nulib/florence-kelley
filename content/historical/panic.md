@@ -20,7 +20,7 @@ related_content:
   - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 2"
     url:
   - title: "If Christ Came to Chicago"
-    url:
+    url: fk_02010144.pdf
   - title: "Report of the Illinois Bureau of Labor Statistics - 1890 - 6th Biennial"
     url:
   - title: "Report of the Illinois Bureau of Labor Statistics - 1892 - 7th Biennial"
