@@ -9,7 +9,7 @@ image_file: site/5780pb31f14jp400gthmb.jpg
 Year | Title
 --- | ---
 1986 | [Notes of Sixty Years: the Autobiography of Florence Kelley (with notes by Kathryn Kish Sklar)](1986. Kelley, Florence. Illinois Labor History Society.)
-1889 | [Our Toiling Children](1889. Kelley, Florence. Source/Publisher: Woman's Temperance Publication Association.)
+1889 | [Our Toiling Children](/fk_documents/fk_70090029.pdf)
 1905 | [Some Ethical Gains Through Legislation](1905. Kelley, Florence. Macmillan & Co..)
 
 #### Correspondence
