@@ -2,35 +2,35 @@
 title: "Spring - Summer 1892: Working in the Tenements of the 19th Ward"
 related_content:
   - title: "1890 Census: Report On Vital & Social Statistics in the U.S"
-    url:
+    url: fk_03194297.pdf
   - title: "Conditions According to Wealth: Florence Kelley Gives Some Facts About West Side Streets and Alleys"
-    url:
+    url: fk_31120008.pdf
   - title: "Florence Kelley to Mary Thorn Lewis, June 10, 1885"
-    url:
+    url: fk_31110013.pdf
   - title: "Hull House Maps and Papers"
-    url:
+    url: fk_01643285.pdf
   - title: "If Christ Came to Chicago"
-    url:
+    url: fk_02010144.pdf
   - title: "Jane Addams to Florence Kelley, Sept. 13, 1899"
-    url:
+    url: fk_31110059.pdf
   - title: "Labor Legislation for Women and Its Effects on Earnings and Conditions of Labor"
-    url:
+    url: fk_1017209.pdf
   - title: "More Seats Needed Children Forced Out of School for Want of Room"
-    url:
+    url: fk_19923476.pdf
   - title: "Must Have Schools Immediate Duty of Chicago's Board of Education"
-    url:
+    url: fk_10235612.pdf
   - title: "Report and Findings of the Joint Committee to Investigate the 'Sweat Shop' System [together with a transcript of the testimony taken by the committee]"
-    url:
+    url: fk_10972050.pdf
   - title: "Report of the Illinois Bureau of Labor Statistics - 1892 - 7th Biennial"
-    url:
+    url: fk_2195483-07.pdf
   - title: "Slums of the Great Cities - Baltimore, Chicago, Philadelphia & New York"
-    url:
+    url: fk_34440001.pdf
   - title: "The Condition of the Working Class in England in 1844"
-    url:
+    url: fk_1028520.pdf
   - title: "Wealth Against Commonwealth"
-    url:
+    url: fk_01577927.pdf
   - title: "Why Filth Abounds: Revelations in Reference to Streets and Alleys"
-    url:
+    url: fk_31120007.pdf
 ---
 When Florence Kelley was settled at Hull House, after the *habeas corpus* hearings in March of 1892, when custody of her children had been awarded to her by the court and the children were settled temporarily in Winnetka, she needed to find paid employment. Dues were not high at Hull House, ($20 per month for room and board) but there was a charge, and Florence Kelley was determined to pay her own way.
 
