@@ -4,6 +4,7 @@
 
 # Image files
 /static/images_fk
+/static/img
 
 ## OS Files
 # Windows
