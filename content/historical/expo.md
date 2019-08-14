@@ -1,14 +1,11 @@
 ---
 title: "The World's Columbian Exposition"
-image_file: site/i52338thmb.jpg
-image_caption: "Art Palace at night"
 related_content:
   - title: "A History of Chicago(Vol. 3: The Rise of a Modern City, 1871-1893)"
     url: fk_04755641_03.pdf
   - title: "The Reason Why the Colored American is Not in the World's Columbian Exposition"
     url: fk_02973460.pdf
 ---
-
 The [World’s Columbian Exposition](http://www.encyclopedia.chicagohistory.org/pages/1386.html), also referred to as the Chicago World’s Fair, the Great Chicago Fair and the [White City](http://eriklarsonbooks.com/), was a national exhibition built to commemorate the 400th anniversary of the arrival of Columbus to the New World. It spanned five months, opening May 1 and coming to a close October 30.
 
 Millions of visitors - many from abroad - came to Chicago, marveling at the glories displayed at the Fair. An entire *faux* city was constructed, mostly of impermanent materials, on the midway in Hyde Park. The White City was a national, state, and city celebration of American art, commerce, economic progress and an end-of-century American enthusiasm. The exhibit halls reflect the way many Americans thought about themselves and their country; many seem quaint or even bizarre when seen from our vantage point. The one remaining building from the Fair is the present [Museum of Science and Industry](https://www.msichicago.org/). Its imposing architecture and ambitious intellectual and educational mission are in the spirit of the Exposition.
@@ -17,5 +14,29 @@ When the Fair was over a fire gutted most of the temporary buildings. The pride 
 
 Florence Kelley, Jane Addams and a number of other prominent women in Chicago publicly resigned	from the Fair planning committee in protest. Florence Kelley took her son, Nicholas, to the Fair and pronounced it beautiful. She was much occupied that summer, however, with her new responsibilities as the first female Factory Inspector in the country.
 
-
 next:  [The Panic of 1893](/historical/panic/)
+
+{{< gallery >}}
+  {{< figure link="/img/galleries/historical/expo/i52338.jpg" caption="Art Palace at night. Description: Art Palace at night; Chicago, IL. Source: ICHi-52338. Chicago History Museum. Reproduction of illustration, artist - C. Graham. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52334.jpg" caption="At night in the Grand Court. Description: At night in the Grand Court; Chicago, IL. Source: ICHi-52334. Chicago History Museum. Reproduction of illustration, artist: C. Graham. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52337.jpg" caption="Cairo Street. Description: Cairo Street; Chicago, IL. Source: ICHi-52337. Chicago History Museum. Reproduction of illustration, artist - C. Graham. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52243.jpg" caption="People in a field. Description: People in a field; Chicago, IL. Source: ICHi-52243. Chicago History Museum. Reproduction of photographic print, photographer unknown. Date: early 1890s." >}}
+  {{< figure link="/img/galleries/historical/expo/i52109.jpg" caption="Creche for Babies, Children's Building, World's Columbian Exposition of 1893. Description: Creche for Babies, Children's Building, World's Columbian Exposition of 1893. Latern Slide number 74; Chicago, IL. Source: ICHi-52109. Chicago History Museum. Reproduction of photographic print, photographer unknown. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52342.jpg" caption="Fete Night, Wooded Island. Description: Fete Night, Wooded Island; Chicago, IL. Source: ICHi-52342. Chicago History Museum. Reproduction of illustration, artist - C. Graham. Date: 1892." >}}
+  {{< figure link="/img/galleries/historical/expo/i39573.jpg" caption="Fisheries Building; World's Columbian Exposition. Description: Fisheries Building; World's Columbian Exposition; Chicago, IL. Source: ICHi-39573. Chicago History Museum. Reproduction of photographic print, photographer - Deardorff. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52241.jpg" caption="Group of people standing in a meadow. Description: Group of people standing in a meadow near site of Columbian Exposition; Chicago, IL. Source: ICHi-52241. Chicago History Museum. Reproduction of photographic print, photographer unknown. Date: early 1890s." >}}
+  {{< figure link="/img/galleries/historical/expo/i52245.jpg" caption="Group of people. Description: Group of people standing at construction site of the World's Columbian Exposition; Chicago, IL. Source: ICHi-52245. Chicago History Museum. Reproduction of photographic print, photographer unknown. Date: early 1890s." >}}
+  {{< figure link="/img/galleries/historical/expo/i52325.jpg" caption="Interior of the Manufacturers and Liberal Arts Building. Description: Interior of the Manufacturers and Liberal Arts Building; Chicago, IL. Source: ICHi-52325. Chicago History Museum. Reproduction of illustration, artist - C. Graham. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i25087.jpg" caption="Looking south, Administration Building from Wooded Isle Bridge; World's Columbian Exposition. Description: Looking south, Administration Building from Wooded Isle Bridge; World's Columbian Exposition, Chicago, IL. Source: ICHi-25087. Chicago History Museum. Reproduction of photographic print, photographer ?. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i25107aa.jpg" caption="Moving Sidewalk; World's Columbian Exposition. Description: Moving Sidewalk; World's Columbian Exposition; Chicago, IL. Source: ICHi-25107. Chicago History Museum. Reproduction of halftones, photographer unknown. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52246.jpg" caption="People in field with stick during Columbian Exposition construction. Description: People in field with stick during Columbian Exposition construction; Chicago, IL. Source: ICHi-52246. Chicago History Museum. Reproduction of photographic print, photographer unknown. Date: early 1890s." >}}
+  {{< figure link="/img/galleries/historical/expo/i52243.jpg" caption="People in a field. Description: People in a field; Chicago, IL. Source: ICHi-52243. Chicago History Museum. Reproduction of photographic print, photographer unknown. Date: early 1890s." >}}
+  {{< figure link="/img/galleries/historical/expo/i17514aa.jpg" caption="People with shovels breaking ground for Columbian Exposition construction. Description: People with shovels breaking ground for Columbian Exposition construction; Chicago, IL. Source: ICHi-17514. Chicago History Museum. Reproduction of photographic print, photographer unknown. Date: early 1890s." >}}
+  {{< figure link="/img/galleries/historical/expo/i35984.jpg" caption="Rand McNally World's Columbian Exposition map with index. Description: Rand McNally World's Columbian Exposition map with index; Chicago, IL. Source: ICHi-35984. Chicago History Museum. Reproduction of illustration, creator - Rand McNally. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52340.jpg" caption="The Barge of Columbia. Description: The Barge of Columbia; Chicago, IL. Source: ICHi-42340. Chicago History Museum. Reproduction of illustration, artist - C. Graham. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52341.jpg" caption="The gilded entrance to transportation building. Description: The gilded entrance to transportation building; Chicago, IL. Source: ICHi-52341. Chicago History Museum. Reproduction of illustration, artist C. Graham. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52335.jpg" caption="The Silver Statue, Montana exhibit. Description: The Silver Statue, Montana exhibit; Chicago, IL. Source: ICHi-52335. Chicago History Museum. Reproduction of illustration, artist - C. Graham. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52336.jpg" caption="The Yerkes Telescope. Description: The Yerkes Telescope; Chicago, IL. Source: ICHi-52336. Chicago History Museum. Reproduction of illustration, artist - C. Graham. Date: 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i52324.jpg" caption="World's Columbian Exposition World's Columbian Exposition; Chicago, IL. Source: ICHi-52324. Chicago History Museum. 1893." >}}
+  {{< figure link="/img/galleries/historical/expo/i16265.jpg" caption="Women's Building, footbridge in foreground, World's Columbian Exposition Women's Building, footbridge in foreground, World's Columbian Exposition; Chicago, IL. Source: ICHi-16265. Chicago History Museum. Reproduction of photographic print, photographer unknown. Date: 1893." >}}
+{{< /gallery >}} {{< load-photoswipe >}}
