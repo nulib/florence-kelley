@@ -32,6 +32,9 @@ related_content:
   - title: "The Shooting of Judge Kelley's Son"
     url: fk_31110011.pdf
 ---
+<img alt="William Darrah Kelley" src="/img/KelleyWilliamDarrah.jpg" style="margin:auto;display:block;" />
+<p class="has-text-centered is-italic is-size-7">William Darrah Kelley</p>
+
 Florence Kelley’s education was directed first by her father, a Congressman for thirty five years from Pennsylvania, called Pig Iron Kelley because he represented the iron and steel districts of Pennsylvania and was fiercely protectionist, voting in favor of tariffs to shield the industry from competition from abroad.
 
 The question of tariffs and of whether the United States currency and banking deposits should be backed by gold or silver were the burning policy questions of the [1890's](/historical/panic). A prominent abolitionist, Congressman Kelley lived through the [Civil War](http://www.loc.gov/pictures/collection/cwp/) and bore witness to the economic and political devastation which followed.

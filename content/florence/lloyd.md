@@ -28,6 +28,9 @@ related_content:
   - title: "Wealth Against Commonwealth"
     url: fk_01577927.pdf
 ---
+<img alt="Henry Demarest Lloyd" src="/img/LloydHenryDemarest.jpg" style="margin:auto;display:block;" />
+<p class="has-text-centered is-italic is-size-7">Henry Demarest Lloyd</p>
+
 When Florence Kelley arrived in Chicago on that snowy December of 1891, with three children, Nicholas, 6, Margaret, 4, and John Brown, 2, in tow, she went first to the Women’s Temple of the Women’s Christian Temperance Union, where there was a nursery. Within a few days she had gone to [Hull House](/historical/hullhouse), the Settlement, where she met Jane Addams. For the rest of her time in Chicago Hull House would be the center of her public and reform activities, with its residents and friends playing important roles.
 
 Soon after her arrival in Chicago, Jane Addams introduced Florence Kelley to Henry Demarest Lloyd and his wife, Jesse Bross Lloyd. The Lloyds promptly and generously offered to take the children into their family and home, a rambling country house in Winnetka. Soon after the children’s encampment at Wayside, their nursemaid arrived on the train from New York with a trunk full of clothes and toys. And so the children stayed with the Lloyds in Winnetka, on and off, for the next several years. The oldest child, Nicholas, often went for summer holidays with the Lloyds in Rhode Island.

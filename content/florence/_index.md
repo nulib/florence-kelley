@@ -1,8 +1,6 @@
 ---
 title: "Florence Kelley"
 layout: single
-image_file: florenceKelley1.jpg
-image_caption: "Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44"
 related_content:
   - title: "Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)"
     url: fk_01831220.pdf
@@ -21,6 +19,9 @@ related_content:
   - title: "Levy Mayer and the New Industrial Era"
     url: fk_00223510.pdf
 ---
+<img alt="Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44" src="/img/florence-kelley.jpg" style="margin:auto;display:block;" />
+<p class="has-text-centered is-italic is-size-7">Photo: Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44</p>
+
 Florence Kelley was the first woman factory inspector in the United States, appointed in Illinois by [Governor John Peter Altgeld](/historical/altgeld) in 1893. A resident of Hull House, and a reformer – who refused to be associated with any political party – Florence Kelley lived in Chicago from 1891 until 1899, leading and participating in a variety of projects. These included: a wage and ethnicity census of the slums and tenements in Chicago; the reporting of cases and contagion in the smallpox epidemic of 1893; the enforcement of the universal primary education laws, and, most importantly, enforcing the provisions of the Illinois Factory Inspection Law of 1893.
 
 While living at Hull House she was employed by the Illinois legislature, the United States Department of Labor, and served as a consultant and advisor to other national and international organizations. A prolific translator and writer of books, journal articles, and pamphlets, her best known work today is [Hull House Maps and Papers](/historical/hullhouse), published in 1895, and still a classic of sociology and ethnography, and includes spectacular [wage and ethnicity maps](1895. Hull House.). The Florence Kelley web site will incorporate and build upon the documents, records and historical background of the Chicago historical homicide project web site.

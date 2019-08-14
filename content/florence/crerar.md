@@ -1,7 +1,5 @@
 ---
 title: "December, 1897: The John Crerar Library, Brandeis and Ritchie II"
-image_file: site/i19144thmb.jpg
-image_caption: "John Crerar Library"
 related_content:
   - title: "Attacking the Law: Manufacturers Test the Eight-Hour Labor Statute"
     url: fk_31120012.pdf
@@ -62,6 +60,11 @@ related_content:
   - title: "Would Smash A Law: Sharp Argument in the Eight-Hour Test Case at Mt. Vernon"
     url: fk_31120073.pdf
 ---
+{{< gallery >}}
+  {{< figure link="/img/galleries/florence/crerar/04451105_0084.jpg" caption="Florence Kelley circa. 1920. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 84" >}}
+  {{< figure link="/img/galleries/florence/crerar/i19144.jpg" caption="John Crerar Library. Description: John Crerar Library; Chicago, IL. Source: ICHi-19144; BC-144. Chicago History Museum. Reproduction of photographic print, photographer - Barnes Crosby. Date: n.d." >}}
+{{< /gallery >}}{{< load-photoswipe >}}
+
 In December of 1897, Florence Kelley found herself working as a part time librarian for the [John Crerar Library](https://www.lib.uchicago.edu/crerar/), a special reference collection established by the estate of John Crerar, after being unexpectedly fired as Chief Factory Inspector in August of 1897.
 
 [John Peter Altgeld](/historical/altgeld) was not reelected Governor of Illinois in the fall of 1896 during a Republican sweep of national and state elections where the stability of currency was a principal issue. Major William McKinley, a modest civil war hero and congressman, was elected President over Illinois native son [William Jennings Bryan](http://historymatters.gmu.edu/d/5354/). One commentator noted: "McKinley had the gift, invaluable to a politician of narrow vision and limited understanding, of emitting sonorous platitudes as though they were recently discovered truths."

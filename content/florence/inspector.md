@@ -32,6 +32,9 @@ related_content:
   - title: "Why Filth Abounds: Revelations in Reference to Streets and Alleys"
     url: fk_31120007.pdf
 ---
+<img alt="Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44" src="/img/florence-kelley.jpg" style="margin:auto;display:block;" />
+<p class="has-text-centered is-italic is-size-7">Photo: Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44</p>
+
 When Florence Kelley was settled at Hull House, after the *habeas corpus* hearings in March of 1892, when custody of her children had been awarded to her by the court and the children were settled temporarily in Winnetka, she needed to find paid employment. Dues were not high at Hull House, ($20 per month for room and board) but there was a charge, and Florence Kelley was determined to pay her own way.
 
 Initially Jane Addams suggested that Florence Kelley start an employment office within Hull House for young women. That enterprise soon folded for lack of interest and the unavailability of jobs, although it did get her a tiny office within Hull House. What Florence Kelley did prior to being appointed Factory Inspector was stitch together a series of part time jobs, all of which, were related to her lifelong interest in ameliorating conditions for working children and women. All of these jobs were also excellent preparation for becoming the first Factory Inspector in Illinois in July of 1893.  
