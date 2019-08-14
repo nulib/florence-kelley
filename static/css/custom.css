@@ -6,3 +6,7 @@
   color: #272B30;
   background-color: yellow;
 }
+
+.nohover {
+  pointer-events: none;
+}
