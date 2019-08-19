@@ -4,15 +4,15 @@ image_file: site/5780pb31f7ap600gthmb.jpg
 image_caption: "Men overlooking woman. Photograph by Rubenstein."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
+    url: fk_04755641_03.pdf
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
+    url: fk_02023466.pdf
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
+    url: fk_02032274.pdf
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
+    url: fk_01884559.pdf
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
+    url: fk_02006243.pdf
 ---
 
 Joseph M. Bailey was born June 22, 1833 in Middlebury, NY. His parents were farmers, originally from New England. His grandmother was a descendent of a mate on the Mayflower, making Joseph of puritan decent. Joseph spent his entire childhood on his father’s farm, and attended the Academy of Wyoming County New York. He then studied at the University of Rochester and graduated with honors in 1854.

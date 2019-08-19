@@ -4,13 +4,13 @@ image_caption: "Christmas scene at Cook County Hospital, person dressed as Santa
 image_file: site/DN-0007024thmb.jpg
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
+    url: fk_04755641_03.pdf
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
+    url: fk_02023466.pdf
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
+    url: fk_02032274.pdf
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
+    url: fk_01884559.pdf
 ---
 
 Orrin Nelson Carter was born on January 22, 1854 in Jefferson County, New York. His father was a sailor on the Great Lakes, who died when Orrin was only two years old. When he was ten years old, he moved to Illinois with his family, and his mother remarried. Carter attended Wheaton College and graduated in 1877. During this time, he paid his way through college by teaching school and working as a janitor.

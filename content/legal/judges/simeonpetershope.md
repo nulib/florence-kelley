@@ -4,15 +4,15 @@ image_caption: "Lantern Slide #85 'What the Children Want.'"
 image_file: site/i14084thmb.jpg
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
+    url: fk_04755641_03.pdf
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
+    url: fk_02023466.pdf
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
+    url: fk_02032274.pdf
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
+    url: fk_01884559.pdf
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
+    url: fk_02006243.pdf
 ---
 
 Simeon Peter Shope was born on December 3rd, 1834 in Akron Ohio. As a boy he was incredibly athletic and retained a physically strong physique throughout his life. When he was young, his family moved to Woodfard County, Illinois. In Illinois, Shope attended Eureka College. Shope studied law under Judge Powell and Judge Purple before entering into his own practice. Upon his admittance to the bar, Shope moved to Lewiston, Illinois and began his own private practice.
