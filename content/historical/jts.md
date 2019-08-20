@@ -40,3 +40,8 @@ The School’s curriculum was based upon corrective measures and training in han
 From: [Second Annual Report of the Executive Board of the Jewish Training School of Chicago](/historical/jts/#), Joseph Stolz, Secretary.
 
 next:  [Legal Context](/legal/law/)
+
+{{< gallery >}}
+  {{< figure link="/img/galleries/historical/i17309.jp2" caption="Cooking class, Chicago Hebrew Institution. Description: Cooking class, Chicago Hebrew Institution; Chicago, IL. Source: ICHi-17309. Chicago History Museum. Reproduction of photograph, photographer unknown. Date: 1915." >}}
+  {{< figure link="/img/galleries/historical/DN-0002425_aa.jp2" caption="Synagogue in Maywood, Illinois with a group of children and men standing on its porch and on the ground in front. Exterior view of a synagogue in Maywood, Illinois with a group of children and men standing on its porch and on the ground in front. Source: DN-0002425, Chicago Daily News negatives collection, Chicago History Museum. Date: 1905." >}}
+{{< /gallery >}} {{< load-photoswipe >}}

@@ -66,3 +66,7 @@ Next:  [Levy Mayer](/historical/mayer)
 
 - “Ex-Gov. Altgeld Dead.” The Washington Post. May 13, 1902. p 3. ProQuest Historical Newspaper Articles The Washington Post (1877-1990). Northwestern University, Evanston, IL.
 - Barnard, Harry. Eagle Forgotten: The life of John Peter Altgeld. Duell, Sloand and Pearce Inc. New York: 1938
+
+{{< gallery >}}
+  {{< figure link="/img/galleries/historical/altgeldTest.jpg" caption="John Peter Altgeld" >}}
+{{< /gallery >}} {{< load-photoswipe >}}
