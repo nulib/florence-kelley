@@ -5,6 +5,7 @@ image_caption: "Carter Harrison Sr."
 related_content:
   - title: "Carter Henry Harrison: A Memoir"
     url: fk_01464088.pdf
+aliases: [/legal/mayors/harrisonSr/]
 ---
 
 Carter Henry Harrison Senior, who served five terms and eight years as Mayor of Chicago until he was [assassinated](http://homicide.northwestern.edu/database/916/?page=1) in 1893, came from a family which was, steeped in American history and political involvement dating back to 1635, when the patriarch of the Harrison family was Clerk of the Virginia Council. Carter Henry Harrison’s great grandmother Susannah Randolph was a descendant of Pocahontas. What is remarkable, however, is that in Carter Henry Harrison’s family line one finds a signator of the Declaration of Independence, and two U.S. Presidents. Carter Henry Harrison’s great uncle, Benjamin Harrison not only signed the Declaration of Independence, but also introduced a resolution of independence to congress. One of Benjamin Harrison’s sons, William Henry Harrison went on to become President of the United States in 1841, and President Harrison’s great grandson Benjamin Harrison became President of the United States in 1889.

@@ -5,6 +5,7 @@ image_caption: "Carter H. Harrison II"
 related_content:
   - title: "Carter Henry Harrison: A Memoir"
     url: fk_01464088.pdf
+aliases: [/legal/mayors/harrisonJr/]
 ---
 
 Carter H. Harrison II was the 30th mayor of Chicago, in office from 1897-1905 and then again from 1911-1915. His father, [Carter H. Harrison](/legal/mayors/harrisonSr/), also served as mayor of Chicago from 1879-1887. Harrison senior was re-elected 1893 for a fifth term, but was [assassinated](http://homicide.northwestern.edu/database/916/?page=1) in his home by a failed politician named Patrick Eugene Prendergast on October 28th, 1893. Earlier that day Harrison Senior had announced in a speech “I intend to live for more than half a century! And at the end of that half century London will tremble lest Chicago shall surpass her.”
