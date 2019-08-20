@@ -4,15 +4,15 @@ image_file: site/i32961thmb.jpg
 image_caption: "Exchange Street, 200 feet west of the main entrance to the Union Stockyards."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
+    url: fk_04755641_03.pdf
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
+    url: fk_02023466.pdf
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
+    url: fk_02032274.pdf
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
+    url: fk_01884559.pdf
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
+    url: fk_02006243.pdf
 ---
 
 John Scholfield was born in 1834 in Clark County, Illinois. His father, Thomas Scholfield, originally from Virginia, was a Pennsylvania Quaker that came to Illinois in 1830 as a pioneer. Thomas married a woman from Ohio and settled on a farm in Clark County. John spent the beginning of his youth working on the farm and attending school; however, when his mother died when he was 16, John left the farm in Clark County and moved to Martinsville, Illinois to live with his uncle.
