@@ -47,6 +47,9 @@ related_content:
     url: fk_99000003_2_r2.pdf
 ---
 
+<img alt="Men working 1. Photograph by Rubenstein. UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885" src="/img/5780pb31f14ip400g.jpg" style="margin:auto;display:block;" />
+<p class="has-text-centered is-italic is-size-7">Photo: Men working 1. Photograph by Rubenstein. UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885</p>
+
 #### *Ritchie v. People* (1895) & *Ritchie v. Wayman* (1910)
 The Illinois Supreme Court held in *Ritchie v. People* (1895) that section 5 of the Illinois Factory and Workshop Inspection Statute, limiting to eight the number of hours women could work in factories, was unconstitutional, as violating the Fourteenth Amendment to the United States Constitution. The case was brought by the Illinois Manufacturers’ Association as a direct challenge to the operation of the Office of the Factory Inspector. As soon as the law was enacted, it was challenged. And the parties decided to bring the question of the constitutionality of the statute directly to the Supreme Court of Illinois.
 

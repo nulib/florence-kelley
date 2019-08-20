@@ -62,6 +62,6 @@ Like Florence Kelley, Levy Mayer’s success was grounded in his intelligence, w
 next:  [The Jewish Training School of Chicago](/historical/jts/)
 
 {{< gallery >}}
-  {{< figure link="/img/galleries/historical/levymayerhall.jpg" caption="Levy Mayer Hall" >}}
-  {{< figure link="/img/galleries/historical/LevyMayer.jpg" caption="Levy Mayer. Portrait by Leopold Seyffert. From Masters, Edgar Lee, 'Levy Mayer and the New Industrial Era,' 1927" >}}
+  {{< figure link="/img/galleries/historical/mayer/levymayerhall.jpg" caption="Levy Mayer Hall" >}}
+  {{< figure link="/img/galleries/historical/mayer/LevyMayer.jpg" caption="Levy Mayer. Portrait by Leopold Seyffert. From Masters, Edgar Lee, 'Levy Mayer and the New Industrial Era,' 1927" >}}
 {{< /gallery >}} {{< load-photoswipe >}}

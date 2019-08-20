@@ -43,3 +43,14 @@ Next:  [3 Pivotal Court Cases](/legal/court)
 Note To Geneologists\ The Factory Inspection Reports and many other [Archives](/archives) documents here include the names and addresses of companies and many references to individuals.
 
 ----------------------------------------------------
+
+{{< gallery >}}
+  {{< figure link="/img/galleries/legal/reports/5780pb31f15np400g.jpg" caption="Management notice. Photograph by Rubenstein Source: UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885" >}}
+  {{< figure link="/img/galleries/legal/reports/6153pb2f_Cities-9-3.jpg" caption="Bedroom. Photograph by Rubenstein Source: UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885." >}}
+  {{< figure link="/img/galleries/legal/reports/i21839.jpg" caption="Canning room, stockyards. Description: Canning room, stockyards; Chicago, IL. Source: ICHi-21839. Chicago History Museum. Reproduction of photograph, creator - J. W. Taylor. Date: 1890's." >}}
+  {{< figure link="/img/galleries/legal/reports/5780pb31f14hp400g.jpg" caption="Floor cleaning. Photograph by Rubenstein UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885" >}}
+  {{< figure link="/img/galleries/legal/reports/5780pb31f15lp400.jpg" caption="Man and woman working. Photograph by Rubenstein Source: UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885" >}}
+  {{< figure link="/img/galleries/legal/reports/5780pb31f7ap600g.jpg" caption="Men overlooking woman. Photograph by Rubenstein. Source: UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885" >}}
+  {{< figure link="/img/galleries/legal/reports/i15130.jpg" caption="Men during an eight-hour strike of the Chicago Typographical Union. Description: Men during an eight-hour strike of the Chicago Typographical Union, Chicago, IL. Source: ICHi-15130. Chicago History Museum. Reproduction of photograph, creator - unknown. Date: 1905-1906." >}}
+  {{< figure link="/img/galleries/legal/reports/5780pb31f7lp400g.jpg" caption="Man working. Photograph by Rubenstein Source: UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885" >}}
+{{< /gallery >}}{{< load-photoswipe >}}

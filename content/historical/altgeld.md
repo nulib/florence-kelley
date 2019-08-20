@@ -34,6 +34,9 @@ related_content:
   - title: "Will Altgeld Please Explain?"
     url: fk_31110025.pdf
 ---
+<img alt="John Peter Altgeld" src="/img/galleries/historical/altgeldTest.jpg" style="margin:auto;display:block;" />
+<p class="has-text-centered is-italic is-size-7">Photo: John Peter Altgeld</p>
+
 John Peter Altgeld was born on December 30, 1847 in the small German village of Nieder Selters. His father was a struggling farmer and a wagon maker, so to improve their life, his family left Germany for Newville, Ohio when John was only three months old. The Altgelds continued to be farmers. During this time, the Altgelds had eight more children, making John the eldest of nine, although three would die during infancy.
 
 John spent most of his childhood working on his family’s farm. In school John was an average student, and at age 12 he stopped attending school at the request of his father. John did not mind this entirely as he was picked on frequently by other children for being a foreigner.
@@ -50,7 +53,7 @@ In 1875, Altgeld moved to Chicago, a decision he initially regretted. In 1877 he
 
 Altgeld became actively involved in the Democratic party in Chicago as well, and in 1884 was the Democratic candidate for the Illinois legislature, although he was defeated in the general election. Then in 1886 he was elected to the Superior Court of Cook County where he served until 1891.
 
-In January of 1890, Altgeld purchased one of the most expensive blocks in downtown Chicago, then known as the “unity block” (currently [127 North Dearborn Street](https://www.google.com/maps?f=q&hl=en&geocode&q=127+North+Dearborn+Street,+Chicago,+IL&sll=37.0625,-95.677068&sspn=40.460237,73.916016&ie=UTF8&ll=41.884435,-87.629056&spn=0.009313,0.018046&z=16&g=127+North+Dearborn+Street,+Chicago,+IL&iwloc=addr)). Altgeld had intentions of building several skyscrapers on the block; however, due to his haste, the first Unity Building framework needed to be re-built, costing Altgeld $100,000. He then borrowed almost $400,000 from John R. Walsh who was president of the Chicago National Bank. Altgeld was unable to make the payments, and was forced to mortgage or sell most of his property. Later Altgeld was offered a bribe from railway tycoon Charles Yerkes in exchange for an extension of Yerkes’ railway monopoly. Although the bribe would have restored Altgeld’s fortune, he declined Yerkes’ offer.
+In January of 1890, Altgeld purchased one of the most expensive blocks in downtown Chicago, then known as the “unity block” (currently [127 North Dearborn Street](https://goo.gl/maps/sTCnLxfcJYdApfv57)). Altgeld had intentions of building several skyscrapers on the block; however, due to his haste, the first Unity Building framework needed to be re-built, costing Altgeld $100,000. He then borrowed almost $400,000 from John R. Walsh who was president of the Chicago National Bank. Altgeld was unable to make the payments, and was forced to mortgage or sell most of his property. Later Altgeld was offered a bribe from railway tycoon Charles Yerkes in exchange for an extension of Yerkes’ railway monopoly. Although the bribe would have restored Altgeld’s fortune, he declined Yerkes’ offer.
 
 Despite his losses, he was elected as the Democratic candidate for Governor in the 1892 election, and on December 7th became the first foreign-born man elected Governor of Illinois. Although he was personally a man of business, as a governor he recognized problems with both women and child labor laws and also opposed the violent use of police against labor strikes
 
@@ -66,7 +69,3 @@ Next:  [Levy Mayer](/historical/mayer)
 
 - “Ex-Gov. Altgeld Dead.” The Washington Post. May 13, 1902. p 3. ProQuest Historical Newspaper Articles The Washington Post (1877-1990). Northwestern University, Evanston, IL.
 - Barnard, Harry. Eagle Forgotten: The life of John Peter Altgeld. Duell, Sloand and Pearce Inc. New York: 1938
-
-{{< gallery >}}
-  {{< figure link="/img/galleries/historical/altgeldTest.jpg" caption="John Peter Altgeld" >}}
-{{< /gallery >}} {{< load-photoswipe >}}
