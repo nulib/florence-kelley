@@ -28,6 +28,5 @@ Next:  [Alonzo K. Vickers](/legal/judges/alonzokvickers/)
 ---
 Sources:
 
-Chicago Legal News 52(1920):213
-
-“Simeon P. Shope.” http://www.state.il.us/court/supremecourt/justicearchive/Bio_Mulkey.asp
+- Chicago Legal News 52(1920):213
+- “Simeon P. Shope.” http://www.state.il.us/court/supremecourt/justicearchive/Bio_Mulkey.asp

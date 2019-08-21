@@ -4,8 +4,6 @@ image_caption: "Large group of children standing under showers over the street."
 image_file: site/DN-0076144thmb.jpg
 ---
 
-### Video
-
 Professor Bienen's Legal History Lecture "[Florence Kelley and the Illinois Supreme Court](http://www.illinoiscourthistory.org/events/florence-kelley-lecture-april-15-2010)" at the Illinois Supreme Court historic preservation commission. 
 
 ![Project Overview and Interview with Leigh Bienen, Project Director](/about/video/project)

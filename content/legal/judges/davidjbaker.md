@@ -39,6 +39,5 @@ Next:  [Joseph M. Carter](/legal/judges/josephmcarter)
 ---
 Sources:
 
-"David J. Baker- Obituary." Chicago Legal News, 31 (1898): 253. 19th Century Masterfile. Northwestern University, Evanston, IL.
-
-"Bogs Elected in First District." Chicago Daily Tribune. June 15, 1897, p. 2. ProQuest Historical Newspapers Chicago Tribune (1872-1963). Northwestern University, Evanston, IL.
+- "David J. Baker- Obituary." Chicago Legal News, 31 (1898): 253. 19th Century Masterfile. Northwestern University, Evanston, IL.
+- "Bogs Elected in First District." Chicago Daily Tribune. June 15, 1897, p. 2. ProQuest Historical Newspapers Chicago Tribune (1872-1963). Northwestern University, Evanston, IL.

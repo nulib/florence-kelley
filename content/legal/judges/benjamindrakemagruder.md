@@ -38,6 +38,5 @@ Next:  [John H. Mulkey](/legal/judges/johnhmulkey)
 ---
 Sources:
 
-"Benjamin Drake Magruder- Obituary." Chicago Legal News 42(1910): 297. 19th Century Masterfile. Northwestern University, Evanston, IL.
-
-"Memorial of the Late Benjamin Drake Magruder of the Illinois Supreme Court." Chicago Legal News, 43 (1910): 85. 19th Century Masterfile. Northwestern University, Evanston, IL.
+- "Benjamin Drake Magruder- Obituary." Chicago Legal News 42(1910): 297. 19th Century Masterfile. Northwestern University, Evanston, IL.
+- "Memorial of the Late Benjamin Drake Magruder of the Illinois Supreme Court." Chicago Legal News, 43 (1910): 85. 19th Century Masterfile. Northwestern University, Evanston, IL.

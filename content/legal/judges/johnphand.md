@@ -28,6 +28,5 @@ Next:  [Benjamin Drake Magruder](/legal/judges/benjamindrakemagruder/)
 ---
 Sources:
 
-Ed. John M. Palmer. The Bench and Bar of Illinois: Historical and Reminiscent. Volume II. Lewis Publishing Company: Chicago, 1899.
-
-“John P. Hand.” www.state.il.us/court/supremecourt/justicearchive/Bio_Hand.asp
+- Ed. John M. Palmer. The Bench and Bar of Illinois: Historical and Reminiscent. Volume II. Lewis Publishing Company: Chicago, 1899.
+- “John P. Hand.” www.state.il.us/court/supremecourt/justicearchive/Bio_Hand.asp

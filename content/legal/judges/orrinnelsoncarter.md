@@ -28,8 +28,6 @@ Next:  [James H. Cartwright](/legal/judges/jameshcartwright)
 ---
 Sources:
 
-Crossely, F. B. "Editorial Notes: Orrin Nelson Carter 1854-1928." Illinois Law Review. Volume 23. December (1928): pg. 371-374.
-
-"Orrin Carter, Former State Justice, Dead." Chicago Daily Tribune (1872-1963); August 17th, 1928; ProQuest Historical Newspapers Chicago Tribune (1849-1986) pg. 1
-
-"Orrin Nelson Carter." http://www.state.il.us/court/supremecourt/justicearchive/Bio_Mulkey.asp
+- Crossely, F. B. "Editorial Notes: Orrin Nelson Carter 1854-1928." Illinois Law Review. Volume 23. December (1928): pg. 371-374.
+- "Orrin Carter, Former State Justice, Dead." Chicago Daily Tribune (1872-1963); August 17th, 1928; ProQuest Historical Newspapers Chicago Tribune (1849-1986) pg. 1
+- "Orrin Nelson Carter." http://www.state.il.us/court/supremecourt/justicearchive/Bio_Mulkey.asp

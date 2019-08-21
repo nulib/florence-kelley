@@ -26,6 +26,5 @@ Next:  [William M. Farmer](/legal/judges/williammfarmer/)
 ---
 Sources:
 
-Ed. John M. Palmer. The Bench and Bar of Illinois: Historical and Reminiscent. Volume II. Lewis Publishing Company: Chicago, 1899.
-
-“Frank K. Dunn.” Illinois Supreme Court Justice Archives.
+- Ed. John M. Palmer. The Bench and Bar of Illinois: Historical and Reminiscent. Volume II. Lewis Publishing Company: Chicago, 1899.
+- “Frank K. Dunn.” Illinois Supreme Court Justice Archives.

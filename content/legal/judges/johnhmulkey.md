@@ -26,8 +26,6 @@ Next:  [Jesse J. Phillips](/legal/judge/jessejphillips/)
 ---
 Sources:
 
-Illinois Bar Association (1909): pg 398
-
-“John H. Mulkey.” http://www.state.il.us/court/supremecourt/justicearchive/Bio_Mulkey.asp.
-
-Babb, James E. “The Supreme Court of Illinois.” The Green Bag (3): 1898, pg 235-236.
+- Illinois Bar Association (1909): pg 398
+- “John H. Mulkey.” http://www.state.il.us/court/supremecourt/justicearchive/Bio_Mulkey.asp.
+- Babb, James E. “The Supreme Court of Illinois.” The Green Bag (3): 1898, pg 235-236.

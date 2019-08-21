@@ -78,5 +78,3 @@ At his death from cancer in 1890, after long and painful suffering, William Darr
 William Darrah Kelley’s death notices mention of a daughter in Philadelphia by his first marriage, that wife having died in childbirth along with another daughter. Florence Kelley did have a relationship with her half sister Hannah, who married and lived in Philadelphia. At some point Florence Kelley’s half sister Hannah and William Darrah Kelley’s sister came to live with the Congressman and his family at The Elms in the large house outside of Philadelphia.
 
 next:  [Henry Demarest Lloyd and Jesse Bross](/florence/lloyd)
-
-[comment]: <> (The [lincoln] link doesn't work.)

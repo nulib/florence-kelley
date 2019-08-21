@@ -34,8 +34,6 @@ Next:   [John M. Scott](/legal/judges/johnmscott/)
 ---
 Sources:
 
-“Sketch of a Justices Life.” Chicago Daily Tribune (1872-1963) Feb. 14th, 1893. Proquest Historical Newspapers Chicago Tribune (1849-1986). Pg. 1
-
-“Relieved By Death.” Chicago Daily Tribune 1872; Feb. 14th, 1893. Proquest Historical Newspapers Chicago Tribune (1849-1986). Pg. 1
-
-The Green Bag. 5.(1893): 148.
+- “Sketch of a Justices Life.” Chicago Daily Tribune (1872-1963) Feb. 14th, 1893. Proquest Historical Newspapers Chicago Tribune (1849-1986). Pg. 1
+- “Relieved By Death.” Chicago Daily Tribune 1872; Feb. 14th, 1893. Proquest Historical Newspapers Chicago Tribune (1849-1986). Pg. 1
+- The Green Bag. 5.(1893): 148.

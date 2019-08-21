@@ -27,6 +27,5 @@ Next:  [Alfred M. Craig](/legal/judges/craig/)
 ---
 Sources:
 
-“George A. Cooke, Ex-Chief Justice of Illinois, Dies.” Chicago Daily Tribune (1872-1963); December 6, 1938; ProQuest Historical Newspapers Chicago Tribune (1849-1986). Pg. 9
-
-“George A. Cooke.” Illinois Supreme Court Justice Archives. http://www.state.il.us/court/supremecourt/justicearchive/Bio_Cooke.asp
+- “George A. Cooke, Ex-Chief Justice of Illinois, Dies.” Chicago Daily Tribune (1872-1963); December 6, 1938; ProQuest Historical Newspapers Chicago Tribune (1849-1986). Pg. 9
+- “George A. Cooke.” Illinois Supreme Court Justice Archives. http://www.state.il.us/court/supremecourt/justicearchive/Bio_Cooke.asp

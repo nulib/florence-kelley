@@ -22,6 +22,10 @@ related_content:
   - title: "Annual Reports of the Jewish Training School 1900"
     url: fk_40381219_1990.pdf
 ---
+{{< gallery >}}
+  {{< figure link="/img/galleries/historical/jts/i17309.jpg" caption="Cooking class, Chicago Hebrew Institution. Description: Cooking class, Chicago Hebrew Institution; Chicago, IL. Source: ICHi-17309. Chicago History Museum. Reproduction of photograph, photographer unknown. Date: 1915." >}}
+  {{< figure link="/img/galleries/historical/jts/DN-0002425_aa.jpg" caption="Synagogue in Maywood, Illinois with a group of children and men standing on its porch and on the ground in front. Exterior view of a synagogue in Maywood, Illinois with a group of children and men standing on its porch and on the ground in front. Source: DN-0002425, Chicago Daily News negatives collection, Chicago History Museum. Date: 1905." >}}
+{{< /gallery >}} {{< load-photoswipe >}}
 
 The Jewish Training School of Chicago was founded with a generous grant of $20,000 from Mr. Leon Mandel in May of 1888, to maintain a kindergarten for children too young to attend public school, a kitchen garden and sewing school for girls more advanced in years and particularly a manual training school where boys may learn to love work, find out for what kind of work they are best fitted, and receive that preparation and assistance which will make them intelligent, skillful, competent workmen, in that department best adapted to their abilities.
 
@@ -40,8 +44,3 @@ The School’s curriculum was based upon corrective measures and training in han
 From: [Second Annual Report of the Executive Board of the Jewish Training School of Chicago](/historical/jts/#), Joseph Stolz, Secretary.
 
 next:  [Legal Context](/legal/law/)
-
-{{< gallery >}}
-  {{< figure link="/img/galleries/historical/i17309.jp2" caption="Cooking class, Chicago Hebrew Institution. Description: Cooking class, Chicago Hebrew Institution; Chicago, IL. Source: ICHi-17309. Chicago History Museum. Reproduction of photograph, photographer unknown. Date: 1915." >}}
-  {{< figure link="/img/galleries/historical/DN-0002425_aa.jp2" caption="Synagogue in Maywood, Illinois with a group of children and men standing on its porch and on the ground in front. Exterior view of a synagogue in Maywood, Illinois with a group of children and men standing on its porch and on the ground in front. Source: DN-0002425, Chicago Daily News negatives collection, Chicago History Museum. Date: 1905." >}}
-{{< /gallery >}} {{< load-photoswipe >}}

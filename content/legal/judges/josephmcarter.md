@@ -32,6 +32,5 @@ Next:  [Orrin Nelson Carter](/legal/judges/orrinnelsoncarter)
 ---
 Sources:
 
-"Memorial Services for Judge Carter of the supreme court." Chicago Legal News 46 (1913): 141. 19th Century Masterfile. Northwestern University, Evanston, IL.
-
-"Joseph N. Carter." Chicago Legal News 27 (1886-1898): 143. 19th Century Masterfile. Northwestern University, Evanston, IL.
+- "Memorial Services for Judge Carter of the supreme court." Chicago Legal News 46 (1913): 141. 19th Century Masterfile. Northwestern University, Evanston, IL.
+- "Joseph N. Carter." Chicago Legal News 27 (1886-1898): 143. 19th Century Masterfile. Northwestern University, Evanston, IL.

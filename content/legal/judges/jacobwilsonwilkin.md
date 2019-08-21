@@ -38,8 +38,6 @@ Next:  [Lawyers>Andrew Bruce](/legal/lawyers/bruce/)
 ---
 Sources:
 
-“Judge Jacob W. Wilkin- An Appreciation.” Illinois Law Review. June, 1907. Volume II, Number 2. pgs 67-77. Nineteenth- Century Masterfile. Northwestern University, Evanston, IL.
-
-“Honorable Jacob W. Wilkin.” The Daily Inter Ocean, (Chicago IL) Saturday, February 04, 1888: pg 5; Issue 314; col C. Nineteenth-Century Newspapers. Northwestern University, Evanston, IL.
-
-“Jacob Wilkin: Previous Supreme Court Justice,” http://www.state.il.us/court/supremecourt/justicearchive/Bio_Wilkin.asp.
+- “Judge Jacob W. Wilkin- An Appreciation.” Illinois Law Review. June, 1907. Volume II, Number 2. pgs 67-77. Nineteenth- Century Masterfile. Northwestern University, Evanston, IL.
+- “Honorable Jacob W. Wilkin.” The Daily Inter Ocean, (Chicago IL) Saturday, February 04, 1888: pg 5; Issue 314; col C. Nineteenth-Century Newspapers. Northwestern University, Evanston, IL.
+- “Jacob Wilkin: Previous Supreme Court Justice,” http://www.state.il.us/court/supremecourt/justicearchive/Bio_Wilkin.asp.

@@ -30,8 +30,6 @@ Next:  [Jacob Wilson Wilkin](/legal/judges/jacobwilsonwilkin/)
 ---
 Sources:
 
-“Obituary: Judge Alonzo K. Vickers.” Chicago Legal News: Journal of Legal Intelligence. Jan. 23, 1915: 197.
-
-“Alonzo K. Vickers.” http://www.state.il.us/court/supremecourt/justicearchive/Bio_Vickers.asp.
-
-http://vnweb.hwwilsonweb.com.turing.library.northwestern.edu/hww/results/getResults.jhtml?_DARGS=/hww/simplesearch/simple_search.jhtml.3
+- “Obituary: Judge Alonzo K. Vickers.” Chicago Legal News: Journal of Legal Intelligence. Jan. 23, 1915: 197.
+- “Alonzo K. Vickers.” http://www.state.il.us/court/supremecourt/justicearchive/Bio_Vickers.asp.
+- http://vnweb.hwwilsonweb.com.turing.library.northwestern.edu/hww/results/getResults.jhtml?_DARGS=/hww/simplesearch/simple_search.jhtml.3

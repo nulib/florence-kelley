@@ -38,8 +38,6 @@ Next:  [David J. Baker](/legal/judges/davidjbaker)
 ---
 Sources:
 
-“Contest for Supreme Judge.” Chicago Daily Tribune. March 30, 1888, p. 7. ProQuest Historical Newspapers Chicago Tribune (1849-1885). Northwestern University, Evanston, IL.
-
-“Judge J. M. Bailey Dead” Chicago Daily Tribune. Oct 17, 1895. p. 5. ProQuest Historical Newspapers Chicago Tribune (1849-1885). Northwestern University, Evanston, IL.
-
-“The Late Justice Bailey.” The Daily Inter Ocean. Oct 18, 1895. pg. 6; Issue 208; col A. 19th Century US Newspapers. Northwestern University, Evanston, IL.
+- “Contest for Supreme Judge.” Chicago Daily Tribune. March 30, 1888, p. 7. ProQuest Historical Newspapers Chicago Tribune (1849-1885). Northwestern University, Evanston, IL.
+- “Judge J. M. Bailey Dead” Chicago Daily Tribune. Oct 17, 1895. p. 5. ProQuest Historical Newspapers Chicago Tribune (1849-1885). Northwestern University, Evanston, IL.
+- “The Late Justice Bailey.” The Daily Inter Ocean. Oct 18, 1895. pg. 6; Issue 208; col A. 19th Century US Newspapers. Northwestern University, Evanston, IL.

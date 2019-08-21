@@ -38,8 +38,6 @@ Next:  [John Scholfield](/legal/judges/johnschofield/)
 ---
 Sources:
 
-“Jesse J. Phillips Dead.” The Chicago Daily. Feb 16, 1901, p. 1. ProQuest Historical Newspapers Chicago Tribune (1849-1885). Northwestern University, Evanston, IL.
-
-“Death of Justice Phillips.”Chicago Daily Tribune, Feb. 17, 1901, p. 38. ProQuest Historical Newspapers Chicago Tribune(1849-1885). Northwestern University, Evanston, IL.
-
-“Justice Phillips Near Death.” Chicago Daily Tribune; Mar. 3, 1900, p. 1. ProQuest Historical Newspapers Chicago Tribune (1849-1885). Northwestern University, Evanston, IL.
+- “Jesse J. Phillips Dead.” The Chicago Daily. Feb 16, 1901, p. 1. ProQuest Historical Newspapers Chicago Tribune (1849-1885). Northwestern University, Evanston, IL.
+- “Death of Justice Phillips.”Chicago Daily Tribune, Feb. 17, 1901, p. 38. ProQuest Historical Newspapers Chicago Tribune(1849-1885). Northwestern University, Evanston, IL.
+- “Justice Phillips Near Death.” Chicago Daily Tribune; Mar. 3, 1900, p. 1. ProQuest Historical Newspapers Chicago Tribune (1849-1885). Northwestern University, Evanston, IL.

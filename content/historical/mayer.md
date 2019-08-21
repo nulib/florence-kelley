@@ -30,6 +30,10 @@ related_content:
   - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois 'Eight-Hour' Decision"
     url: fk_31120037.pdf
 ---
+{{< gallery >}}
+  {{< figure link="/img/galleries/historical/mayer/levymayerhall.jpg" caption="Levy Mayer Hall" >}}
+  {{< figure link="/img/galleries/historical/mayer/LevyMayer.jpg" caption="Levy Mayer. Portrait by Leopold Seyffert. From Masters, Edgar Lee, 'Levy Mayer and the New Industrial Era,' 1927" >}}
+{{< /gallery >}} {{< load-photoswipe >}}
 
 The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/historical/mayer/#) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.
 
@@ -60,8 +64,3 @@ After the Supreme Court of Illinois declared the eight hour provision for women 
 Like Florence Kelley, Levy Mayer’s success was grounded in his intelligence, wit, energy, and in his ability to galvanize and inspire others. He was a founding partner in the law firm of [Mayer Brown](http://www.encyclopedia.chicagohistory.org/pages/2763.html) which carries his name to this day.
 
 next:  [The Jewish Training School of Chicago](/historical/jts/)
-
-{{< gallery >}}
-  {{< figure link="/img/galleries/historical/mayer/levymayerhall.jpg" caption="Levy Mayer Hall" >}}
-  {{< figure link="/img/galleries/historical/mayer/LevyMayer.jpg" caption="Levy Mayer. Portrait by Leopold Seyffert. From Masters, Edgar Lee, 'Levy Mayer and the New Industrial Era,' 1927" >}}
-{{< /gallery >}} {{< load-photoswipe >}}

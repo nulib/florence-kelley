@@ -32,8 +32,6 @@ Next:  [Frank K. Dunn](/legal/judges/frankkdunn/)
 ---
 Sources:
 
-“Craig for President.” Chicago Daily; Feb. 16, 1892, pg 1; ProQuest Historical Newspapers Chicago Tribune (18492-1985). Northwestern University, Evanston, IL.
-
-“Democrat Elected to the Supreme Court.” Chicago Daily Tribune, Oct. 21, 1913, pg 2. ProQuest Historical Newspapers Chicago Tribune (1872-1963). Northwestern University, Evanston, IL.
-
-“Noted ex-Jurist dies In Galsburg.” Chicago Daily Tribune Sept. 7, 1911, pg 5. ProQuest Historical Newspapers Chicago Tribune (1872-1963). Northwestern University, Evanston, IL.
+- “Craig for President.” Chicago Daily; Feb. 16, 1892, pg 1; ProQuest Historical Newspapers Chicago Tribune (18492-1985). Northwestern University, Evanston, IL.
+- “Democrat Elected to the Supreme Court.” Chicago Daily Tribune, Oct. 21, 1913, pg 2. ProQuest Historical Newspapers Chicago Tribune (1872-1963). Northwestern University, Evanston, IL.
+- “Noted ex-Jurist dies In Galsburg.” Chicago Daily Tribune Sept. 7, 1911, pg 5. ProQuest Historical Newspapers Chicago Tribune (1872-1963). Northwestern University, Evanston, IL.

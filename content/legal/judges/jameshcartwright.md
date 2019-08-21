@@ -28,6 +28,5 @@ Next: [George A. Cooke](/legal/judges/georgeacooke/)
 
 Sources:
 
-DeWitt, Clyde F. “Editorial Note: James H. Cartwright,” Illinois Law Review. Volume 15, November (1920): pages 271-277.
-
-"J.H. Cartwright, Justice, Is Dead: Supreme Court Member Taken While Arising." Chicago Daily Tribune (1872-1963); May 19, 1924; ProQuest Historical Newspapers Chicago Tribune (1849-1986) pg. 1
+- DeWitt, Clyde F. “Editorial Note: James H. Cartwright,” Illinois Law Review. Volume 15, November (1920): pages 271-277.
+- "J.H. Cartwright, Justice, Is Dead: Supreme Court Member Taken While Arising." Chicago Daily Tribune (1872-1963); May 19, 1924; ProQuest Historical Newspapers Chicago Tribune (1849-1986) pg. 1

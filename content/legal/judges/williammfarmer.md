@@ -28,6 +28,5 @@ Next:  [John P. Hand](/legal/judges/johnphand)
 ---
 Sources:
 
-Ed. John M. Palmer. The Bench and Bar of Illinois: Historical and Reminiscent. Volume II. Lewis Publishing Company: Chicago, 1899.
-
-“William M. Farmer.” Illinois Supreme Court Justice Archives.
+- Ed. John M. Palmer. The Bench and Bar of Illinois: Historical and Reminiscent. Volume II. Lewis Publishing Company: Chicago, 1899.
+- “William M. Farmer.” Illinois Supreme Court Justice Archives.

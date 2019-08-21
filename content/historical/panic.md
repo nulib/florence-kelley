@@ -64,8 +64,6 @@ For further reading, see, Charles Hoffman, [The Depression of the Nineties, An E
 
 Next:  [The Haymarket](/historical/haymarket)
 
-[comment]: <> (The Depression of the Nineties, An Economic History link doesn't work.)
-
 {{< gallery >}}
   {{< figure link="/img/galleries/historical/panic/i18146.jpg" caption="Interior of Board of Trade, the pit. Description: Interior of Board of Trade, the pit; Chicago, IL. Source: ICHi-18146. Chicago History Museum. Reproduction of photograph, photographer unknown. Date: 1896." >}}
   {{< figure link="/img/galleries/historical/panic/DN-0051332.jpg" caption="Job seekers, men standing in front of the Chicago Daily News building, looking at newspapers with pedestrians walking nearby. Image of job seekers, men standing in front of the Chicago Daily News building, looking at newspapers with pedestrians walking nearby. The building was located at 15 North Wells Street (formerly 123 Fifth Avenue) in the Loop community area of Chicago, Illinois. Source: DN-0051332, Chicago Daily News negatives collection, Chicago History Museum. Date: 1907." >}}
