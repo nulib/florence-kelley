@@ -32,6 +32,20 @@
   <div class="container">
     <div class="content">
       {{ .Content }}
+      <div class="box">
+        {{ with .Params.related_content }}
+      <aside class="menu">
+        <p class="menu-label">
+          Related Content
+        </p>
+        <ul class="menu-list">
+          {{ range .}}
+          <li><a href="/fk_documents/{{ .url}} ">{{ .title }}</a></li>
+          {{ end }}
+        </ul>
+      </aside>
+        {{ end }}
+      </div>
     </div>
   </div>
 </section>

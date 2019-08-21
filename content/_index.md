@@ -3,6 +3,37 @@
 title: "The Life and Times of Florence Kelley in Chicago, 1891-1899"
 # copy the URL, omitting the base URL (http://florencekelley.northwestern.edu/)
 image: /images_fk/COVER-F-spine-B-small.jpg
+related_content:
+  - title: "1890 Census: Report On Vital & Social Statistics in the U.S"
+    url: fk_03194297.pdf
+  - title: "Annual Report of the Department of Health of the City of Chicago 1893"
+    url: fk_04418389_1.pdf
+  - title: "Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)"
+    url: fk_12739373.pdf
+  - title: "Factory Inspection in the United States"
+    url: fk_2762420.pdf
+  - title: "Florence Kelley: The Making of a Social Pioneer"
+    url: fk_04643256.pdf
+  - title: "If Christ Came to Chicago"
+    url: fk_02010144.pdf
+  - title: "Notes of Sixty Years: the Autobiography of Florence Kelley (with notes by Kathryn Kish Sklar)"
+    url: fk_04451105.pdf
+  - title: "On Some Changes in the Legal Status of the Child Since Blackstone"
+    url: fk_9284629.pdf
+  - title: "Report of the Illinois Bureau of Labor Statistics - 1890 - 6th Biennial"
+    url: fk_02195483-06.pdf
+  - title: "Slums of the Great Cities - Baltimore, Chicago, Philadelphia & New York"
+    url: fk_34440001.pdf
+  - title: "Theodore Roosevelt to Florence Kelley, June 2, 1899"
+    url: fk_31110057.pdf
+  - title: "To Stop Child Labor: Dr. Probst and Florence Kelley Start a Crusade"
+    url: fk_31120041.pdf
+  - title: "Twenty Years at Hull House"
+    url: fk_20455554.pdf
+  - title: "Wealth Against Commonwealth"
+    url: fk_01577927.pdf
+  - title: "Women Factory Inspectors Appointed: Florence Kelley, Alzina Parsons Stevens"
+    url: fk_31120011.pdf
 ---
 
 ### Florence Kelley, Factory Inspector in 1890s Chicago, and the Children
