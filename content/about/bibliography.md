@@ -4,8 +4,6 @@ image_file: site/i52118thmb.jpg
 image_caption: "Two women with basketball. Physical Culture Class."
 ---
 
-### Bibliography
-
 [Bibliography from: Kathryn Sklar, “Florence Kelley and the Nation’s Work” (Yale University Press, 1995).](/documentbrowser/?nodeId=57735&page=428) 
 
 [Book/Book excerpt](/about/biblography/#Book/Book excerpt)
@@ -30,23 +28,23 @@ image_caption: "Two women with basketball. Physical Culture Class."
    1891. The Hall and ODonald Litho Co.
    **9th National Convention of the Officials of the Bureaus of Labor Statistics**
    1892. The Hall and ODonald Litho Co.
-   **A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)** 
+   **A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)**
    2007. Pierce, Bessie Louise. University of Chicago Press.
    **A History of Illinois Labor Legislation**
    1929. Beckner, Earl R.. University of Chicago Press.
    **A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens**
    1900 . Inter Ocean. Inter Ocean.
-   **A Short History of Reconstruction 1863-1877** 
+   **A Short History of Reconstruction 1863-1877**
    1990 . Foner, Eric . Harper & Row.
-   **Abraham Bisno: Union Pioneer** 
+   **Abraham Bisno: Union Pioneer**
    1967 . Bisno, Abraham . University of Wisconsin Press.
-   **Altgeld of Illinois** 
+   **Altgeld of Illinois**
    1924 . Browne, Waldo R. . B. W. Huebsch.
    **Altgeld's America: The Lincoln Ideal versus Changing Realities**
    1958 . Ginger, Ray . Franklin Watts.
-   **An Early Encounter with Tomorrow: Europeans, Chicago's Loop, and the World's Columbian Exposition** 
+   **An Early Encounter with Tomorrow: Europeans, Chicago's Loop, and the World's Columbian Exposition**
    1997 . Lewis, Arnold . University of Illinois Press.
-   **Annual Convention of the International Association of Factory Inspectors** 
+   **Annual Convention of the International Association of Factory Inspectors**
    1893. Forest City Printing House.
    **Annual Reports of the Jewish Training School 1890**
    1890. Jewish Training School, Chicago. Jewish Training School, Chicago.
@@ -70,15 +68,15 @@ image_caption: "Two women with basketball. Physical Culture Class."
    1900. Jewish Training School, Chicago. Jewish Training School, Chicago.
    **As Others See Chicago: Impressions of Visitors, 1673-1933**
    1933 . Pierce, Bessie Louise. University of Chicago Press.
-   **Bibliography of Negro Migration** 
+   **Bibliography of Negro Migration**
    1934 . Kennedy, Louise V. and Ross, Frank Alexander. Columbia University Press.
    **Black Chicago: The Making of a Negro Ghetto, 1890-1920 **
    1967. Spear, Allan H. . University of Chicago Press.
-   **Carey Thomas of Bryn Mawr** 
+   **Carey Thomas of Bryn Mawr**
    1947. Finch, Edith . Harper.
    **Carroll Wright and Labor Reform: The Origin of Labor Statistics**
    1960. Leiby, James . Harvard University Press.
-   **Carter Henry Harrison: A Memoir** 
+   **Carter Henry Harrison: A Memoir**
    1895. Abbot, Willis John . Dodd, Mead, & Co..
    **Centennial History of Illinois: vol. 5 (The Modern Commonwealth, 1893-1918)**
    1920. Bogart, Ernest Ludlow and Mattews, John Malory.
@@ -88,7 +86,7 @@ image_caption: "Two women with basketball. Physical Culture Class."
    1976. Skogan, Wesley G. . Institute of Government and Public Affairs of the University of Illinois.
    **Chicago and the American Literary Imagination, 1880-1920**
    1984. Smith, Carl S.. University of Chicago Press.
-   **Chicago by Gaslight: A History of Chicago�s Netherworld, 1880-1920** 
+   **Chicago by Gaslight: A History of Chicago�s Netherworld, 1880-1920**
    1996. Lindberg, Richard . Academy Chicago Publishers.
    **Chicago: A Historical Guide to the Neighborhoods � The Loop and South Side**
    1979. Holt, Glen E. and Pacyga, Dominic A.. Chicago Historical Society/Chicago History Museum.
@@ -100,7 +98,7 @@ image_caption: "Two women with basketball. Physical Culture Class."
    1938. Barnard, Harry. Bobbs-Merrill.
    **Examination Questions/Northwestern University School of Law**
    1900. Harvey B. Hurd. Northwestern University Archives.
-   **Florence Kelley and the Nation's Work** 
+   **Florence Kelley and the Nation's Work**
    1995. Kathryn Kish Sklar. Yale University Press.
    **Florence Kelley: The Making of a Social Pioneer**
    1966. Blumberg, Dorothy Rose. Augustus M. Kelley.
@@ -130,7 +128,7 @@ image_caption: "Two women with basketball. Physical Culture Class."
    1879. Kelley, William Darrah.
    **Levy Mayer and the New Industrial Era**
    1927. Masters, Edgar Lee. Rachel Mayer.
-   **Live Questions: Including Our Penal Machinery and Its Victims** 
+   **Live Questions: Including Our Penal Machinery and Its Victims**
    1890. Altgeld, John P.. Donohue and Henneberg.
    **Looking backward, 2000-1887**
    1888. Bellamy, Edward. Ward, Lock, and Company.
@@ -194,7 +192,7 @@ image_caption: "Two women with basketball. Physical Culture Class."
    1996. Digby-Junger, Richard.
    **The Jungle**
    Sinclair, Upton.
-   **The Left Handed Marriage** 
+   **The Left Handed Marriage**
    2001. Leigh Bienen. Ontario Review Press.
    **The Many Faces of Hull-House:the Photographs of Wallace Kirkland**
    1989. Johnson, MaryAnn. University of Illinois Press.
@@ -240,7 +238,7 @@ image_caption: "Two women with basketball. Physical Culture Class."
    1933. Reckless, Walter C.. University of Chicago Press.
    **Wayside: The Henry Demarest Lloyd House in Winnetka, Illinois**
    1977. Beal, Stephen*.
-   **We Were There: The Story of Working Women in America** 
+   **We Were There: The Story of Working Women in America**
    1977. Wertheimer, Barbara.
    **Wealth Against Commonwealth**
    1894. Lloyd, Henry Demarest.
@@ -256,7 +254,7 @@ image_caption: "Two women with basketball. Physical Culture Class."
    1976. Brownlee, W. Elliot. Yale University Press.
    **Work and Community in the Jungle: Chicago's Packinghouse Workers, 1894-1922**
    1987. Barrett, James R.. University of Illinois Press.
-    
+
 back to [top](/about/bibliography/#top)
 
 #### Correspondence
@@ -447,13 +445,13 @@ back to [top](/about/bibliography/#top)
    1881. Illinois General Assembly.
    **Act to regulate the manufacture of clothing, wearing apparel, and other articles in this state, and to provide for the appointment of state inspectors to enforce the same**
    1893. Illinois General Assembly. State of Illinois.
-   **Annual Report of the Department of Health of the City of Chicago 1893** 
+   **Annual Report of the Department of Health of the City of Chicago 1893**
    1893 . Chicago (IL) Department of Health. City of Chicago.
    **Annual Report of the Department of Health of the City of Chicago 1894**
    1894 . Chicago (IL) Department of Health. City of Chicago.
-   **Biennial Report of the Department of Health of the City of Chicago 1895-96** 
+   **Biennial Report of the Department of Health of the City of Chicago 1895-96**
    1896 . City of Chicago.
-   **Chicago Health Ordinances in Laws and Ordinances Governing the City of Chicago as in force 4/2/1890** 
+   **Chicago Health Ordinances in Laws and Ordinances Governing the City of Chicago as in force 4/2/1890**
    1890. Binmore, Henry . City of Chicago.
    **Illinois, Department of Labor, Bureau of Labor Statistics, Bulletin, Labor Legislation in the 46th General Assembly of Illinois (1909).**
    1909. Illinois General Assembly. State of Illinois.
@@ -493,7 +491,7 @@ back to [top](/about/bibliography/#top)
    1896. Chicago Tribune (ProQuest).
    **Amusements: John T. Raymond at Hooley's**
    1884. Chicago Tribune (ProQuest).
-   **Are Given Degrees: Students of Northwestem University Receive Diplomas** 
+   **Are Given Degrees: Students of Northwestem University Receive Diplomas**
    1895. Daily InterOcean.
    **Are Seeking to Buy Up the Bonds**
    1895. Chicago Tribune (ProQuest).
@@ -611,7 +609,7 @@ back to [top](/about/bibliography/#top)
    New York Times.
    **Modern Slave Dens Tour of the Legislative Committee to Sweat Shops**
    1893. Daily InterOcean.
-   **More Child Labor Cases Begun** 
+   **More Child Labor Cases Begun**
    1896. Daily InterOcean.
    **More Seats Needed Children Forced Out of School for Want of Room**
    1892. Daily InterOcean.
@@ -665,7 +663,7 @@ back to [top](/about/bibliography/#top)
    1945. New York Times.
    **Obituary: William D. Kelley**
    1890. New York Times.
-   **Obituary: William D. Kelley is Dead** 
+   **Obituary: William D. Kelley is Dead**
    1890. Chicago Tribune (ProQuest).
    **Offers it to the School: County Wants to Give Away the Normal Institution**
    1895. Chicago Tribune (ProQuest).
@@ -675,7 +673,7 @@ back to [top](/about/bibliography/#top)
    1904. Chicago Tribune (ProQuest).
    **Preventive Work for Children Discussed at the Conference of the Bureau of Charities**
    1896. Daily InterOcean.
-   **Preventive Work for Children Societies Will Discuss the Subject in a Series of Papers** 
+   **Preventive Work for Children Societies Will Discuss the Subject in a Series of Papers**
    1896. Daily InterOcean.
    **Reproof to Judge Baker**
    1901. Chicago Tribune (ProQuest).
@@ -690,7 +688,7 @@ back to [top](/about/bibliography/#top)
    1913.
    **Says the Laws Are Defective: Miss Florence Kelley, Factory Inspector, Delivers an Address**
    1896. Daily InterOcean.
-   **Should Follow Tammany W. T. Stead Advises the Churches to Adopt Its Aggressive Methods** 
+   **Should Follow Tammany W. T. Stead Advises the Churches to Adopt Its Aggressive Methods**
    1893. Daily InterOcean.
    **Sons of the Revolution Meet: Judge Frank Baker Is Chosen President**
    1900. Chicago Tribune (ProQuest).
@@ -698,7 +696,7 @@ back to [top](/about/bibliography/#top)
    1913. Chicago Tribune (ProQuest).
    **Successor to the Whisky Trust**
    1895. Chicago Tribune (ProQuest).
-   **Sweat Shops Should Go Illinois Factory Inspectors Decidedly Urge Their Abolition** 
+   **Sweat Shops Should Go Illinois Factory Inspectors Decidedly Urge Their Abolition**
    1895. Daily InterOcean.
    **System an Iniquity Sweatshops Denounced at a Rousing Mass Meeting**
    1896. Daily InterOcean.
@@ -852,7 +850,7 @@ back to [top](/about/bibliography/#top)
 back to [top](/about/bibliography/#top)
 
 #### Report of the Factory Inspectors of Illinois
-   **Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)** 
+   **Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)**
    1894. Kelley, Florence. Illinois Office of Inspectors of Factories and Workshops.
    **Annual Report of the Factory Inspectors of Illinois, 1893**
    1893. Illinois Office of Inspectors of Factories and Workshops. Illinois Office of Inspectors of Factories and Workshops.
