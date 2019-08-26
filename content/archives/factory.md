@@ -5,13 +5,13 @@ image_caption: "Girl wearing a ruffled hat in a group of children assembled for 
 ---
 Year | Title
 --- | ---
-1894 | [Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)](1894. Kelley, Florence. Source/Publisher: H.W. Roker, State Printer & Binder Credit: Eastern Illinois University Libraries.)
-1893 | [Annual Report of the Factory Inspectors of Illinois, 1893](1893. Illinois Office of Inspectors of Factories and Workshops. Credit: Government Documents Department of Northwestern University Libraries; Illinois Office of Inspectors of Factories and Workshops.)
-1894 | [Annual Report of the Factory Inspectors of Illinois, 1894](1894. Illinois Office of Inspectors of Factories and Workshops. Credit: Government Documents Department of Northwestern University Libraries.)
-1895 | [Annual Report of the Factory Inspectors of Illinois, 1895](1895. Kelley, Florence. Credit: Government Documents Department of Northwestern University Libraries; Illinois Office of Inspectors of Factories and Workshops.)
-1896 | [Annual Report of the Factory Inspectors of Illinois, 1896](1896. Illinois Office of Inspectors of Factories and Workshops. Credit: Government Documents Department, Illinois State University.)
-1897 | [Annual Report of the Factory Inspectors of Illinois, 1897](1897. Kelley, Florence.)
-1898 | [Annual Report of the Factory Inspectors of Illinois, 1898](1898.)
-1899 | [Annual Report of the Factory Inspectors of Illinois, 1899](1899. Kelley, Florence.)
+1894 | [Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)](/fk_documents/fk_12739373.pdf)
+1893 | [Annual Report of the Factory Inspectors of Illinois, 1893](/fk_documents/fk_12995219_01.pdf)
+1894 | [Annual Report of the Factory Inspectors of Illinois, 1894](/fk_documents/fk_12995219_02.pdf)
+1895 | [Annual Report of the Factory Inspectors of Illinois, 1895](/fk_documents/fk_12995219_03.pdf)
+1896 | [Annual Report of the Factory Inspectors of Illinois, 1896](/fk_documents/fk_12995219_04.pdf)
+1897 | [Annual Report of the Factory Inspectors of Illinois, 1897](/fk_documents/fk_12995219_05.pdf)
+1898 | [Annual Report of the Factory Inspectors of Illinois, 1898](/fk_documents/fk_12995219_06.pdf)
+1899 | [Annual Report of the Factory Inspectors of Illinois, 1899](/fk_documents/fk_12995219_07.pdf)
 
 ---
