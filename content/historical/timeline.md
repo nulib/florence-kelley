@@ -4,45 +4,45 @@ image_file: site/i19989thmb.jpg
 image_caption: "8 hour strike Chicago Typographical Union #16."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url:
+    url: fk_04755641_03.pdf
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url:
+    url: fk_02023466.pdf
   - title: "Annual Report of the Department of Health of the City of Chicago 1893"
-    url:
+    url: fk_04418389_1.pdf
   - title: "Annual Report of the Department of Health of the City of Chicago 1894"
-    url:
+    url: fk_04418389_2.pdf
   - title: "Annual Report of the Factory Inspectors of Illinois, 1899"
-    url:
+    url: fk_12995219_07.pdf
   - title: "As Others See Chicago: Impressions of Visitors, 1673-1933"
-    url:
+    url: fk_01870344.pdf
   - title: "Biennial Report of the Department of Health of the City of Chicago 1895-96"
-    url:
+    url: fk_04420608.pdf
   - title: "Centennial History of Illinois: vol. 5 (The Modern Commonwealth, 1893-1918)"
-    url:
+    url: fk_00771461.pdf
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url:
+    url: fk_02032274.pdf
   - title: "Chicago and the American Literary Imagination, 1880-1920"
-    url:
+    url: fk_00908681.pdf
   - title: "Flaws in the Law: Supreme Court Punctures the Eight-Hour Act"
-    url:
+    url: fk_31120016.pdf
   - title: "If Christ Came to Chicago"
     url: fk_02010144.pdf
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url:
+    url: fk_01884559.pdf
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url:
+    url: fk_02006243.pdf
   - title: "The Chicago Strike"
-    url:
+    url: fk_02485689.pdf
   - title: "The Pullman Strike : the Story of a Unique Experiment and of a Great Labor Upheaval"
-    url:
+    url: fk_00232352.pdf
   - title: "The Tenements of Chicago, 1908-1935"
-    url:
+    url: fk_03009084.pdf
   - title: "Truancy and Non-Attendance in the Chicago Schools: A Study of the Social Aspects of the Compulsory"
-    url:
+    url: fk_00237739.pdf
   - title: "Education and Child Labor Legislation of Illinois"
-    url:
+    url: fk_1009969.pdf
   - title: "Vice in Chicago"
-    url:
+    url: fk_00238294.pdf
 ---
 Date | Description
 :---: | :---
