@@ -1,0 +1,29 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "menu" .}} {{end}}
+
+{{ define "main" }}
+
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title is-italic">
+        {{ .Title }}
+      </h2>
+      <h3 class="subtitle">
+        By {{ .Params.author }}, {{ .Params.year }}
+      </h3>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="content has-text-centered">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+
+{{ end }}
+
+{{ define "footer" }} {{ partial "footer" .}} {{ end }}
