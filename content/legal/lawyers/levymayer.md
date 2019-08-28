@@ -31,7 +31,7 @@ related_content:
     url: fk_31120037.pdf
 ---
 
-The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/fk_documents/fk_04774801.pdf) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.
+The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/documents/fk_04774801.pdf) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.
 
 Levy Mayer was born in Virginia in 1858, the sixth of thirteen children, the son of 1855 immigrants from Bavaria, now Germany, where only Catholics had been allowed to hold certain jobs and pursue professions, or hold public worship, and where there were many laws against minorities, not only Jews, purchasing and owning real estate. The family went to Virginia, after arriving in New York, because Levy Mayer’s mother had a brother there, and then in straightened circumstances came to Chicago when Levy Mayer was five, leaving the turmoil and economic devastation of the South.
 

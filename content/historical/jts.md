@@ -41,6 +41,6 @@ The School’s curriculum was based upon corrective measures and training in han
 
 >This is an unfortunate state of affairs, but, endeavor all we will, it is barely possible to do much for the permanent social improvement of the adults. We must leave it to the free institutions of this country to improve them as best they may. But the children we can influence. These saplings can still be bent. Of them we can make clean, honest, useful, educated Americans...."
 
-From: [Second Annual Report of the Executive Board of the Jewish Training School of Chicago](/fk_documents/fk_40381219_1891.pdf), Joseph Stolz, Secretary.
+From: [Second Annual Report of the Executive Board of the Jewish Training School of Chicago](/documents/fk_40381219_1891.pdf), Joseph Stolz, Secretary.
 
 next:  [Legal Context](/legal/law/)
