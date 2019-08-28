@@ -23,7 +23,7 @@ Year | Title
 1885 | [Florence Kelley to Mary Thorn Lewis, June 10, 1885](/fk_documents/fk_31110013.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, April 16, 1902](/fk_documents/fk_31110070.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, Aug. 21, 1902](/fk_documents/fk_31110071.pdf)
-1902 | [Florence Kelley to Nicholas Kelley, Aug. 3, 1902](/fk_documents/fk_31110072.pdf.)
+1902 | [Florence Kelley to Nicholas Kelley, Aug. 3, 1902](/fk_documents/fk_31110072.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, Dec. 1, 1902](/fk_documents/fk_31110073.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, July 3, 1902](/fk_documents/fk_31110074.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, June 13, 1902](/fk_documents/fk_31110075.pdf)
@@ -97,7 +97,7 @@ Year | Title
 1915 | [The La Follette Law from the Consumers' Point of View](/fk_documents/fk_01193309.pdf)
 1908 | [The Responsibility of the Consumer](/fk_documents/fk_1010993.pdf)
 1898 | [The United States Supreme Court and the Utah Eight-Hours' Law](/fk_documents/fk_2761838.pdf)
-1896 | [The Working Boy](/fk_documents/fk_2761630.pdf.)
+1896 | [The Working Boy](/fk_documents/fk_2761630.pdf)
 1911 | [What Should We Sacrifice for Uniformity?](/fk_documents/fk_1011872.pdf)
 1914 | [Women and Social Legislation in the United States](/fk_documents/.pdf)
 

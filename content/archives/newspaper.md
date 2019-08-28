@@ -14,7 +14,7 @@ Year | Title
 1922 | [Obituary: Levy Mayer's Burial to Wait Return of Wife](/fk_documents/fk_31110041.pdf)
 1922 | [Obituary: Levy Mayer, Noted Lawyer, Found Dead](/fk_documents/fk_31110007.pdf)
 1890 | [Obituary: William D. Kelley](/fk_documents/fk_31110037.pdf)
-1877 | [The Shooting of Judge Kelley's Son](/fk_documents/fk_31110011.pdf.)
+1877 | [The Shooting of Judge Kelley's Son](/fk_documents/fk_31110011.pdf)
 
 #### Chicago Tribune (ProQuest)
 Year | Title

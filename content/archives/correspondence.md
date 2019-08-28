@@ -16,7 +16,7 @@ Year | Title
 1885 | [Florence Kelley to Mary Thorn Lewis, June 10, 1885](/fk_documents/fk_31110013.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, April 16, 1902](/fk_documents/fk_31110070.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, Aug. 21, 1902](/fk_documents/fk_31110071.pdf)
-1902 | [Florence Kelley to Nicholas Kelley, Aug. 3, 1902](/fk_documents/fk_31110072.pdf.)
+1902 | [Florence Kelley to Nicholas Kelley, Aug. 3, 1902](/fk_documents/fk_31110072.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, Dec. 1, 1902](/fk_documents/fk_31110073.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, July 3, 1902](/fk_documents/fk_31110074.pdf)
 1902 | [Florence Kelley to Nicholas Kelley, June 13, 1902](/fk_documents/fk_31110075.pdf)

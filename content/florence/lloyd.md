@@ -11,10 +11,6 @@ related_content:
     url: fk_31110061.pdf
   - title: "Henry Demarest Lloyd to Florence Kelley, Sept. 29, 1905"
     url: fk_31110066.pdf
-  - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 1"
-    url: http://www.worldcat.org/oclc/457507360
-  - title: "Henry Demarest Lloyd, 1847-1903, A Biography Vol. 2"
-    url: http://www.worldcat.org/oclc/457507360
   - title: "Hull House Maps and Papers"
     url: fk_01643285.pdf
   - title: "Obituary: Henry D. Lloyd is Dead"
@@ -55,7 +51,7 @@ Later his public criticism of the trial court judge in Haymarket led to his bein
 
 His work was widely published and respected at home and broad, especially among the large and articulate reform minded community in Great Britain. He supported his causes and himself, with the addition of the contributions from his wife’s inheritance from her mother, by writing and speaking, as did Jane Addams and Florence Kelley. In response to one of his better known essays, John Peter Altgeld, when he was a judge, wrote to Henry Demarest Lloyd that he would have preferred to have published one such article than to holding any public office, because the essay would benefit humanity more than a lifetime of public office.
 
-Championing the rights of labor became for Henry Demarest Lloyd the practical application of humanitarian and democratic ethics. The pseudoscience of the free market created, he believed, the fiction of a free contract and the false gospel of competition. He toured the tenements and saw children living under conditions so depressing he sat down on the curb and wept, and then devoted his purse, his pen, and his voice on behalf of the helpless [children](/historical/childern) whom he found to be the most cruelly exploited workers.
+Championing the rights of labor became for Henry Demarest Lloyd the practical application of humanitarian and democratic ethics. The pseudoscience of the free market created, he believed, the fiction of a free contract and the false gospel of competition. He toured the tenements and saw children living under conditions so depressing he sat down on the curb and wept, and then devoted his purse, his pen, and his voice on behalf of the helpless [children](/historical/children) whom he found to be the most cruelly exploited workers.
 
 Henry Demarest Lloyd did not start out his career as a journalist and writer as a supporter of Labor and the nascent unions. He started investigating the monopolies when he came to the __Chicago Tribune__ in 1884. His research into the financial ownership of the railroads and their ties to Standard Oil and other companies, as well as the ongoing drama of the streetcar franchises in Chicago and elsewhere, and the corruption in city and state government, put him in conflict with the owners and publishers of __The Chicago Tribune__, Joseph Medill and his father in law, William Bross. Lloyd’s support of the Haymarket defendants, and his criticism of Judge Gary, did not make him popular among the Chicago elite, nor did his exposure of fraud and stock manipulations by financiers.
 

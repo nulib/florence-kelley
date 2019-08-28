@@ -11,7 +11,7 @@ Year | Title
 1911 | [Minimum-Wage Boards](/fk_documents/fk_2763166.pdf)
 1898 | [The Illinois Child-Labor Law](/fk_documents/fk_2761891.pdf)
 1898 | [The United States Supreme Court and the Utah Eight-Hours' Law](/fk_documents/fk_2761838.pdf)
-1896 | [The Working Boy](/fk_documents/fk_2761630.pdf.)
+1896 | [The Working Boy](/fk_documents/fk_2761630.pdf)
 
 #### Annals of the American Academy of Political and Social Science
 Year | Title
@@ -32,7 +32,7 @@ Year | Title
 1909 | [The Invasion of Family Life by Industry](/fk_documents/fk_1011348.pdf)
 1908 | [The Responsibility of the Consumer](/fk_documents/fk_1010993.pdf)
 1911 | [What Should We Sacrifice for Uniformity?](/fk_documents/fk_1011872.pdf)
-1914 | [Women and Social Legislation in the United States](/fk_documents/.pdf)
+1914 | Women and Social Legislation in the United States
 
 #### Charities Review
 Year | Title
@@ -54,7 +54,7 @@ Year | Title
 1915 | [Discussion: Proceedings of the Academy of Political Science in the City of New York](/fk_documents/fk_01193321.pdf)
 1908 | [Essentials in Factory Inspection](/fk_documents/fk_1010992.pdf)
 1907 | [Factory Inspection in the United States](/fk_documents/fk_2762420.pdf)
-1897 | [Factory Legislation for Women in the United States](/fk_documents/fk_2761716.pdf.)
+1897 | [Factory Legislation for Women in the United States](/fk_documents/fk_2761716.pdf)
 1894 | [Irregularity of Employment](/fk_documents/fk_02485690.pdf)
 1957 | [National Consumer's League and the Brandeis Brief](/fk_documents/fk_02109304.pdf)
 1895 | [Review: First Special Report of the Factory Inspectors of Illinois on Small-Pox in the Tenement-House Sweat-Shops of Chicago](/fk_documents/fk_12739373.pdf)
