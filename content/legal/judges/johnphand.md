@@ -4,15 +4,15 @@ image_file: site/DN-0000398thmb.jpg
 image_caption: "Council Chamber seen from the seating area at the back of the room."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
 ---
 
 John P. Hand was born in Henry County, Illinois on November 10, 1850. Hand began his studies at Rock River Seminary in Mount Morris, Illinois. Hand went on to attend Iowa State University and graduated in 1872. After graduation, Hand resolved to pursue a career in law and was admitted to the Bar in 1875.

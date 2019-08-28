@@ -4,15 +4,15 @@ image_caption: "Scott, John M."
 image_file: site/JohnMScott.jpg
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
 ---
 
 John M. Scott was born on August 1, 1824 in St. Clair County, Illinois. John’s father, Samuel Scott was born in Virginia but came from a family of Irish immigrants. John’s mother Nancy Biggs was born in Illinois. As a boy, John attended public schooling; however, his parents concurrently provided him with private instruction as well. In his private instruction, John excelled in the study of Latin which would help him in his later study of law. He also exhibited much skill in mathematics which he considered his favorite subject.

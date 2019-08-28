@@ -4,15 +4,15 @@ image_file: site/i35691aathmb.jpg
 image_caption: "Corner of State and Madison Streets after the Chicago Fire of 1871."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
 ---
 
 Frank Kershner Dunn was born in Mount Gilead, Ohio on November 13, 1854. Frank’s father, Andrew Kershner worked as a lawyer in Ohio. Frank received his education at Kenyon College in Ohio. In 1873, Frank graduated with a Bachelor of Arts Degree, and decided to follow in his father’s footsteps by attending law school. Frank would later follow in his father’s footsteps not only to the bar, but also to the bench, as Andre Kershner also had served as a judge on the court of common pleas.

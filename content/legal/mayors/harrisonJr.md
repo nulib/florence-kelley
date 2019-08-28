@@ -4,7 +4,7 @@ image_file: site/HarrisonCarterII.jpg
 image_caption: "Carter H. Harrison II"
 related_content:
   - title: "Carter Henry Harrison: A Memoir"
-    url: fk_01464088.pdf
+    url: fk_01464088
 aliases: [/legal/mayors/harrisonJr/]
 ---
 

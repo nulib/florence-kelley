@@ -4,15 +4,15 @@ image_file: site/i19989thmb.jpg
 image_caption: "8 hour strike Chicago Typographical Union #16."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
 ---
 
 Alonzo K. Vickers was born in Massac County, Illinois on September 25, 1853. His parents, who originated from Tennessee, came to Illinois in 1844 in search of land. They purchased a farm in Massac County and remained there the rest of their lives. Alonzo was the youngest in the family with two older brothers; however, he would soon be responsible for providing for his family. In 1861, Alonzo’s father died and when the Civil War broke out, both of Alonzo’s brothers went to fight.

@@ -4,25 +4,25 @@ image_file: site/LloydHenryDemarest.jpg
 image_caption: "Henry Demarest Lloyd"
 related_content:
   - title: "Contribution of William Bross to the Growth of the City of Chicago"
-    url: fk_33000001.pdf
+    url: fk_33000001
   - title: "Henry Demarest Lloyd to Florence Kelley, Aug. 15, 1894"
-    url: fk_31110053.pdf
+    url: fk_31110053
   - title: "Henry Demarest Lloyd to Florence Kelley, Oct. 18, 1899"
-    url: fk_31110061.pdf
+    url: fk_31110061
   - title: "Henry Demarest Lloyd to Florence Kelley, Sept. 29, 1905"
-    url: fk_31110066.pdf
+    url: fk_31110066
   - title: "Hull House Maps and Papers"
-    url: fk_01643285.pdf
+    url: fk_01643285
   - title: "Obituary: Henry D. Lloyd is Dead"
-    url: fk_31120079.pdf
+    url: fk_31120079
   - title: "Our Toiling Children"
-    url: fk_70090029.pdf
+    url: fk_70090029
   - title: "The 'New Conscience:' Henry Demarest Lloyd's Lecture to the Ethical Culture Society"
-    url: fk_31120058.pdf
+    url: fk_31120058
   - title: "Twenty Years at Hull House"
-    url: fk_20455554.pdf
+    url: fk_20455554
   - title: "Wealth Against Commonwealth"
-    url: fk_01577927.pdf
+    url: fk_01577927
 ---
 <img alt="Henry Demarest Lloyd" src="/img/LloydHenryDemarest.jpg" style="margin:auto;display:block;" />
 <p class="has-text-centered is-italic is-size-7">Henry Demarest Lloyd</p>

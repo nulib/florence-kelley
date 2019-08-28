@@ -2,9 +2,9 @@
 title: "The World's Columbian Exposition"
 related_content:
   - title: "A History of Chicago(Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "The Reason Why the Colored American is Not in the World's Columbian Exposition"
-    url: fk_02973460.pdf
+    url: fk_02973460
 ---
 The [World’s Columbian Exposition](http://www.encyclopedia.chicagohistory.org/pages/1386.html), also referred to as the Chicago World’s Fair, the Great Chicago Fair and the [White City](http://eriklarsonbooks.com/), was a national exhibition built to commemorate the 400th anniversary of the arrival of Columbus to the New World. It spanned five months, opening May 1 and coming to a close October 30.
 

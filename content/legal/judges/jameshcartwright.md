@@ -4,15 +4,15 @@ image_file: site/i05740aathmb.jpg
 image_caption: "Looking northeast from corner of Clark Street and Randolph Street from Court House Dome."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
 ---
 James H. Cartwright was born on December 1, 1842 in a log cabin in the Iowa territory. The cabin was one of three log cabins, which sat on what today is the location of the city of Maquoketa. His father was a Methodist preacher, and James was one of six children. As a boy, James was weak and fragile, and was not expected to live an exceedingly long life. However, as time went on he overcame his physical weakness. His family later moved to Mt. Morris, Michigan where he attended grammar school, and began to follow in his father’s footsteps by attending Rock River Seminary.
 

@@ -4,34 +4,34 @@ image_file: site/DN-0000398thmb.jpg
 image_caption: "Council Chamber seen from the seating area at the back of the room."
 related_content:
   - title: "Buys in the Calumet Distillery"
-    url: fk_31120069.pdf
+    url: fk_31120069
   - title: "Change in Whisky Trust"
-    url: fk_31120072.pdf
+    url: fk_31120072
   - title: "Eyes on the Bench: Hot Times to Follow Supreme Court Whisky Decision"
-    url: fk_31120064.pdf
+    url: fk_31120064
   - title: "Levy Mayer Argues Against the Law: Question of the Constitutionality of the Eight-Hour Act is Raised"
-    url: fk_31120046.pdf
+    url: fk_31120046
   - title: "Levy Mayer and the New Industrial Era"
-    url: fk_00223510.pdf
+    url: fk_00223510
   - title: "NU School of Law Description of New Bldgs"
-    url: fk_04774801.pdf
+    url: fk_04774801
   - title: "Not Worth Paper Written On: Mrs. Kelley's Estimate of Value of Child-Labor Law"
-    url: fk_10757324.pdf
+    url: fk_10757324
   - title: "Obituary: Levy Mayer's Burial to Wait Return of Wife"
-    url: fk_31110041.pdf
+    url: fk_31110041
   - title: "Obituary: Levy Mayer, Noted Lawyer, Found Dead"
-    url: fk_31110040.pdf
+    url: fk_31110040
   - title: "To Adopt a Reorganization Plan: Attorney Levy Mayer to Go to New York Today for the Whisky Trust"
-    url: fk_31120061.pdf
+    url: fk_31120061
   - title: "Whisky Trust Denies It All: Answer to Attorney-General Moloney's Charges"
-    url: fk_31120060.pdf
+    url: fk_31120060
   - title: "Whisky Trust Gets a Blow"
-    url: fk_31120059.pdf
+    url: fk_31120059
   - title: "Will Not Affect the New York Law: Inspectors of Gotham Discuss the Illinois 'Eight-Hour' Decision"
-    url: fk_31120037.pdf
+    url: fk_31120037
 ---
 
-The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/documents/fk_04774801.pdf) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.
+The man in the elegant portrait by Leopold Seyffert in the Entrance Lobby to [Levy Mayer Hall](/documents/fk_04774801) at Northwestern University School of Law is Levy Mayer, facing a painting of his widow, Rachel Meyer Mayer who, after Levy Mayer’s death in 1922, donated $500,000 of his eight million dollar estate to build Levy Mayer Hall, giving the School of Law its first and remaining home on the downtown campus of Northwestern University.
 
 Levy Mayer was born in Virginia in 1858, the sixth of thirteen children, the son of 1855 immigrants from Bavaria, now Germany, where only Catholics had been allowed to hold certain jobs and pursue professions, or hold public worship, and where there were many laws against minorities, not only Jews, purchasing and owning real estate. The family went to Virginia, after arriving in New York, because Levy Mayer’s mother had a brother there, and then in straightened circumstances came to Chicago when Levy Mayer was five, leaving the turmoil and economic devastation of the South.
 

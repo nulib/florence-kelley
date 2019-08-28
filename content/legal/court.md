@@ -4,47 +4,47 @@ image_file: site/5780pb31f14ip400g.jpg
 image_caption: "Men working 1. Photograph by Rubenstein"
 related_content:
   - title: "Muller v. Oregon: Brief for Plaintiff in Error"
-    url: fk_07382911.pdf
+    url: fk_07382911
   - title: "Muller v. Oregon: Supreme Court Opinion"
-    url: fk_07382912.pdf
+    url: fk_07382912
   - title: "Muller v. Oregon: Transcript of Record"
-    url: fk_07382913.pdf
+    url: fk_07382913
   - title: "Ritchie v. People: Abstract of Record 1"
-    url: fk_99000002_03.pdf
+    url: fk_99000002_03
   - title: "Ritchie v. People: Abstract of Record 10"
-    url: fk_99000002_12.pdf
+    url: fk_99000002_12
   - title: "Ritchie v. People: Abstract of Record 2"
-    url: fk_99000002_04.pdf
+    url: fk_99000002_04
   - title: "Ritchie v. People: Abstract of Record 3"
-    url: fk_99000002_05.pdf
+    url: fk_99000002_05
   - title: "Ritchie v. People: Abstract of Record 4"
-    url: fk_99000002_06.pdf
+    url: fk_99000002_06
   - title: "Ritchie v. People: Abstract of Record 5"
-    url: fk_99000002_07.pdf
+    url: fk_99000002_07
   - title: "Ritchie v. People: Abstract of Record 8"
-    url: fk_99000002_08.pdf
+    url: fk_99000002_08
   - title: "Ritchie v. People: Abstract of Record 9"
-    url: fk_99000002_09.pdf
+    url: fk_99000002_09
   - title: "Ritchie v. People: Brief and Argument of Defendant in Error"
-    url: fk_99000002_01.pdf
+    url: fk_99000002_01
   - title: "Ritchie v. People: Brief and Argument of Plaintiff in Error"
-    url: fk_99000002_02.pdf
+    url: fk_99000002_02
   - title: "Ritchie v. People: Opinion of Nebraska"
-    url: fk_99000002_09.pdf
+    url: fk_99000002_09
   - title: "Ritchie v. People: Various Documents"
-    url: fk_99000002_09.pdf
+    url: fk_99000002_09
   - title: "Ritchie v. Wayman: Brief and Argument for Appellants by Louis Brandeis"
-    url: fk_99000003_7_r2.pdf
+    url: fk_99000003_7_r2
   - title: "Ritchie v. Wayman: Brief and Argument for Appellees"
-    url: fk_99000003_5_r2.pdf
+    url: fk_99000003_5_r2
   - title: "Ritchie v. Wayman: Brief and Argument for John E. W. Wayman"
-    url: fk_99000003_1_r2.pdf
+    url: fk_99000003_1_r2
   - title: "Ritchie v. Wayman: Demurrer to Bill of Complaint"
-    url: fk_99000003_3_r2.pdf
+    url: fk_99000003_3_r2
   - title: "Ritchie v. Wayman: Records & Briefs"
-    url: fk_99000003_4_r2.pdf
+    url: fk_99000003_4_r2
   - title: "Ritchie v. Wayman: Ritchie Complaint"
-    url: fk_99000003_2_r2.pdf
+    url: fk_99000003_2_r2
 ---
 
 <img alt="Men working 1. Photograph by Rubenstein. UNITE HERE Archives, Kheel Center, Cornell University Date: Circa 1885" src="/img/5780pb31f14ip400g.jpg" style="margin:auto;display:block;" />
@@ -71,7 +71,7 @@ Arguing for the position that the Oregon ten hour law was constitutional was Lou
 
 The states’ ability to regulate private commercial enterprises on the justification of protecting the health of women and children was how the issue was framed in *Muller v. Oregon*, although many other economic and political issues were explicitly and implicitly present in these cases.
 
-*Muller v. Oregon* was the first case argued before the United States Supreme Court to rely upon what came to be known as a [Brandeis Brief](/documents/fk_07382911.pdf). The first Brandeis Brief, submitted to the United States Supreme Court in *Muller v. Oregon*, consisted of a detailed compendium of facts and legal background, legal history, prepared under a one month deadline by Florence Kelley and Josephine Goldmark, a colleague at the National Consumers’ League and the sister in law of Louis Brandeis.
+*Muller v. Oregon* was the first case argued before the United States Supreme Court to rely upon what came to be known as a [Brandeis Brief](/documents/fk_07382911). The first Brandeis Brief, submitted to the United States Supreme Court in *Muller v. Oregon*, consisted of a detailed compendium of facts and legal background, legal history, prepared under a one month deadline by Florence Kelley and Josephine Goldmark, a colleague at the National Consumers’ League and the sister in law of Louis Brandeis.
 
 The first Brandeis Brief was revolutionary for United States Supreme Court practice. After the victory for the National Consumers’ League in the *Muller* decision, handed down February 24, 1908, Louis Brandeis argued before the Supreme Court of Illinois in a case challenging the constitutionality of a recently enacted ten hour statute, modeled exactly upon Oregon law upheld by the United States Supreme Court. That case, *Ritchie v. Wayman*, 91 N.E. 695 (1910)(*Ritchie II*) was decided in favor of upholding the constitutionality of the new Illinois ten hour law on April 21, 1910.
 

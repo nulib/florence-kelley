@@ -4,35 +4,35 @@ image_file: site/altgeldTest.jpg
 image_caption: "John Peter Altgeld"
 related_content:
   - title: "Altgeld Denys It: He Gives His Side of the Loan Story"
-    url: fk_31110020.pdf
+    url: fk_31110020
   - title: "Altgeld Has Not Answered"
-    url: fk_31110021.pdf
+    url: fk_31110021
   - title: "Chicago National Bank to Move to Unity Building"
-    url: fk_31110022.pdf
+    url: fk_31110022
   - title: "Eagle Forgotten: The Life of John Peter Altgeld"
-    url: fk_00796431.pdf
+    url: fk_00796431
   - title: "John P. Algeld of Lake View Nominated By Democrats"
-    url: fk_31110019.pdf
+    url: fk_31110019
   - title: "John Peter Altgeld: A Spokesman for Democracy"
-    url: fk_01265753.pdf
+    url: fk_01265753
   - title: "Obituary: Career of John Peter Altgeld"
-    url: fk_31110037.pdf
+    url: fk_31110037
   - title: "Obituary: Ex-Gov. J.P. Altgeld Dead"
-    url: fk_31110024.pdf
+    url: fk_31110024
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
   - title: "Sarahs Choice"
-    url: fk_1028529.pdf
+    url: fk_1028529
   - title: "Tattlings of a Retired Politician: A Million Dollar Bribe"
-    url: fk_31110023.pdf
+    url: fk_31110023
   - title: "The Administration of Governor John Peter Altgeld of Illinois 1893-1897"
-    url: fk_00877655.pdf
+    url: fk_00877655
   - title: "The Cost of Something for Nothing"
-    url: fk_01529885.pdf
+    url: fk_01529885
   - title: "The Pullman Strike: the Story of a Unique Experiment and of a Great Labor Upheaval"
-    url: fk_00232352.pdf
+    url: fk_00232352
   - title: "Will Altgeld Please Explain?"
-    url: fk_31110025.pdf
+    url: fk_31110025
 ---
 <img alt="John Peter Altgeld" src="/img/altgeldTest.jpg" style="margin:auto;display:block;" />
 <p class="has-text-centered is-italic is-size-7">Photo: John Peter Altgeld</p>

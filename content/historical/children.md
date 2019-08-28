@@ -18,7 +18,7 @@ related_content:
   - title: "On Some Changes in the Legal Status of the Child Since Blackstone"
     url:
   - title: "Our Toiling Children"
-    url: fk_70090029.pdf
+    url: fk_70090029
   - title: "Preventive Work for Children Discussed at the Conference of the Bureau of Charities"
     url:
   - title: "Preventive Work for Children Societies Will Discuss the Subject in a Series of Papers"
@@ -44,11 +44,11 @@ Florence Kelley’s first and unwavering commitment was to to improving the live
 
 For Florence Kelley, the children should be out of the sweatshops and bars and off the factory floor and streets, and in school. Always a teacher herself, her multiplicity of projects always had as their goal getting the children out from under their workloads and into a school.
 
-Mothers and children were a primary focus of the [Hull-House mission](/documents/fk_04451105.pdf), whether it was providing food for those who had none, or just offering a temporary spot to leave the baby.
+Mothers and children were a primary focus of the [Hull-House mission](/documents/fk_04451105), whether it was providing food for those who had none, or just offering a temporary spot to leave the baby.
 
-In the Nineteenth Ward the mothers worked, the fathers if they were present, worked; the older children took care of the younger children; as soon as they were old enough the [children worked](/documents/fk_01643285.pdf). Since the homes where every one worked, ate and slept were crowded, the children were often out on the street, in the back alleys or foraging in the streets or railroad yards.
+In the Nineteenth Ward the mothers worked, the fathers if they were present, worked; the older children took care of the younger children; as soon as they were old enough the [children worked](/documents/fk_01643285). Since the homes where every one worked, ate and slept were crowded, the children were often out on the street, in the back alleys or foraging in the streets or railroad yards.
 
-Then there was the question of the [health of the children](/documents/fk_04418389_2.pdf) in the nineteenth ward and, generally, in the factories and tenements in Illinois. [factory inspection reports](/documents/fk_12995219_01.pdf) Florence Kelley and the other women who documented how people worked and lived were fanatical about the need for fresh air and clean water.
+Then there was the question of the [health of the children](/documents/fk_04418389_2) in the nineteenth ward and, generally, in the factories and tenements in Illinois. [factory inspection reports](/documents/fk_12995219_01) Florence Kelley and the other women who documented how people worked and lived were fanatical about the need for fresh air and clean water.
 
 The health issues were always primary, whether it was vaccination or containing the smallpox epidemic, or getting rid of the garbage. Advocacy for the health of women became the central tenet of the legal battle in [Ritchie v. People](/legal/court) and the subsequent cases before the United States Supreme Court.
 
