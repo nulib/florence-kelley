@@ -2,9 +2,10 @@
 label: nope
 pid: fk_IMAGES
 title: Images
-year: 
-author: 
+year:
+author:
 order: '473'
 layout: single
 collection: documents
 ---
+<iframe src="https://northwestern.app.box.com/embed/s/gag62f2ygkvs1svo8ejbitxy0pmzq4lf?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
