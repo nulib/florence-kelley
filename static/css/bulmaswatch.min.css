@@ -4028,7 +4028,7 @@ a.list-item {
   padding: 20px; }
 
 .navbar {
-  background-color: #3A3F44;
+  background-color: #000;
   min-height: 4rem;
   position: relative;
   z-index: 30; }
@@ -6904,7 +6904,7 @@ label.panel-block {
       background-color: rgba(32, 35, 40, 0.1); }
     .navbar .navbar-item:hover,
     .navbar .navbar-link:hover {
-      color: white;
+      color: yellow;
       border-left: 1px solid rgba(10, 10, 10, 0.2);
       background-color: rgba(10, 10, 10, 0.2); }
   .navbar.is-white .navbar-item,
