@@ -4,45 +4,45 @@ image_file: site/i19989thmb.jpg
 image_caption: "8 hour strike Chicago Typographical Union #16."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Annual Report of the Department of Health of the City of Chicago 1893"
-    url: fk_04418389_1.pdf
+    url: fk_04418389_1
   - title: "Annual Report of the Department of Health of the City of Chicago 1894"
-    url: fk_04418389_2.pdf
+    url: fk_04418389_2
   - title: "Annual Report of the Factory Inspectors of Illinois, 1899"
-    url: fk_12995219_07.pdf
+    url: fk_12995219_07
   - title: "As Others See Chicago: Impressions of Visitors, 1673-1933"
-    url: fk_01870344.pdf
+    url: fk_01870344
   - title: "Biennial Report of the Department of Health of the City of Chicago 1895-96"
-    url: fk_04420608.pdf
+    url: fk_04420608
   - title: "Centennial History of Illinois: vol. 5 (The Modern Commonwealth, 1893-1918)"
-    url: fk_00771461.pdf
+    url: fk_00771461
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Chicago and the American Literary Imagination, 1880-1920"
-    url: fk_00908681.pdf
+    url: fk_00908681
   - title: "Flaws in the Law: Supreme Court Punctures the Eight-Hour Act"
-    url: fk_31120016.pdf
+    url: fk_31120016
   - title: "If Christ Came to Chicago"
-    url: fk_02010144.pdf
+    url: fk_02010144
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
   - title: "The Chicago Strike"
-    url: fk_02485689.pdf
+    url: fk_02485689
   - title: "The Pullman Strike : the Story of a Unique Experiment and of a Great Labor Upheaval"
-    url: fk_00232352.pdf
+    url: fk_00232352
   - title: "The Tenements of Chicago, 1908-1935"
-    url: fk_03009084.pdf
+    url: fk_03009084
   - title: "Truancy and Non-Attendance in the Chicago Schools: A Study of the Social Aspects of the Compulsory"
-    url: fk_00237739.pdf
+    url: fk_00237739
   - title: "Education and Child Labor Legislation of Illinois"
-    url: fk_1009969.pdf
+    url: fk_1009969
   - title: "Vice in Chicago"
-    url: fk_00238294.pdf
+    url: fk_00238294
 ---
 Date | Description
 :---: | :---

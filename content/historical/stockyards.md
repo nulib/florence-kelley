@@ -4,15 +4,15 @@ image_file: site/i15014thmb.jpg
 image_caption: "Big sewer entering Bubble Creek Branch."
 related_content:
   - title: "1890 Census: Report On Vital & Social Statistics in the U.S"
-    url: fk_03194297.pdf
+    url: fk_03194297
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "If Christ Came to Chicago"
-    url: fk_02010144.pdf
+    url: fk_02010144
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "The Workers: an Experiment in Reality: The West"
-    url: fk_00700194.pdf
+    url: fk_00700194
 ---
 
 Chronicled in historical accounts, photographs, novels, and newspapers, the stockyards were the icon and essence of 1890’s Chicago – Hog butcher for the world The hub of the new transnational railroad system, the stockyards were where animals – cattle, sheep, pigs – were brought to wait to be slaughtered in of the great [meat processing plants](http://www.encyclopedia.chicagohistory.org/pages/804.html), named after the families whose fortunes they made. The stockyards became themselves the symbol of the engine of economic growth and its excesses.

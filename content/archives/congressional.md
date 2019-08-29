@@ -6,6 +6,6 @@ image_file: site/i03889thmb.jpg
 
 Year | Title
 --- | ---
-1865 | [Abolition of Slavery](/fk_documents/fk_01311865.pdf)
-1921 | [Public Protection of Maternity & Infancy: Hearings](/fk_documents/fk_13768477.pdf)
-1899 | [Slums of the Great Cities - Baltimore, Chicago, Philadelphia & New York](/fk_documents/fk_34440001.pdf)
+1865 | [Abolition of Slavery](/documents/fk_01311865)
+1921 | [Public Protection of Maternity & Infancy: Hearings](/documents/fk_13768477)
+1899 | [Slums of the Great Cities - Baltimore, Chicago, Philadelphia & New York](/documents/fk_34440001)

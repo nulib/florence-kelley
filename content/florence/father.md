@@ -4,33 +4,33 @@ image_file: site/KelleyWilliamDarrah.jpg
 image_caption:  "William Darrah Kelley"
 related_content:
   - title: "Abolition of Slavery"
-    url: fk_01311865.pdf
+    url: fk_01311865
   - title: "Florence Kelley to Nicholas Kelley, April 16, 1902"
-    url: fk_31110070.pdf
+    url: fk_31110070
   - title: "Florence Kelley to Nicholas Kelley, Aug. 21, 1902"
-    url: fk_31110075.pdf
+    url: fk_31110075
   - title: "Florence Kelley to Nicholas Kelley, Aug. 3, 1902"
-    url: fk_31110074.pdf
+    url: fk_31110074
   - title: "Florence Kelley to Nicholas Kelley, Dec. 1, 1902"
-    url: fk_31110076.pdf
+    url: fk_31110076
   - title: "Florence Kelley to Nicholas Kelley, July 3, 1902"
-    url: fk_31110073.pdf
+    url: fk_31110073
   - title: "Florence Kelley to Nicholas Kelley, June 13, 1902"
-    url: fk_31110071.pdf
+    url: fk_31110071
   - title: "Florence Kelley to Nicholas Kelley, June 29, 1902"
-    url: fk_31110072.pdf
+    url: fk_31110072
   - title: "Judge Kelley's Will"
-    url: fk_31110005.pdf
+    url: fk_31110005
   - title: "Judge William D. Kelley's Estate"
-    url: fk_31110006.pdf
+    url: fk_31110006
   - title: "Letters from Europe"
-    url: fk_01564781.pdf
+    url: fk_01564781
   - title: "Obituary: William D. Kelley is Dead"
-    url: fk_31110037.pdf
+    url: fk_31110037
   - title: "Our Toiling Children"
-    url: fk_70090029.pdf
+    url: fk_70090029
   - title: "The Shooting of Judge Kelley's Son"
-    url: fk_31110011.pdf
+    url: fk_31110011
 ---
 <img alt="William Darrah Kelley" src="/img/KelleyWilliamDarrah.jpg" style="margin:auto;display:block;" />
 <p class="has-text-centered is-italic is-size-7">William Darrah Kelley</p>

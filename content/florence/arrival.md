@@ -2,19 +2,19 @@
 title: "Arrival at Hullhouse"
 related_content:
   - title: "Amusements: John T. Raymond at Hooley's"
-    url: fk_31120048.pdf
+    url: fk_31120048
   - title: "Hull House Maps and Papers"
-    url: fk_01643285.pdf
+    url: fk_01643285
   - title: "If Christ Came to Chicago"
-    url: fk_02010144.pdf
+    url: fk_02010144
   - title: "Judge Kelley's Daughter Married"
-    url: fk_31110004.pdf
+    url: fk_31110004
   - title: "Kelley v. Wischnewetzy: Certificate of Evidence"
-    url: fk_99000005_01.pdf
+    url: fk_99000005_01
   - title: "Letters from Europe"
-    url: fk_01564781.pdf
+    url: fk_01564781
   - title: "Twenty Years at Hull House"
-    url: fk_20455554.pdf
+    url: fk_20455554
 ---
 <img alt="Florence Kelley and her husband, Lazare Wischnewetsky, with their son, Nicholas, and Lazare's mother, 1885. From Sklar, Katherine Notes of Sixty Years: The Autobiography of Florence Kelley, p. 60" src="/img/04451105_0068.jpg" style="margin:auto;display:block;" />
 <p class="has-text-centered is-italic is-size-7">Florence Kelley and her husband, Lazare Wischnewetsky, with their son, Nicholas, and Lazare's mother, 1885. From Sklar, Katherine Notes of Sixty Years: The Autobiography of Florence Kelley, p. 60</p>

@@ -3,21 +3,21 @@ title: "Florence Kelley"
 layout: single
 related_content:
   - title: "Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)"
-    url: fk_01831220.pdf
+    url: fk_01831220
   - title: "Eagle Forgotten: The Life of John Peter Altgeld"
-    url: fk_00796431.pdf
+    url: fk_00796431
   - title: "Essentials in Factory Inspection"
-    url: fk_1010992.pdf
+    url: fk_1010992
   - title: "Factory Inspection in the United States"
-    url: fk_2762420.pdf
+    url: fk_2762420
   - title: "Factory Legislation for Women in the United States"
-    url: fk_2761716.pdf
+    url: fk_2761716
   - title: "Hull House Maps and Papers"
-    url: fk_01643285.pdf
+    url: fk_01643285
   - title: "Letters from Europe"
-    url: fk_01564781.pdf
+    url: fk_01564781
   - title: "Levy Mayer and the New Industrial Era"
-    url: fk_00223510.pdf
+    url: fk_00223510
 ---
 <img alt="Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44" src="/img/florence-kelley.jpg" style="margin:auto;display:block;" />
 <p class="has-text-centered is-italic is-size-7">Photo: Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44</p>

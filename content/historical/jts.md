@@ -4,23 +4,23 @@ image_file: site/i17309thmb.jpg
 image_caption: "Cooking class, Chicago Hebrew Institution."
 related_content:
   - title: "Annual Reports of the Jewish Training School 1890"
-    url: fk_40381219_1890.pdf
+    url: fk_40381219_1890
   - title: :Annual Reports of the Jewish Training School 1892"
-    url: fk_40381219_1892.pdf
+    url: fk_40381219_1892
   - title: "Annual Reports of the Jewish Training School 1893"
-    url: fk_40381219_1893.pdf
+    url: fk_40381219_1893
   - title: "Annual Reports of the Jewish Training School 1894"
-    url: fk_40381219_1894.pdf
+    url: fk_40381219_1894
   - title: "Annual Reports of the Jewish Training School 1895"
-    url: fk_40381219_1895.pdf
+    url: fk_40381219_1895
   - title: "Annual Reports of the Jewish Training School 1896"
-    url: fk_40381219_1896.pdf
+    url: fk_40381219_1896
   - title: "Annual Reports of the Jewish Training School 1897"
-    url: fk_40381219_1897.pdf
+    url: fk_40381219_1897
   - title: "Annual Reports of the Jewish Training School 1899"
-    url: fk_40381219_1899.pdf
+    url: fk_40381219_1899
   - title: "Annual Reports of the Jewish Training School 1900"
-    url: fk_40381219_1990.pdf
+    url: fk_40381219_1990
 ---
 {{< gallery >}}
   {{< figure link="/img/galleries/historical/jts/i17309.jpg" caption="Cooking class, Chicago Hebrew Institution. Description: Cooking class, Chicago Hebrew Institution; Chicago, IL. Source: ICHi-17309. Chicago History Museum. Reproduction of photograph, photographer unknown. Date: 1915." >}}
@@ -41,6 +41,6 @@ The School’s curriculum was based upon corrective measures and training in han
 
 >This is an unfortunate state of affairs, but, endeavor all we will, it is barely possible to do much for the permanent social improvement of the adults. We must leave it to the free institutions of this country to improve them as best they may. But the children we can influence. These saplings can still be bent. Of them we can make clean, honest, useful, educated Americans...."
 
-From: [Second Annual Report of the Executive Board of the Jewish Training School of Chicago](/fk_documents/fk_40381219_1891.pdf), Joseph Stolz, Secretary.
+From: [Second Annual Report of the Executive Board of the Jewish Training School of Chicago](/documents/fk_40381219_1891), Joseph Stolz, Secretary.
 
 next:  [Legal Context](/legal/law/)

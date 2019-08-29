@@ -2,35 +2,35 @@
 title: "Spring - Summer 1892: Working in the Tenements of the 19th Ward"
 related_content:
   - title: "1890 Census: Report On Vital & Social Statistics in the U.S"
-    url: fk_03194297.pdf
+    url: fk_03194297
   - title: "Conditions According to Wealth: Florence Kelley Gives Some Facts About West Side Streets and Alleys"
-    url: fk_31120008.pdf
+    url: fk_31120008
   - title: "Florence Kelley to Mary Thorn Lewis, June 10, 1885"
-    url: fk_31110013.pdf
+    url: fk_31110013
   - title: "Hull House Maps and Papers"
-    url: fk_01643285.pdf
+    url: fk_01643285
   - title: "If Christ Came to Chicago"
-    url: fk_02010144.pdf
+    url: fk_02010144
   - title: "Jane Addams to Florence Kelley, Sept. 13, 1899"
-    url: fk_31110059.pdf
+    url: fk_31110059
   - title: "Labor Legislation for Women and Its Effects on Earnings and Conditions of Labor"
-    url: fk_1017209.pdf
+    url: fk_1017209
   - title: "More Seats Needed Children Forced Out of School for Want of Room"
-    url: fk_19923476.pdf
+    url: fk_19923476
   - title: "Must Have Schools Immediate Duty of Chicago's Board of Education"
-    url: fk_10235612.pdf
+    url: fk_10235612
   - title: "Report and Findings of the Joint Committee to Investigate the 'Sweat Shop' System [together with a transcript of the testimony taken by the committee]"
-    url: fk_10972050.pdf
+    url: fk_10972050
   - title: "Report of the Illinois Bureau of Labor Statistics - 1892 - 7th Biennial"
-    url: fk_2195483-07.pdf
+    url: fk_2195483-07
   - title: "Slums of the Great Cities - Baltimore, Chicago, Philadelphia & New York"
-    url: fk_34440001.pdf
+    url: fk_34440001
   - title: "The Condition of the Working Class in England in 1844"
-    url: fk_1028520.pdf
+    url: fk_1028520
   - title: "Wealth Against Commonwealth"
-    url: fk_01577927.pdf
+    url: fk_01577927
   - title: "Why Filth Abounds: Revelations in Reference to Streets and Alleys"
-    url: fk_31120007.pdf
+    url: fk_31120007
 ---
 <img alt="Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44" src="/img/florence-kelley.jpg" style="margin:auto;display:block;" />
 <p class="has-text-centered is-italic is-size-7">Photo: Florence Kelley as student at Cornell. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 44</p>

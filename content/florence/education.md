@@ -2,21 +2,21 @@
 title: "Education"
 related_content:
   - title: "Abolition of Slavery"
-    url: fk_01311865.pdf
+    url: fk_01311865
   - title: "Courts of Appeals"
-    url: fk_31120027.pdf
+    url: fk_31120027
   - title: "Feed for the Lawyers"
-    url: fk_31120057.pdf
+    url: fk_31120057
   - title: "Florence Kelley to Mary Thorn Lewis, June 10, 1885"
-    url: fk_31110013.pdf
+    url: fk_31110013
   - title: "Letters from Europe"
-    url: fk_01564781.pdf
+    url: fk_01564781
   - title: "On Some Changes in the Legal Status of the Child Since Blackstone"
-    url: fk_9284629.pdf
+    url: fk_9284629
   - title: "Sage Maidens of Cornell University"
-    url: fk_05635845.pdf
+    url: fk_05635845
   - title: "Sister Carrie"
-    url: fk_00381869.pdf
+    url: fk_00381869
 ---
 {{< gallery >}}
   {{< figure link="/img/galleries/florence/education/04451105_0030.jpg" caption="Florence Kelley as a child. From Sklar, Katherine 'Notes of Sixty Years: The Autobiography of Florence Kelley,' p. 22" >}}

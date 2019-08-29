@@ -4,15 +4,15 @@ image_caption: "Men during an eight-hour strike of the Chicago Typographical Uni
 image_file: site/i15130thmb.jpg
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
 ---
 
 Andrew Bruce was born April 15th, 1866 in Nunda Drug, India. Although he would later reside in the United States, he was English by birth. Andrew’s father Edward Archibald Bruce, was a General in the British Army and stationed in India at the time of Andrew’s birth. Andrew first came to the United States at age 15, and would stay there for his education. As a young adult he enrolled in the University of Wisconsin and graduated in 1890 at the age of 24. After graduation he decided to pursue a career in law, and enrolled in the University of Wisconsin Law School.

@@ -4,15 +4,15 @@ image_file: site/DN-0063682thmb.jpg
 image_caption: "Children at Milton Avenue, a shoeless boy holding the hand of a bigger girl."
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
 ---
 
 William M. Farmer was born on June 5, 1853 in Fayette County, Illinois. Farmer’s grandparents resided in both North Carolina and Kentucky. It was William Farmer’s father who first moved to and remained in Illinois. Originating from the south, the Farmer family owned slaves; however, they favored abolition of slavery and were strong supporters of the Union cause during the Civil War.

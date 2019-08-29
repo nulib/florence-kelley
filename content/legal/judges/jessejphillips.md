@@ -4,15 +4,15 @@ image_caption: "8 hour strike Chicago Typographical Union #16."
 image_file: site/i19989thmb.jpg
 related_content:
   - title: "A History of Chicago (Vol. 3: The Rise of a Modern City, 1871-1893)"
-    url: fk_04755641_03.pdf
+    url: fk_04755641_03
   - title: "A History of the City of Chicago Its Men and Institutions: Biographical Sketches of Leading Citizens"
-    url: fk_02023466.pdf
+    url: fk_02023466
   - title: "Centennial History of the City of Chicago: Its Men and Institutions"
-    url: fk_02032274.pdf
+    url: fk_02032274
   - title: "Moran's Dictionary of Chicago and Its Vicinity"
-    url: fk_01884559.pdf
+    url: fk_01884559
   - title: "Politics and Politicians of Chicago, Cook County, and Illinois 1787-1887"
-    url: fk_02006243.pdf
+    url: fk_02006243
 ---
 
 Jesse J. Phillips was born in Montgomery County IL, on May 22, 1837. His parents had been some of Montgomery County’s pioneers after moving from Kentucky. Phillips spent all of his young adult life in Montgomery County, and attended public school there. He received a liberal education at the Hillsboro Academy, and after he graduated in 1857 he decided to pursue a career in law. He studied law at the law offices of Davis and Kingsbury and was admitted into the bar in 1861. He had only practiced law for a year when the outbreak of the Civil War called him to military duty.
