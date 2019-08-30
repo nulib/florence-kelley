@@ -21,7 +21,7 @@ After the war, Mulkey returned home to Illinois, and studied law in Marion, Illi
 
 In June of 1879, Mulkey was elected to the Illinois Supreme Court. In 1885, when he was fifty years old, he took over the role of Supreme Court Justice from Justice Baker, and served a year at this post. He served a total of nine years on the Supreme Court, and in 1888 at the age of 64, decided not to run for re-election. At this time Mulkey retired to a house in Metropolis, Illinois on the Ohio river. In the last year of his life, Mulkey’s health began to fail. Finally on July 9th, 1905, John H. Mulkey died in his home.
 
-Next:  [Jesse J. Phillips](/legal/judge/jessejphillips/)
+Next:  [Jesse J. Phillips](/legal/judges/jessejphillips/)
 
 ---
 Sources:
