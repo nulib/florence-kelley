@@ -23,7 +23,7 @@ In May of 1900, [Mayor Carter H. Harrison II](/legal/mayors/harrisonJr/) appoint
 
 His life, however, came to an unfortunate sudden end. On December 15th, 1902 John Ela was attending a national civil service convention in Philadelphia, and, while reading a document, he suffered a stroke and died shortly thereafter. Not too long before his death, Ela had been told by physicians that he could die suddenly at any moment. Ela had passed the information about his physical instability on to some of his close colleagues; thus his abrupt death was not entirely unexpected. Nonetheless, his death was greatly lamented in the political circles in which Ela had dedicated his life to serving.
 
-Next:  [Levy Mayer](/legal/laweyers/levymayer/)
+Next:  [Levy Mayer](/legal/lawyers/levymayer/)
 
 ---
 Sources:
