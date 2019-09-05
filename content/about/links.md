@@ -30,7 +30,7 @@ back to [top](/about/links/#visit-our-companion-websites)
 - [Alchemy of Bones: Chicago's Leutgert Murder Case of 1897, Robert Loerzel](http://www.alchemyofbones.com/index.htm)
 This web site is a companion to Alchemy of Bones, featuring a wealth of information about the people, places and subjects in the book � including many stories, facts and pictures beyond those in its pages. The author hopes that this Web site will aid people researching the history of Chicago in the 1890s, genealogy, and topics such as criminology and journalism.
 
-- [Chicago Bibliography, Chicago Public Library](https://www.chipublib.org/cplbooksmovies/poptopics/chicagohistory.php)
+- [Chicago Bibliography, Chicago Public Library](https://www.chipublib.org/chicago-history-3/)
 The Chicago Public Library opened its doors to the public in 1873 and has maintained its status of one of the City's most democratic of institutions — providing all Chicagoans with a free and open place to gather, learn, connect, read and be transformed.  The 79 locations of the Chicago Public Library are at the forefront of providing innovative library services, technologies and tools Chicagoans need to achieve their personal goals and to establish the City's role as a competitive force in the global marketplace.
 
 - [Chicago History Museum](http://www.chicagohistory.org/)
@@ -128,7 +128,7 @@ The Charles Booth Online Archive is a searchable resource giving access to archi
 - Historical Census Browser
 The data and terminology presented in the Historical Census Browser are drawn directly from historical volumes of the U.S. Census of Population and Housing. From the University of Virginia, Geospatial and Statistical Data Center
 
-- [Historical Statistics of the United States: Colonial Times to 1970](https://www.census.gov/prod/www/abs/statab.html)
+- [Historical Statistics of the United States: Colonial Times to 1970](https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html)
 Statistical Abstract data present here ranges from our most recent edition to the historical abstracts compiled throughout the decades
 
 - [Homicide In Chicago 1870-1930](http://homicide.northwestern.edu/)
