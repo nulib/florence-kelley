@@ -31,6 +31,8 @@ related_content:
     url: fk_20455554
   - title: "Wealth Against Commonwealth"
     url: fk_01577927
+  - title: "Women and Social Legislation in the United States"
+    url: missing
 ---
 
 The book [Hull House Maps and Papers](/documents/fk_01643285), published in 1895, is a series of essays and statistical information collected by Florence Kelley and her colleagues at Hull House, the settlement house at 335 South Halsted Street.

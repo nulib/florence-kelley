@@ -4,20 +4,21 @@ image_file: site/i52118thmb.jpg
 image_caption: "Two women with basketball. Physical Culture Class."
 ---
 
-[Bibliography from: Kathryn Sklar, “Florence Kelley and the Nation’s Work” (Yale University Press, 1995).](/documentbrowser/?nodeId=57735&page=428) 
+[Bibliography from: Kathryn Sklar, “Florence Kelley and the Nation’s Work” (Yale University Press, 1995).](/documents/fk_04626908#page=428) 
 
-* [Book/Book excerpt](/about/biblography/#Book/Book excerpt)
-* [Correspondence](/about/biblography/#Correspondence)
-* [Court document](/about/biblography/#Court document)
-* [Dissertation](/about/biblography/#Dissertation)
-* [Government document-Illinois, Chicago, other](/about/biblography/#Government document-Illinois, Chicago, other)
-* [Newspaper article](/about/biblography/#Newspaper article)
-* [Periodical article](/about/biblography/#Periodical article)
-* [Report of the Factory Inspectors of Illinois](/about/biblography/#Report of the Factory Inspectors of Illinois)
-* [US Census Bureau Document](/about/biblography/#US Census Bureau Document)
-* [US Congressional Document](/about/biblography/#US Congressional Document)
+* [Book/Book excerpt](#Book/Book excerpt)
+* [Correspondence](#Correspondence)
+* [Court document](#Court document)
+* [Dissertation](#Dissertation)
+* [Government document-Illinois, Chicago, other](#Government document-Illinois, Chicago, other)
+* [Newspaper article](#Newspaper article)
+* [Periodical article](#Periodical article)
+* [Report of the Factory Inspectors of Illinois](#Report of the Factory Inspectors of Illinois)
+* [US Census Bureau Document](#US Census Bureau Document)
+* [US Congressional Document](#US Congressional Document)
 
 ---
+<a name="Book/Book excerpt"></a>
 
 #### Book/Book excerpt
 * **11th National Convention of the National Association of Officials of Bureaus of Labor Statistics** 1895. The Hall and ODonald Litho Co.  
@@ -140,6 +141,8 @@ image_caption: "Two women with basketball. Physical Culture Class."
 
 back to [top](/about/bibliography/#top)
 
+<a name="Correspondence"></a>
+
 #### Correspondence
 * **Alice Hamilton to Florence Kelley, May 31, 1899** 1899. New York City Public Library.
 * **Allied Wood Workers' Trades' Council of Chicago, Jan. 23, 1893** 1893. New York City Public Library.
@@ -198,6 +201,8 @@ back to [top](/about/bibliography/#top)
 
 back to [top](/about/bibliography/#top)
 
+<a name="Court document"></a>
+
 #### Court document
 * **Kelley v. Wischnewetzky: Certificate of Evidence** 1909.
 * **Muller v. Oregon: Brief for Plaintiff in Error** 1908. U.S. Supreme Court. United States Government Printing Office.
@@ -227,6 +232,8 @@ back to [top](/about/bibliography/#top)
 
 back to [top](/about/bibliography/#top)
 
+<a name="Dissertation"></a>
+
 #### Dissertation
 * **A History of the Illinois Manufacturers' Association** 1938. Kelly, Alfred H.. University of Chicago Press.
 * **Contribution of William Bross to the Growth of the City of Chicago** 1953. Hannahan, Mary Jane.
@@ -236,6 +243,8 @@ back to [top](/about/bibliography/#top)
 * **Transcription of Florence Kelley's Thesis "On Some Changes in the Legal Status of the Child Since Blackstone"** 1882. Florence Kelley.
 
 back to [top](/about/bibliography/#top)
+
+<a name="Government document-Illinois, Chicago, other"></a>
 
 #### Government document-Illinois, Chicago, other
 * **1890 Census: Report On Vital & Social Statistics in the U.S** 1896. U.S.Census Office. United States Government Printing Office.
@@ -259,6 +268,8 @@ back to [top](/about/bibliography/#top)
 * **Report on Condition of Woman and Child Wage-Earners in the United States; Volume IX** 1910. United States Government Printing Office.
 
 back to [top](/about/bibliography/#top)
+
+<a name="Newspaper article"></a>
 
 #### Newspaper article
 * **Pig Iron' Kelley's Letters** 1926. New York Times.
@@ -398,6 +409,8 @@ back to [top](/about/bibliography/#top)
 
 back to [top](/about/bibliography/#top)
 
+<a name="Periodical article"></a>
+
 #### Periodical article
 * **Aims and Principles of the Consumers' League** 1899. Kelley, Florence. American Journal of Sociology.
 * **An Effective Child-Labor Law: A Program for the Current Decade** 1903. Kelley, Florence. Annals of the American Academy of Political and Social Science.
@@ -449,6 +462,8 @@ back to [top](/about/bibliography/#top)
 
 back to [top](/about/bibliography/#top)
 
+<a name="Report of the Factory Inspectors of Illinois"></a>
+
 #### Report of the Factory Inspectors of Illinois
 * **Annual Report of the Factory Inspectors of Illinois on Small Pox in the Tenement House Sweat-Shops of Chicago (First Special Report)** 1894. Kelley, Florence. Illinois Office of Inspectors of Factories and Workshops.
 * **Annual Report of the Factory Inspectors of Illinois, 1893** 1893. Illinois Office of Inspectors of Factories and Workshops. Illinois Office of Inspectors of Factories and Workshops.
@@ -461,10 +476,14 @@ back to [top](/about/bibliography/#top)
 
 back to [top](/about/bibliography/#top)
 
+<a name="US Census Bureau Document"></a>
+
 #### US Census Bureau Document
 * **Negro Population in the United States, 1790-1915** 1918. U.S. Census. United States Government Printing Office.
 
 back to [top](/about/bibliography/#top)
+
+<a name="US Congressional Document"></a>
 
 #### US Congressional Document
    **"Maternity and Infancy in Debate," Congressional Record Proceedings and Debates for the First Session of the 69th Congress** 1926. U.S. Senate.

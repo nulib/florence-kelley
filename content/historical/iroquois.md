@@ -19,7 +19,7 @@ The Mayor, the second [Carter Harrison](/legal/mayors/harrisonJr) elected in 189
 
 The Mayor was held, released under *habeas corpus*, and eventually absolved from liability. In November of that year, a month before the fire, the Mayor had been told the violations were so numerous it was impossible for the City to enforce the ordinances.
 
-The theatre owners, Harry J. Powers and Will J. Davis, were sued individually for 575 counts of manslaughter. Their defense attorney was [Levy Mayer](/kelley/historical/mayer). The motion to quash the criminal indictments was argued by Levy Mayer before Judge Kersten, Chief Judge of the Criminal Court. Later other attorneys joined the defense.
+The theatre owners, Harry J. Powers and Will J. Davis, were sued individually for 575 counts of manslaughter. Their defense attorney was [Levy Mayer](/historical/mayer). The motion to quash the criminal indictments was argued by Levy Mayer before Judge Kersten, Chief Judge of the Criminal Court. Later other attorneys joined the defense.
 
 Judge Kersten quashed the criminal indictments and also dismissed the common law counts. The case was moved out of Chicago. The civil case did eventually go to trial in Vermillion country in March of 1907, more than three years after the deaths. At one point more than 100 actions for damages at law were filed. None of these cases reached a jury. No one was held liable in civil or criminal action, and no fines were paid.
 

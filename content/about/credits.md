@@ -64,7 +64,7 @@ The Florence Kelley Project was made possible by the generous contributions and 
 - [Cornell University Library](https://www.library.cornell.edu/)
 - Cornell University ILR School, [Kheel Center Archives](https://catherwood.library.cornell.edu/)
 - U.S. congressional documents courtesy of Lexis Nexis, a division of Reed Elsevier Inc.
-- Images courtesy of [Gale Supreme Court Records and Briefs](https://www.gale.com/SupremeCourt) (Muller v. Oregon court documents)
+- Images courtesy of [Gale Supreme Court Records and Briefs](https://www.gale.com/c/making-of-modern-law-us-supreme-court-records-and-briefs-1832-1978) (Muller v. Oregon court documents)
 - Daily InterOcean articles, thanks to [Cengage Learning](https://www.cengage.com/), formerly Thomson Learning
 - [JSTOR](https://www.jstor.org/)
 - [Proquest](https://www.proquest.com/)

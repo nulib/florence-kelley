@@ -18,9 +18,9 @@ related_content:
   - title: "Annual Reports of the Jewish Training School 1897"
     url: fk_40381219_1897
   - title: "Annual Reports of the Jewish Training School 1899"
-    url: fk_40381219_1899
+    url: fk_40381219_1898
   - title: "Annual Reports of the Jewish Training School 1900"
-    url: fk_40381219_1990
+    url: fk_40381219_1899
 ---
 {{< gallery >}}
   {{< figure link="/img/galleries/historical/jts/i17309.jpg" caption="Cooking class, Chicago Hebrew Institution. Description: Cooking class, Chicago Hebrew Institution; Chicago, IL. Source: ICHi-17309. Chicago History Museum. Reproduction of photograph, photographer unknown. Date: 1915." >}}
