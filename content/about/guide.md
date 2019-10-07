@@ -30,7 +30,3 @@ The Factory Inspection Reports and other documents here include the names and ad
 A library of several hundred photos is accessed with each page view. Some pages -e.g. [Lives of Children](/historical/children/) - have one or more specific images directly associated with them.
 
 ---
-**Need help?**
-[Contact us](/about/feedback/) with questions or comments.
-
----

@@ -41,6 +41,5 @@ Sources:
 - http://www.encyclopedia.chicagohistory.org/browse/bioshell.html?bioP&PowersJohnny
 - Sifakis, Carl. The Encyclopedia of American Crime. New York: Facts on File Inc., 2005, as cited by http://en.wikipedia.org/wiki/Aldermen%27s_Wars
 - http://www.iep.utm.edu/a/addamsj.htm
-- http://www.roosevelt.edu/chicagohistory/mod2-chap2.htm
 - http://www.encyclopedia.chicagohistory.org/browse/bioshell.html?bioP&PowersJohnny
 - http://www.encyclopedia.chicagohistory.org/pages/987.html

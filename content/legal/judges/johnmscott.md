@@ -28,4 +28,4 @@ Next:  [Simeon Peter Shope](/legal/judges/simeonpetershope/)
 ---
 Sources:
 - Chicago Legal News 30(1886-1898):217
-- City of Bloomington, http://www.cityblm.org/department.asp?dep_id=2755&menuid=2791
+- City of Bloomington, Illinois http://www.cityblm.org

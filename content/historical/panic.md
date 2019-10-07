@@ -60,7 +60,7 @@ A man coming to work in Chicago in 1893 might have sought a night’s lodging:
 
 William Stead, [If Christ Came to Chicago](/documents/fk_02010144) pp 161-162
 
-For further reading, see, Charles Hoffman, [The Depression of the Nineties, An Economic History](http://www.greenwood.com/catalog/HOD%252f.aspx), Greenwood Publishing (1970).
+For further reading, see, Charles Hoffman, [The Depression of the Nineties, An Economic History](http://www.worldcat.org/oclc/797196952), Greenwood Publishing (1970).
 
 Next:  [The Haymarket](/historical/haymarket)
 

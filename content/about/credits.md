@@ -57,7 +57,7 @@ The Florence Kelley Project was made possible by the generous contributions and 
 - [Chicago History Museum](http://www.chicagohistory.org/): Gary T. Johnson, President; Rob Medina, Rights & Reproductions
 - [Supreme Court of Illinois Library](http://www.illinoiscourts.gov/SupremeCourt/library.asp), Springfield, Illinois:
 - Brenda Larison, Supreme Court Librarian
-- [Illinois State Library](http://www.cyberdriveillinois.com/departments/library/), Springfield, Illinois: Jim Shepard, Information Systems Coordinator
+- [Illinois State Library](https://www.cyberdriveillinois.com/departments/library/), Springfield, Illinois: Jim Shepard, Information Systems Coordinator
 - Illinois State Archives
 - David Ferriero, [Andrew W. Mellon Director of the New York Public Libraries](https://www.nypl.org/press/2004/ferriero.cfm)
 - [New York Public Library](https://www.nypl.org/), Manuscripts and Archives Division: Thomas Lannon, William Stingone; Photographic Services & Permissions: Thomas Lisanti

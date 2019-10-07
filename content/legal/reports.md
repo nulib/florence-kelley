@@ -33,7 +33,7 @@ The details of the inspections, the descriptions of what the investigators saw a
 
 The Annual Factory Inspection Reports were occasionally supplemented by Special Reports, such as the [First Special Report of the Factory Inspectors of Illinois on Small-Pox in the Tenement House Sweat-Shops of Chicago](/documents/fk_12739373), July 1, 1894. Again, the agenda for these Reports was multifaceted, more than the simple accumulation of factual detail.
 
-In addition to being mandated by the legislation, Reports under the [Factory and Workshop Inspection Law](/documentbrowser/?nodeid=57324&page=111) and the reality they described were powerful tools to advocate for more public schools, or improved garbage collection or the provision of clean water, services allegedly provided by the City to the [Nineteenth Ward](http://www.encyclopedia.chicagohistory.org/pages/1304.html).
+In addition to being mandated by the legislation, Reports under the [Factory and Workshop Inspection Law](/documents/fk_00221726) and the reality they described were powerful tools to advocate for more public schools, or improved garbage collection or the provision of clean water, services allegedly provided by the City to the [Nineteenth Ward](http://www.encyclopedia.chicagohistory.org/pages/1304.html).
 
 The Annual Reports are legal history, urban history, advocacy petitions, and most importantly writings chronicling how people lived and worked at this time, in this place, as observed by the people, mostly women, who went to investigate.
 
