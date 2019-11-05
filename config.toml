@@ -47,3 +47,12 @@ disqusShortname = "" # Optional, add Disqus shortname for comments
   weight = 5
 	 identifier = "about"
   url = "/about/"
+
+[[menu.main]]
+  name = "Search"
+  weight = 6
+	 identifier = "search"
+  url = "/search/"
+
+[outputs]
+  home = ["HTML", "JSON"]

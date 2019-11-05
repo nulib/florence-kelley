@@ -1,5 +1,7 @@
 {{- $.Scratch.Add "index" slice -}}
-{{- range where $.Pages "Section" "database" -}}
-    {{- $.Scratch.Add "index" (dict "CaseNumber" .Params.CaseDescriptionCaseNumber "CaseDescription" .Params.CaseDescription "DateOfOffense" .Params.CircumstancesDateOfOffense "VictimName" .Params.VictimName "DefendantName" .Params.DefendantName "Address" .Params.CircumstancesAddress "Circumstances" .Params.CircumstancesCircumstancesDescription "Location" .Params.CircumstancesLocationDescription "Sentence" .Params.LegalLengthOfSentence "contents" .Plain "permalink" .Permalink) -}}
+{{- range .Site.RegularPages -}}
+  {{ if ne .Section "documents" }}
+    {{- $.Scratch.Add "index" (dict "title" .Title "contents" .Plain "permalink" .Permalink) -}}
+  {{ end }}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
