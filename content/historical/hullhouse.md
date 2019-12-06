@@ -39,7 +39,7 @@ Subtitled ‘a Presentation of Nationalities and Wages in a Congested District o
 
 Although the book presents itself unpretentiously as an occasional collection of straightforward essays, the research for this volume took place over several years and occurred under the auspices of different sponsors and projects, directed by Florence Kelley and others. The support of Hull House was critical throughout.
 
-The [spectacular maps](http://homicide.northwestern.edu/pubs/hullhouse/Maps/) are modeled upon similar research on poverty and living conditions in London done by [Charles Booth](https://booth.lse.ac.uk/). The arresting beauty of these maps, and their economy of presentation of detailed information, have made them classics.
+The [spectacular maps](http://homicide.northwestern.edu/pubs/hullhouse/maps/) are modeled upon similar research on poverty and living conditions in London done by [Charles Booth](https://booth.lse.ac.uk/). The arresting beauty of these maps, and their economy of presentation of detailed information, have made them classics.
 
 The book was published by Thomas Y. Crowell and Co. (Boston) as part of a series on economics and politics, edited by Professor Richard Ely at the University of Wisconsin.
 
@@ -49,7 +49,7 @@ Data were recorded on a series of ‘schedules’, now called data collection in
 
 To collect this information the schedule men and Florence Kelley, the director of the Chicago portion of the research, and their assistants knocked on doors, went into homes and sweatshops, and asked the residents in the designated geographical area questions about their ethnic origins, the number of people in the household, the wages earned by the principal wage earner, and how many weeks the principal wage earner had been employed.
 
-This demographic information was then represented in [one](http://homicide.northwestern.edu/docs_fk/homicide/HullHouse/NATMAP1) of the four maps, as well as recorded on the schedules to be included in the statistical tables of the United States Bureau of Labor Report, [The Slums of the Great Cities](/documents/fk_34440001).
+This demographic information was then represented in [one](https://homicide.northwestern.edu/docs_fk/homicide/HullHouse/NATMAP1.pdf) of the four maps, as well as recorded on the schedules to be included in the statistical tables of the United States Bureau of Labor Report, [The Slums of the Great Cities](/documents/fk_34440001).
 
 This work, in the middle of the 1893 Chicago summer, was laborious, time consuming, tedious, and path breaking. It built upon prior investigations and research Florence Kelley and others had done for the Illinois Bureau of Labor Statistics, as well as previous research on child labor and other investigations of the tenements and sweatshops in Chicago. It presaged the way information would be collected and presented in the [Annual Reports](/documents/fk_01831220) of the Factory Inspector of Illinois.
 

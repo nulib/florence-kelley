@@ -5,10 +5,10 @@ image_caption: "Carter H. Harrison II"
 related_content:
   - title: "Carter Henry Harrison: A Memoir"
     url: fk_01464088
-aliases: [/legal/mayors/harrisonjr/]
+aliases: [/legal/mayors/harrisonJr/]
 ---
 
-Carter H. Harrison II was the 30th mayor of Chicago, in office from 1897-1905 and then again from 1911-1915. His father, [Carter H. Harrison](/legal/mayors/harrisonSr/), also served as mayor of Chicago from 1879-1887. Harrison senior was re-elected 1893 for a fifth term, but was [assassinated](http://homicide.northwestern.edu/database/916/?page=1) in his home by a failed politician named Patrick Eugene Prendergast on October 28th, 1893. Earlier that day Harrison Senior had announced in a speech “I intend to live for more than half a century! And at the end of that half century London will tremble lest Chicago shall surpass her.”
+Carter H. Harrison II was the 30th mayor of Chicago, in office from 1897-1905 and then again from 1911-1915. His father, [Carter H. Harrison](/legal/mayors/harrisonsr/), also served as mayor of Chicago from 1879-1887. Harrison senior was re-elected 1893 for a fifth term, but was [assassinated](http://homicide.northwestern.edu/database/916/?page=1) in his home by a failed politician named Patrick Eugene Prendergast on October 28th, 1893. Earlier that day Harrison Senior had announced in a speech “I intend to live for more than half a century! And at the end of that half century London will tremble lest Chicago shall surpass her.”
 
 Although the Daley family, (Richard Joseph Daley and Richard Michael Daley) are today noted for their domination of the Chicago political scene, the same can be said for the Harrison family in the late 19th and early 20th century. Both Carter H. Harrison Jr. and senior were elected to five terms in office accounting for 10 of 17 mayoral elections from 1879 until the outbreak of World War I. Carter H. Harrison Jr. greatly respected his father and resembled him in appearance and political policy.
 
@@ -20,4 +20,4 @@ The largest controversy Harrison faced in his administration was known as the �
 
 Like his father, Harrison Jr. was an ardent Democrat and believed morality should not be a part of politics. In regards to gambling, prohibition, prostitution and other vices, Harrison adopted a “live and let live” policy. However, the political opposition to vice which surrounded the 1911 mayoral election forced Harrison to use Chicago Police to close several brothels in the city. Ironically, coming down hard on [prostitution](http://www.encyclopedia.chicagohistory.org/pages/1015.html) is what Harrison is most remembered for in Chicago. At the end of his fifth term, Harrison was physically weary from the strain of politics, and after being defeated in the 1915 Democratic primary, he officially retired from politics.
 
-Next:  [Carter Harrison](/legal/mayors/harrisonSr/)
+Next:  [Carter Harrison](/legal/mayors/harrisonsr/)

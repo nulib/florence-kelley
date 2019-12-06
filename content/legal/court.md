@@ -77,4 +77,4 @@ The first Brandeis Brief was revolutionary for United States Supreme Court pract
 
 Louis D. Brandeis was appointed Justice of the United States Supreme Court in February of 1916.
 
-Next:  [Mayors and Aldermen](/legal/mayors/)
+Next:  [Mayors and Aldermen](/legal/mayors/harrisonjr/)
