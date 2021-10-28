@@ -3,5 +3,5 @@
 
 for FILE in content/documents/*.md; do
     pdf_file="$(basename "${FILE%%.*}")"
-    echo "\n\n{{< embed-pdf url="./documents/$pdf_file.pdf" >}}" >> $FILE
+    printf "\n\n{{< embed-pdf url="https://florencekelley.northwestern.edu/pdfs/$pdf_file.pdf" >}}" >> $FILE
 done;
