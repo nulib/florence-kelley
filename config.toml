@@ -56,3 +56,7 @@ disqusShortname = "" # Optional, add Disqus shortname for comments
 
 [outputs]
   home = ["HTML", "JSON"]
+
+[deployment]
+name = "production"
+URL = "s3://florencekelley.northwestern.edu"
