@@ -5,7 +5,6 @@
 # Image files
 /static/images_fk
 /static/img
-/static/documents
 
 ## OS Files
 # Windows
@@ -16,6 +15,7 @@ $RECYCLE.BIN/
 
 # PDF Documents
 /static/fk_documents
+/static/pdfs
 
 # OSX
 .DS_Store
