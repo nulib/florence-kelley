@@ -16,6 +16,6 @@ $RECYCLE.BIN/
 # PDF Documents
 /static/fk_documents
 /static/pdfs
-
+.hugo_build.lock
 # OSX
 .DS_Store
