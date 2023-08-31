@@ -10,3 +10,9 @@
 .nohover {
   pointer-events: none;
 }
+
+iframe {
+  background: #d3d3d3; 
+
+}
+
