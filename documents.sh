@@ -5,7 +5,7 @@
 add_shortcode() {
     for FILE in content/documents/*.md; do
         pdf_file="$(basename "${FILE%%.*}")"
-        printf "\n\n{{< embed-pdf url="https://florencekelley.northwestern.edu/pdfs/$pdf_file.pdf" >}}#" >> $FILE
+        printf "\n\n{{< embed-pdf url="/pdfs/$pdf_file.pdf" >}}#" >> $FILE
     done;
 }
 
