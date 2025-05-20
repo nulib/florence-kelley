@@ -43,7 +43,7 @@ unsafe=true
   name = "Archives"
   weight = 4
 	 identifier = "archives"
-  url = "/archives/book/"
+  url = "/archives/"
 
 [[menu.main]]
   name = "About"
