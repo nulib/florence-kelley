@@ -10,4 +10,4 @@ collection: documents
 ---
 
 
-{{< embed-pdf url=https://florencekelley.northwestern.edu/pdfs/fk_ritchie-opinion.pdf >}}
+{{< embed-pdf url=/pdfs/fk_ritchie-opinion.pdf >}}
