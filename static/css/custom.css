@@ -16,3 +16,56 @@ iframe {
 
 }
 
+/* This is for the findbar page */
+/* Compress vertical space */
+.hero.is-primary {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.hero-body {
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+/* Flex layout for title/subtitle + button */
+.hero-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* Allow wrap on small screens */
+}
+
+/* Group title and subtitle vertically */
+.title-block {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Optional: space out the download button */
+.download-btn {
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .hero-flex {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .download-btn {
+    align-self: flex-end;
+    margin-top: 1rem;
+  }
+}
+
+/* pdfjs-viewer-element */
+pdfjs-viewer-element {
+  width: 100%;
+  display: block;
+}
+
+.hiddenSidebar {
+  display: none !important;
+}
