@@ -12,19 +12,30 @@
       <h3 class="subtitle">
         By {{ .Params.author }}, {{ .Params.year }}
       </h3>
+	  <a class="button is-white" align="right" href="/pdfs/{{ .Params.pid }}.pdf">Download</a>
     </div>
   </div>
 </section>
 
 <section class="section">
   <div class="container">
-    <a class="button is-white" href="/pdfs/{{ .Params.pid }}.pdf">Download</a>
-    <div class="content has-text-centered">
       {{ .Content }}
-    </div>
   </div>
 </section>
 
 {{ end }}
 
 {{ define "footer" }} {{ partial "footer" .}} {{ end }}
+
+<script>
+  const urlParams = new URLSearchParams(window.location.search);
+  const page = urlParams.get('page');
+  const pdfViewer = document.getElementById('pdf-viewer');
+
+  if (page && !isNaN(page) && page > 0) {
+    pdfViewer.setAttribute('page', page);
+  } else {
+    pdfViewer.setAttribute('page', '1');
+  }
+
+</script>
