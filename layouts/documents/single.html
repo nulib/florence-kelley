@@ -30,7 +30,17 @@
 
 <script>
   const urlParams = new URLSearchParams(window.location.search);
-  const page = urlParams.get('page');
+  const hashParams = window.location.hash.split('#')[1];
+  let page;
+
+  if (urlParams.has('page')) {
+    page = urlParams.get('page');
+  } else if (hashParams && hashParams.includes('page=')) {
+    page = hashParams.split('page=')[1].split('&')[0];
+  } else {
+    page = null;
+  }
+
   const pdfViewer = document.getElementById('pdf-viewer');
 
   if (page && !isNaN(page) && page > 0) {
@@ -38,6 +48,5 @@
   } else {
     pdfViewer.setAttribute('page', '1');
   }
-
 </script>
  {{ end }}
