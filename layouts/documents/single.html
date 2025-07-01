@@ -25,7 +25,8 @@
 
 {{ end }}
 
-{{ define "footer" }} {{ partial "footer" .}} {{ end }}
+{{ define "footer" }}
+  {{ partial "footer" .}}
 
 <script>
   const urlParams = new URLSearchParams(window.location.search);
@@ -39,3 +40,4 @@
   }
 
 </script>
+ {{ end }}
