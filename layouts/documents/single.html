@@ -7,14 +7,16 @@
 
 <section class="hero is-primary">
   <div class="hero-body">
-    <div class="container">
-      <h2 class="title is-italic">
-        {{ .Title }}
-      </h2>
-      <h3 class="subtitle">
-        By {{ .Params.author }}, {{ .Params.year }}
-      </h3>
-	  <a class="button is-white" align="right" href="/pdfs/{{ .Params.pid }}.pdf">Download</a>
+    <div class="container hero-flex">
+      <div class="title-block">
+        <h2 class="title is-italic">
+          {{ .Title }}
+        </h2>
+        <h3 class="subtitle">
+          By {{ .Params.author }}, {{ .Params.year }}
+        </h3>
+      </div>
+      <a class="button is-white" align="right" href="/pdfs/{{ .Params.pid }}.pdf">Download</a>
     </div>
   </div>
 </section>
